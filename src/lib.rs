@@ -6,5 +6,8 @@
 
 #[macro_use] extern crate serde;
 
+pub mod currency;
+pub use currency::*;
+
 pub mod timezone;
 pub use timezone::*;

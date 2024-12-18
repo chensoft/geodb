@@ -21,3 +21,4 @@ criterion = "0.5"
 serde = { version = "1", features = ["derive"] }
 chrono = "0.4"
 chrono-tz = "0.10"
+iso_currency = "0.5"
