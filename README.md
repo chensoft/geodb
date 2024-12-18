@@ -23,7 +23,7 @@ A collection of geographical information
 [windows-badge]: https://github.com/chensoft/geodb/actions/workflows/windows.yml/badge.svg
 [windows-url]: https://github.com/chensoft/geodb/actions/workflows/windows.yml
 
-## Quick Start
+## Example
 
 ```rust
 fn main() {
@@ -33,6 +33,10 @@ fn main() {
 ## Documentation
 
 The documentation is [available here](https://docs.rs/geodb).
+
+## Datasets
+
+* [DataHub Country Codes](https://github.com/datasets/country-codes)
 
 ## License
 
