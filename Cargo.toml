@@ -1,6 +1,6 @@
 [package]
 name = "geodb"
-version = "0.1.0-alpha1"
+version = "0.1.0-alpha2"
 edition = "2021"
 authors = ["Jian Chen <admin@chensoft.com>"]
 license = "MIT"
@@ -8,13 +8,16 @@ description = "A collection of geographical information"
 documentation = "https://docs.rs/geodb"
 repository = "https://github.com/chensoft/geodb"
 readme = "README.md"
-keywords = ["geodb"]
+keywords = ["country", "timezone", "language", "currency"]
 
 [[bench]]
 name = "bench"
 harness = false
 
-[dependencies]
-
 [dev-dependencies]
 criterion = "0.5"
+
+[dependencies]
+serde = { version = "1", features = ["derive"] }
+chrono = "0.4"
+chrono-tz = "0.10"
