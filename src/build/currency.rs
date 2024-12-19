@@ -48,6 +48,16 @@ pub enum Currency {
 }
 
 impl Currency {
+    /// Get currency from code
+    pub fn from_code(code: &str) -> Option<Self> {
+        match code {
+{{#each currencies}}
+            "{{this.code}}" => Some(Self::{{this.code}}),
+{{/each}}
+            _ => None,
+        }
+    }
+
     /// ISO 4217 currency code
     pub fn code(&self) -> &str {
         match self {

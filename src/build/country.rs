@@ -9,10 +9,10 @@ use handlebars::Handlebars;
 #[serde(default)]
 pub struct Country {
     /// e.g., "US"
-    pub alpha2: String,
+    pub code2: String,
 
     /// e.g., "USA"
-    pub alpha3: String,
+    pub code3: String,
 
     /// e.g., 840
     pub numeric: i32,
@@ -24,7 +24,7 @@ pub static COUNTRIES: LazyLock<IndexMap<String, Country>> = LazyLock::new(|| {
 
     for val in csv.deserialize() {
         let val: Country = val.expect("parse country failed");
-        map.insert(val.alpha2.clone(), val);
+        map.insert(val.code2.clone(), val);
     }
 
     map
@@ -40,25 +40,50 @@ pub fn generate() -> Result<()> {
 #[derive(Debug, Clone, Copy, Hash, Eq, PartialEq, Ord, PartialOrd, Serialize, Deserialize)]
 pub enum Country {
 {{#each countries}}
-    {{this.alpha2}},
+    {{this.code2}},
 {{/each}}
 }
 
 impl Country {
+    /// Get country from code
+    pub fn from_code(code: &str) -> Option<Self> {
+        match code {
+{{#each countries}}
+            "{{this.code2}}" => Some(Self::{{this.code2}}),
+{{/each}}
+
+{{#each countries}}
+            "{{this.code3}}" => Some(Self::{{this.code2}}),
+{{/each}}
+
+            _ => None,
+        }
+    }
+
+    /// Get country from number
+    pub fn from_num(num: i32) -> Option<Self> {
+        match num {
+{{#each countries}}
+            {{this.numeric}} => Some(Self::{{this.code2}}),
+{{/each}}
+            _ => None,
+        }
+    }
+
     /// ISO 3166-1 alpha2 code
-    pub fn alpha2(&self) -> &str {
+    pub fn code2(&self) -> &str {
         match self {
 {{#each countries}}
-            Self::{{this.alpha2}} => "{{this.alpha2}}",
+            Self::{{this.code2}} => "{{this.code2}}",
 {{/each}}
         }
     }
 
     /// ISO 3166-1 alpha3 code
-    pub fn alpha3(&self) -> &str {
+    pub fn code3(&self) -> &str {
         match self {
 {{#each countries}}
-            Self::{{this.alpha2}} => "{{this.alpha3}}",
+            Self::{{this.code2}} => "{{this.code3}}",
 {{/each}}
         }
     }
@@ -67,7 +92,7 @@ impl Country {
     pub fn numeric(&self) -> i32 {
         match self {
 {{#each countries}}
-            Self::{{this.alpha2}} => {{this.numeric}},
+            Self::{{this.code2}} => {{this.numeric}},
 {{/each}}
         }
     }
