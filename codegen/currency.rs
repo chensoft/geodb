@@ -17,8 +17,17 @@ pub struct Currency {
     /// e.g., 2
     pub minor: i32,
 
+    /// e.g., "$"
+    pub symbol: String,
+
+    /// e.g., "Dollar"
+    pub unit: String,
+
     /// e.g., "US Dollar"
     pub name: String,
+
+    /// e.g., "US Dollars"
+    pub plural: String,
 }
 
 pub static CURRENCIES: LazyLock<IndexMap<String, Currency>> = LazyLock::new(|| {
@@ -95,11 +104,38 @@ impl Currency {
         }
     }
 
-    /// ISO 4217 currency name
+    /// Currency symbol
+    pub fn symbol(&self) -> &str {
+        match self {
+{{#each currencies}}
+            Self::{{this.code}} => "{{this.symbol}}",
+{{/each}}
+        }
+    }
+
+    /// Unit refers to the standard currency measure
+    pub fn unit(&self) -> &str {
+        match self {
+{{#each currencies}}
+            Self::{{this.code}} => "{{this.unit}}",
+{{/each}}
+        }
+    }
+
+    /// ISO 4217 currency english name
     pub fn name(&self) -> &str {
         match self {
 {{#each currencies}}
             Self::{{this.code}} => "{{this.name}}",
+{{/each}}
+        }
+    }
+
+    /// The form of the currency name used when referring to more than one unit
+    pub fn plural(&self) -> &str {
+        match self {
+{{#each currencies}}
+            Self::{{this.code}} => "{{this.plural}}",
 {{/each}}
         }
     }
