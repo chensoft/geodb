@@ -60,9 +60,9 @@ impl Country {
         }
     }
 
-    /// Get country from number
-    pub fn from_num(num: i32) -> Option<Self> {
-        match num {
+    /// Get country from numeric
+    pub fn from_numeric(numeric: i32) -> Option<Self> {
+        match numeric {
 {{#each countries}}
             {{this.numeric}} => Some(Self::{{this.code2}}),
 {{/each}}

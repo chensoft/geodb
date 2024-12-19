@@ -58,6 +58,16 @@ impl Currency {
         }
     }
 
+    /// Get currency from numeric
+    pub fn from_numeric(numeric: i32) -> Option<Self> {
+        match numeric {
+{{#each countries}}
+            {{this.numeric}} => Some(Self::{{this.code}}),
+{{/each}}
+            _ => None,
+        }
+    }
+
     /// ISO 4217 currency code
     pub fn code(&self) -> &str {
         match self {
