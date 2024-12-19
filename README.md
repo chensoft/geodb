@@ -37,6 +37,7 @@ The documentation is [available here](https://docs.rs/geodb).
 ## Reference
 
 * [ISO 3166-1](https://www.iso.org/obp/ui/#search)
+* [ISO 4217](https://www.six-group.com/en/products-services/financial-information/data-standards.html)
 * [DataHub Country Codes](https://github.com/datasets/country-codes)
 
 ## License
