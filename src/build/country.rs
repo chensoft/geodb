@@ -8,10 +8,10 @@ use handlebars::Handlebars;
 #[derive(Debug, Default, Clone, Serialize, Deserialize)]
 #[serde(default)]
 pub struct Country {
-    /// e.g., US
+    /// e.g., "US"
     pub alpha2: String,
 
-    /// e.g., USA
+    /// e.g., "USA"
     pub alpha3: String,
 
     /// e.g., 840
