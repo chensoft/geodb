@@ -9,6 +9,7 @@ documentation = "https://docs.rs/geodb"
 repository = "https://github.com/chensoft/geodb"
 readme = "README.md"
 keywords = ["country", "timezone", "language", "currency"]
+build = "src/build/build.rs"
 
 [[bench]]
 name = "bench"
