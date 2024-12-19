@@ -34,8 +34,9 @@ fn main() {
 
 The documentation is [available here](https://docs.rs/geodb).
 
-## Datasets
+## Reference
 
+* [ISO 3166-1](https://www.iso.org/obp/ui/#search)
 * [DataHub Country Codes](https://github.com/datasets/country-codes)
 
 ## License
