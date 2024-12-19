@@ -6,10 +6,12 @@
 
 #[macro_use] extern crate serde;
 
+pub mod continent;
+pub mod country;
 pub mod currency;
-pub use currency::*;
-
 pub mod timezone;
-mod country;
 
+pub use continent::*;
+pub use country::*;
+pub use currency::*;
 pub use timezone::*;
