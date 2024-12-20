@@ -1,250 +1,250 @@
-code2,code3,numeric,currency
-AD,AND,020,
-AE,ARE,784,
-AF,AFG,004,
-AG,ATG,028,
-AI,AIA,660,
-AL,ALB,008,
-AM,ARM,051,
-AO,AGO,024,
-AQ,ATA,010,
-AR,ARG,032,
-AS,ASM,016,
-AT,AUT,040,
-AU,AUS,036,
-AW,ABW,533,
-AX,ALA,248,
-AZ,AZE,031,
-BA,BIH,070,
-BB,BRB,052,
-BD,BGD,050,
-BE,BEL,056,
-BF,BFA,854,
-BG,BGR,100,
-BH,BHR,048,
-BI,BDI,108,
-BJ,BEN,204,
-BL,BLM,652,
-BM,BMU,060,
-BN,BRN,096,
-BO,BOL,068,
-BQ,BES,535,
-BR,BRA,076,
-BS,BHS,044,
-BT,BTN,064,
-BV,BVT,074,
-BW,BWA,072,
-BY,BLR,112,
-BZ,BLZ,084,
-CA,CAN,124,
-CC,CCK,166,
-CD,COD,180,
-CF,CAF,140,
-CG,COG,178,
-CH,CHE,756,
-CI,CIV,384,
-CK,COK,184,
-CL,CHL,152,
-CM,CMR,120,
-CN,CHN,156,
-CO,COL,170,
-CR,CRI,188,
-CU,CUB,192,
-CV,CPV,132,
-CW,CUW,531,
-CX,CXR,162,
-CY,CYP,196,
-CZ,CZE,203,
-DE,DEU,276,
-DJ,DJI,262,
-DK,DNK,208,
-DM,DMA,212,
-DO,DOM,214,
-DZ,DZA,012,
-EC,ECU,218,
-EE,EST,233,
-EG,EGY,818,
-EH,ESH,732,
-ER,ERI,232,
-ES,ESP,724,
-ET,ETH,231,
-FI,FIN,246,
-FJ,FJI,242,
-FK,FLK,238,
-FM,FSM,583,
-FO,FRO,234,
-FR,FRA,250,
-GA,GAB,266,
-GB,GBR,826,
-GD,GRD,308,
-GE,GEO,268,
-GF,GUF,254,
-GG,GGY,831,
-GH,GHA,288,
-GI,GIB,292,
-GL,GRL,304,
-GM,GMB,270,
-GN,GIN,324,
-GP,GLP,312,
-GQ,GNQ,226,
-GR,GRC,300,
-GS,SGS,239,
-GT,GTM,320,
-GU,GUM,316,
-GW,GNB,624,
-GY,GUY,328,
-HK,HKG,344,
-HM,HMD,334,
-HN,HND,340,
-HR,HRV,191,
-HT,HTI,332,
-HU,HUN,348,
-ID,IDN,360,
-IE,IRL,372,
-IL,ISR,376,
-IM,IMN,833,
-IN,IND,356,
-IO,IOT,086,
-IQ,IRQ,368,
-IR,IRN,364,
-IS,ISL,352,
-IT,ITA,380,
-JE,JEY,832,
-JM,JAM,388,
-JO,JOR,400,
-JP,JPN,392,
-KE,KEN,404,
-KG,KGZ,417,
-KH,KHM,116,
-KI,KIR,296,
-KM,COM,174,
-KN,KNA,659,
-KP,PRK,408,
-KR,KOR,410,
-KW,KWT,414,
-KY,CYM,136,
-KZ,KAZ,398,
-LA,LAO,418,
-LB,LBN,422,
-LC,LCA,662,
-LI,LIE,438,
-LK,LKA,144,
-LR,LBR,430,
-LS,LSO,426,
-LT,LTU,440,
-LU,LUX,442,
-LV,LVA,428,
-LY,LBY,434,
-MA,MAR,504,
-MC,MCO,492,
-MD,MDA,498,
-ME,MNE,499,
-MF,MAF,663,
-MG,MDG,450,
-MH,MHL,584,
-MK,MKD,807,
-ML,MLI,466,
-MM,MMR,104,
-MN,MNG,496,
-MO,MAC,446,
-MP,MNP,580,
-MQ,MTQ,474,
-MR,MRT,478,
-MS,MSR,500,
-MT,MLT,470,
-MU,MUS,480,
-MV,MDV,462,
-MW,MWI,454,
-MX,MEX,484,
-MY,MYS,458,
-MZ,MOZ,508,
-NA,NAM,516,
-NC,NCL,540,
-NE,NER,562,
-NF,NFK,574,
-NG,NGA,566,
-NI,NIC,558,
-NL,NLD,528,
-NO,NOR,578,
-NP,NPL,524,
-NR,NRU,520,
-NU,NIU,570,
-NZ,NZL,554,
-OM,OMN,512,
-PA,PAN,591,
-PE,PER,604,
-PF,PYF,258,
-PG,PNG,598,
-PH,PHL,608,
-PK,PAK,586,
-PL,POL,616,
-PM,SPM,666,
-PN,PCN,612,
-PR,PRI,630,
-PS,PSE,275,
-PT,PRT,620,
-PW,PLW,585,
-PY,PRY,600,
-QA,QAT,634,
-RE,REU,638,
-RO,ROU,642,
-RS,SRB,688,
-RU,RUS,643,
-RW,RWA,646,
-SA,SAU,682,
-SB,SLB,090,
-SC,SYC,690,
-SD,SDN,729,
-SE,SWE,752,
-SG,SGP,702,
-SH,SHN,654,
-SI,SVN,705,
-SJ,SJM,744,
-SK,SVK,703,
-SL,SLE,694,
-SM,SMR,674,
-SN,SEN,686,
-SO,SOM,706,
-SR,SUR,740,
-SS,SSD,728,
-ST,STP,678,
-SV,SLV,222,
-SX,SXM,534,
-SY,SYR,760,
-SZ,SWZ,748,
-TC,TCA,796,
-TD,TCD,148,
-TF,ATF,260,
-TG,TGO,768,
-TH,THA,764,
-TJ,TJK,762,
-TK,TKL,772,
-TL,TLS,626,
-TM,TKM,795,
-TN,TUN,788,
-TO,TON,776,
-TR,TUR,792,
-TT,TTO,780,
-TV,TUV,798,
-TW,TWN,158,
-TZ,TZA,834,
-UA,UKR,804,
-UG,UGA,800,
-UM,UMI,581,
-US,USA,840,
-UY,URY,858,
-UZ,UZB,860,
-VA,VAT,336,
-VC,VCT,670,
-VE,VEN,862,
-VG,VGB,092,
-VI,VIR,850,
-VN,VNM,704,
-VU,VUT,548,
-WF,WLF,876,
-WS,WSM,882,
-YE,YEM,887,
-YT,MYT,175,
-ZA,ZAF,710,
-ZM,ZMB,894,
-ZW,ZWE,716,
+code2,code3,numeric,continent,is_eu,is_un,is_wto,language,currency,dial,tld,name,official,capital
+AD,AND,020,EU,false,true,false,ca-AD,EUR,376,ad,Andorra,Principality of Andorra,Andorra la Vella
+AE,ARE,784,AS,false,true,true,ar-AE,AED,971,ae,UAE,United Arab Emirates,Abu Dhabi
+AF,AFG,004,AS,false,true,false,ps-AF,AFN,93,af,Afghanistan,Islamic Republic of Afghanistan,Kabul
+AG,ATG,028,NA,false,true,true,en-AG,XCD,1,ag,Antigua and Barbuda,Antigua and Barbuda,St. John's
+AI,AIA,660,NA,false,false,false,en,XCD,1,ai,Anguilla,Anguilla,The Valley
+AL,ALB,008,EU,false,true,true,sq-AL,ALL,355,al,Albania,Republic of Albania,Tirana
+AM,ARM,051,AS,false,true,true,hy-AM,AMD,374,am,Armenia,Republic of Armenia,Yerevan
+AO,AGO,024,AF,false,true,true,pt,AOA,244,ao,Angola,Republic of Angola,Luanda
+AQ,ATA,010,AN,false,false,false,en,USD,672,aq,Antarctica,Antarctica,""
+AR,ARG,032,SA,false,true,true,es-AR,ARS,54,ar,Argentina,Argentine Republic,Buenos Aires
+AS,ASM,016,OC,false,false,false,en,USD,1,as,American Samoa,American Samoa,Pago Pago
+AT,AUT,040,EU,true,true,true,de-AT,EUR,43,at,Austria,Republic of Austria,Vienna
+AU,AUS,036,OC,false,true,true,en-AU,AUD,61,au,Australia,Commonwealth of Australia,Canberra
+AW,ABW,533,NA,false,false,false,nl-AW,AWG,297,aw,Aruba,Country of Aruba,Oranjestad
+AX,ALA,248,EU,false,false,false,sv,EUR,358,ax,Åland,Åland,Mariehamn
+AZ,AZE,031,AS,false,true,true,az-AZ,AZN,994,az,Azerbaijan,Republic of Azerbaijan,Baku
+BA,BIH,070,EU,false,true,true,bs-BA,BAM,387,ba,Bosnia and Herzegovina,Bosnia and Herzegovina,Sarajevo
+BB,BRB,052,NA,false,true,true,en,BBD,1,bb,Barbados,Barbados,Bridgetown
+BD,BGD,050,AS,false,true,true,bn-BD,BDT,880,bd,Bangladesh,People's Republic of Bangladesh,Dhaka
+BE,BEL,056,EU,true,true,true,nl-BE,EUR,32,be,Belgium,Kingdom of Belgium,Brussels
+BF,BFA,854,AF,false,true,true,fr,XOF,226,bf,Burkina Faso,Burkina Faso,Ouagadougou
+BG,BGR,100,EU,true,true,true,bg-BG,BGN,359,bg,Bulgaria,Republic of Bulgaria,Sofia
+BH,BHR,048,AS,false,true,true,ar-BH,BHD,973,bh,Bahrain,Kingdom of Bahrain,Manama
+BI,BDI,108,AF,false,true,true,rn,BIF,257,bi,Burundi,Republic of Burundi,Gitega
+BJ,BEN,204,AF,false,true,true,fr,XOF,229,bj,Benin,Republic of Benin,Porto-Novo
+BL,BLM,652,NA,false,false,false,fr,EUR,590,bl,Saint Barthélemy,Collectivité territoriale de Saint-Barthélemy,Gustavia
+BM,BMU,060,NA,false,false,false,en,BMD,1441,bm,Bermuda,Bermuda,Hamilton
+BN,BRN,096,AS,false,true,true,ms,BND,673,bn,Brunei,Brunei Darussalam,Bandar Seri Begawan
+BO,BOL,068,SA,false,true,true,es-BO,BOB,591,bo,Bolivia,Plurinational State of Bolivia,Sucre
+BQ,BES,535,NA,false,false,false,nl,USD,599,bq,Bonaire,Bonaire,Kralendijk
+BR,BRA,076,SA,false,true,true,pt-BR,BRL,55,br,Brazil,Federative Republic of Brazil,Brasilia
+BS,BHS,044,NA,false,true,true,en,BSD,1242,bs,Bahamas,Commonwealth of The Bahamas,Nassau
+BT,BTN,064,AS,false,true,false,dz-BT,BTN,975,bt,Bhutan,Kingdom of Bhutan,Thimphu
+BV,BVT,074,AN,false,false,false,no,NOK,47,bv,Bouvet Island,Bouvet Island,""
+BW,BWA,072,AF,false,true,true,en-BW,BWP,267,bw,Botswana,Republic of Botswana,Gaborone
+BY,BLR,112,EU,false,true,false,be-BY,BYN,375,by,Belarus,Republic of Belarus,Minsk
+BZ,BLZ,084,NA,false,true,true,en,BZD,501,bz,Belize,Belize,Belmopan
+CA,CAN,124,NA,false,true,true,en-CA,CAD,1,ca,Canada,Canada,Ottawa
+CC,CCK,166,AS,false,false,false,en,AUD,61,cc,Cocos (Keeling) Islands,Territory of Cocos (Keeling) Islands,West Island
+CD,COD,180,AF,false,true,true,fr,CDF,243,cd,DR Congo,Democratic Republic of the Congo,Kinshasa
+CF,CAF,140,AF,false,true,true,fr,XAF,236,cf,Central African Republic,Central African Republic,Bangui
+CG,COG,178,AF,false,true,true,fr,XAF,242,cg,Congo,Republic of the Congo,Brazzaville
+CH,CHE,756,EU,false,true,true,de-CH,CHF,41,ch,Switzerland,Swiss Confederation,Bern
+CI,CIV,384,AF,false,true,true,fr,XOF,225,ci,Ivory Coast,Republic of Côte d'Ivoire,Yamoussoukro
+CK,COK,184,OC,false,false,false,en,NZD,682,ck,Cook Islands,Cook Islands,Avarua
+CL,CHL,152,SA,false,true,true,es-CL,CLP,56,cl,Chile,Republic of Chile,Santiago
+CM,CMR,120,AF,false,true,true,fr,XAF,237,cm,Cameroon,Republic of Cameroon,Yaounde
+CN,CHN,156,AS,false,true,true,zh-CN,CNY,86,cn,China,People's Republic of China,Beijing
+CO,COL,170,SA,false,true,true,es-CO,COP,57,co,Colombia,Republic of Colombia,Bogota
+CR,CRI,188,NA,false,true,true,es-CR,CRC,506,cr,Costa Rica,Republic of Costa Rica,San Jose
+CU,CUB,192,NA,false,true,false,es-CU,CUP,53,cu,Cuba,Republic of Cuba,Havana
+CV,CPV,132,AF,false,true,true,pt,CVE,238,cv,Cape Verde,Republic of Cabo Verde,Praia
+CW,CUW,531,NA,false,false,false,nl,ANG,599,cw,Curacao,Country of Curaçao,Willemstad
+CX,CXR,162,OC,false,false,false,en,AUD,61,cx,Christmas Island,Territory of Christmas Island,Flying Fish Cove
+CY,CYP,196,EU,true,true,true,el-CY,EUR,357,cy,Cyprus,Republic of Cyprus,Nicosia
+CZ,CZE,203,EU,true,true,true,cs-CZ,CZK,420,cz,Czechia,Czech Republic,Prague
+DE,DEU,276,EU,true,true,true,de-DE,EUR,49,de,Germany,Federal Republic of Germany,Berlin
+DJ,DJI,262,AF,false,true,true,fr,DJF,253,dj,Djibouti,Republic of Djibouti,Djibouti
+DK,DNK,208,EU,true,true,true,da-DK,DKK,45,dk,Denmark,Kingdom of Denmark,Copenhagen
+DM,DMA,212,NA,false,true,true,en,XCD,1,dm,Dominica,Commonwealth of Dominica,Roseau
+DO,DOM,214,NA,false,true,true,es-DO,DOP,1,do,Dominican Republic,Dominican Republic,Santo Domingo
+DZ,DZA,012,AF,false,true,true,ar-DZ,DZD,213,dz,Algeria,People's Democratic Republic of Algeria,Algiers
+EC,ECU,218,SA,false,true,true,es-EC,USD,593,ec,Ecuador,Republic of Ecuador,Quito
+EE,EST,233,EU,true,true,true,et-EE,EUR,372,ee,Estonia,Republic of Estonia,Tallinn
+EG,EGY,818,AF,false,true,true,ar-EG,EGP,20,eg,Egypt,Arab Republic of Egypt,Cairo
+EH,ESH,732,AF,false,false,false,ar,MAD,212,eh,Western Sahara,Sahrawi Arab Democratic Republic,Laayoune
+ER,ERI,232,AF,false,true,false,ti-ER,ERN,291,er,Eritrea,State of Eritrea,Asmara
+ES,ESP,724,EU,true,true,true,es-ES,EUR,34,es,Spain,Kingdom of Spain,Madrid
+ET,ETH,231,AF,false,true,true,am-ET,ETB,251,et,Ethiopia,Federal Democratic Republic of Ethiopia,Addis Ababa
+FI,FIN,246,EU,true,true,true,fi-FI,EUR,358,fi,Finland,Republic of Finland,Helsinki
+FJ,FJI,242,OC,false,true,true,en,FJD,679,fj,Fiji,Republic of Fiji,Suva
+FK,FLK,238,SA,false,false,false,en,FKP,500,fk,Falkland Islands,Falkland Islands,Stanley
+FM,FSM,583,OC,false,true,false,en,USD,691,fm,Micronesia,Federated States of Micronesia,Palikir
+FO,FRO,234,EU,false,false,false,fo-FO,DKK,298,fo,Faroe Islands,Faroe Islands,Torshavn
+FR,FRA,250,EU,true,true,true,fr-FR,EUR,33,fr,France,French Republic,Paris
+GA,GAB,266,AF,false,true,true,fr,XAF,241,ga,Gabon,Gabonese Republic,Libreville
+GB,GBR,826,EU,false,true,true,en-GB,GBP,44,uk,United Kingdom,United Kingdom of Great Britain and Northern Ireland,London
+GD,GRD,308,NA,false,true,true,en,XCD,1473,gd,Grenada,Grenada,St. George's
+GE,GEO,268,AS,false,true,true,ka-GE,GEL,995,ge,Georgia,Georgia,Tbilisi
+GF,GUF,254,SA,false,false,false,fr,EUR,594,gf,French Guiana,French Guiana,Cayenne
+GG,GGY,831,EU,false,false,false,en,GBP,44,gg,Guernsey,Guernsey,St Peter Port
+GH,GHA,288,AF,false,true,true,en,GHS,233,gh,Ghana,Republic of Ghana,Accra
+GI,GIB,292,EU,false,false,false,en,GIP,350,gi,Gibraltar,Gibraltar,Gibraltar
+GL,GRL,304,NA,false,false,false,kl-GL,DKK,299,gl,Greenland,Greenland,Nuuk
+GM,GMB,270,AF,false,true,true,en,GMD,220,gm,Gambia,Republic of The Gambia,Banjul
+GN,GIN,324,AF,false,true,true,fr,GNF,224,gn,Guinea,Republic of Guinea,Conakry
+GP,GLP,312,NA,false,false,false,fr,EUR,590,gp,Guadeloupe,Guadeloupe,Basse-Terre
+GQ,GNQ,226,AF,false,true,true,es,XAF,240,gq,Equatorial Guinea,Republic of Equatorial Guinea,Malabo
+GR,GRC,300,EU,true,true,true,el-GR,EUR,30,gr,Greece,Hellenic Republic,Athens
+GS,SGS,239,AN,false,false,false,en,GBP,500,gs,South Georgia and the South Sandwich Islands,South Georgia and the South Sandwich Islands,King Edward Point
+GT,GTM,320,NA,false,true,true,es-GT,GTQ,502,gt,Guatemala,Republic of Guatemala,Guatemala City
+GU,GUM,316,OC,false,false,false,en,USD,1671,gu,Guam,Guam,Hagatna
+GW,GNB,624,AF,false,true,true,pt,XOF,245,gw,Guinea-Bissau,Republic of Guinea-Bissau,Bissau
+GY,GUY,328,SA,false,true,true,en,GYD,592,gy,Guyana,Co-operative Republic of Guyana,Georgetown
+HK,HKG,344,AS,false,false,true,zh-HK,HKD,852,hk,Hong Kong,Hong Kong Special Administrative Region of the People's Republic of China,Hong Kong
+HM,HMD,334,AN,false,false,false,en,AUD,672,hm,Heard and McDonald Islands,Territory of Heard Island and McDonald Islands,""
+HN,HND,340,NA,false,true,true,es-HN,HNL,504,hn,Honduras,Republic of Honduras,Tegucigalpa
+HR,HRV,191,EU,true,true,true,hr-HR,EUR,385,hr,Croatia,Republic of Croatia,Zagreb
+HT,HTI,332,NA,false,true,true,fr,HTG,509,ht,Haiti,Republic of Haiti,Port-au-Prince
+HU,HUN,348,EU,true,true,true,hu-HU,HUF,36,hu,Hungary,Hungary,Budapest
+ID,IDN,360,AS,false,true,true,id-ID,IDR,62,id,Indonesia,Republic of Indonesia,Jakarta
+IE,IRL,372,EU,true,true,true,en-IE,EUR,353,ie,Ireland,Ireland,Dublin
+IL,ISR,376,AS,false,true,true,he-IL,ILS,972,il,Israel,State of Israel,Jerusalem
+IM,IMN,833,EU,false,false,false,en,GBP,44,im,Isle of Man,Isle of Man,Douglas
+IN,IND,356,AS,false,true,true,hi-IN,INR,91,in,India,Republic of India,New Delhi
+IO,IOT,086,AS,false,false,false,en,USD,246,io,British Indian Ocean Territory,British Indian Ocean Territory,Diego Garcia
+IQ,IRQ,368,AS,false,true,true,ar-IQ,IQD,964,iq,Iraq,Republic of Iraq,Baghdad
+IR,IRN,364,AS,false,true,false,fa-IR,IRR,98,ir,Iran,Islamic Republic of Iran,Tehran
+IS,ISL,352,EU,false,true,true,is-IS,ISK,354,is,Iceland,Republic of Iceland,Reykjavik
+IT,ITA,380,EU,true,true,true,it-IT,EUR,39,it,Italy,Italian Republic,Rome
+JE,JEY,832,EU,false,false,false,en,GBP,44,je,Jersey,Bailiwick of Jersey,Saint Helier
+JM,JAM,388,NA,false,true,true,en,JMD,1,jm,Jamaica,Jamaica,Kingston
+JO,JOR,400,AS,false,true,true,ar-JO,JOD,962,jo,Jordan,Hashemite Kingdom of Jordan,Amman
+JP,JPN,392,AS,false,true,true,ja-JP,JPY,81,jp,Japan,Japan,Tokyo
+KE,KEN,404,AF,false,true,true,sw-KE,KES,254,ke,Kenya,Republic of Kenya,Nairobi
+KG,KGZ,417,AS,false,true,true,ky-KG,KGS,996,kg,Kyrgyzstan,Kyrgyz Republic,Bishkek
+KH,KHM,116,AS,false,true,true,km-KH,KHR,855,kh,Cambodia,Kingdom of Cambodia,Phnom Penh
+KI,KIR,296,OC,false,true,true,en,AUD,686,ki,Kiribati,Republic of Kiribati,Tarawa
+KM,COM,174,AF,false,true,true,ar,KMF,269,km,Comoros,Union of the Comoros,Moroni
+KN,KNA,659,NA,false,true,true,en,XCD,1,kn,Saint Kitts and Nevis,Federation of Saint Kitts and Nevis,Basseterre
+KP,PRK,408,AS,false,true,false,ko,KPW,850,kp,North Korea,Democratic People's Republic of Korea,Pyongyang
+KR,KOR,410,AS,false,true,true,ko-KR,KRW,82,kr,South Korea,Republic of Korea,Seoul
+KW,KWT,414,AS,false,true,true,ar-KW,KWD,965,kw,Kuwait,State of Kuwait,Kuwait City
+KY,CYM,136,NA,false,false,false,en,KYD,1,ky,Cayman Islands,Cayman Islands,George Town
+KZ,KAZ,398,AS,false,true,true,kk-KZ,KZT,7,kz,Kazakhstan,Republic of Kazakhstan,Nur-Sultan
+LA,LAO,418,AS,false,true,true,lo-LA,LAK,856,la,Laos,Lao People's Democratic Republic,Vientiane
+LB,LBN,422,AS,false,true,true,ar-LB,LBP,961,lb,Lebanon,Lebanese Republic,Beirut
+LC,LCA,662,NA,false,true,true,en,XCD,1,lc,Saint Lucia,Saint Lucia,Castries
+LI,LIE,438,EU,false,true,true,de-LI,CHF,423,li,Liechtenstein,Principality of Liechtenstein,Vaduz
+LK,LKA,144,AS,false,true,true,si-LK,LKR,94,lk,Sri Lanka,Democratic Socialist Republic of Sri Lanka,Colombo
+LR,LBR,430,AF,false,true,true,en,LRD,231,lr,Liberia,Republic of Liberia,Monrovia
+LS,LSO,426,AF,false,true,true,en,LSL,266,ls,Lesotho,Kingdom of Lesotho,Maseru
+LT,LTU,440,EU,true,true,true,lt-LT,EUR,370,lt,Lithuania,Republic of Lithuania,Vilnius
+LU,LUX,442,EU,true,true,true,lb-LU,EUR,352,lu,Luxembourg,Grand Duchy of Luxembourg,Luxembourg
+LV,LVA,428,EU,true,true,true,lv-LV,EUR,371,lv,Latvia,Republic of Latvia,Riga
+LY,LBY,434,AF,false,true,true,ar-LY,LYD,218,ly,Libya,State of Libya,Tripoli
+MA,MAR,504,AF,false,true,true,ar-MA,MAD,212,ma,Morocco,Kingdom of Morocco,Rabat
+MC,MCO,492,EU,false,true,false,fr,EUR,377,mc,Monaco,Principality of Monaco,Monaco
+MD,MDA,498,EU,false,true,true,ro,MDL,373,md,Moldova,Republic of Moldova,Chisinau
+ME,MNE,499,EU,false,true,true,sr-ME,EUR,382,me,Montenegro,Montenegro,Podgorica
+MF,MAF,663,NA,false,false,false,fr,EUR,590,mf,Saint Martin,Saint Martin,Marigot
+MG,MDG,450,AF,false,true,true,mg-MG,MGA,261,mg,Madagascar,Republic of Madagascar,Antananarivo
+MH,MHL,584,OC,false,true,true,en,USD,692,mh,Marshall Islands,Republic of the Marshall Islands,Majuro
+MK,MKD,807,EU,false,true,true,mk-MK,MKD,389,mk,North Macedonia,Republic of North Macedonia,Skopje
+ML,MLI,466,AF,false,true,true,fr,XOF,223,ml,Mali,Republic of Mali,Bamako
+MM,MMR,104,AS,false,true,true,my-MM,MMK,95,mm,Myanmar,Republic of the Union of Myanmar,Naypyidaw
+MN,MNG,496,AS,false,true,true,mn-MN,MNT,976,mn,Mongolia,Mongolia,Ulaanbaatar
+MO,MAC,446,AS,false,false,true,zh-MO,MOP,853,mo,Macao,Macao Special Administrative Region of the People's Republic of China,Macau
+MP,MNP,580,OC,false,false,false,en,USD,1,mp,Northern Mariana Islands,Commonwealth of the Northern Mariana Islands,Saipan
+MQ,MTQ,474,NA,false,false,false,fr,EUR,596,mq,Martinique,Martinique,Fort-de-France
+MR,MRT,478,AF,false,true,true,ar,MRU,222,mr,Mauritania,Islamic Republic of Mauritania,Nouakchott
+MS,MSR,500,NA,false,false,false,en,XCD,1,ms,Montserrat,Montserrat,Plymouth
+MT,MLT,470,EU,true,true,true,mt-MT,EUR,356,mt,Malta,Republic of Malta,Valletta
+MU,MUS,480,AF,false,true,true,en,MUR,230,mu,Mauritius,Republic of Mauritius,Port Louis
+MV,MDV,462,AS,false,true,true,dv-MV,MVR,960,mv,Maldives,Republic of Maldives,Male
+MW,MWI,454,AF,false,true,true,ny,MWK,265,mw,Malawi,Republic of Malawi,Lilongwe
+MX,MEX,484,NA,false,true,true,es-MX,MXN,52,mx,Mexico,United Mexican States,Mexico City
+MY,MYS,458,AS,false,true,true,ms-MY,MYR,60,my,Malaysia,Malaysia,Kuala Lumpur
+MZ,MOZ,508,AF,false,true,true,pt,MZN,258,mz,Mozambique,Republic of Mozambique,Maputo
+NA,NAM,516,AF,false,true,true,en,NAD,264,na,Namibia,Republic of Namibia,Windhoek
+NC,NCL,540,OC,false,false,false,fr,XPF,687,nc,New Caledonia,New Caledonia,Noumea
+NE,NER,562,AF,false,true,true,fr,XOF,227,ne,Niger,Republic of Niger,Niamey
+NF,NFK,574,OC,false,false,false,en,AUD,672,nf,Norfolk Island,Territory of Norfolk Island,Kingston
+NG,NGA,566,AF,false,true,true,en-NG,NGN,234,ng,Nigeria,Federal Republic of Nigeria,Abuja
+NI,NIC,558,NA,false,true,true,es-NI,NIO,505,ni,Nicaragua,Republic of Nicaragua,Managua
+NL,NLD,528,EU,true,true,true,nl-NL,EUR,31,nl,Netherlands,Kingdom of the Netherlands,Amsterdam
+NO,NOR,578,EU,false,true,true,no,NOK,47,no,Norway,Kingdom of Norway,Oslo
+NP,NPL,524,AS,false,true,true,ne-NP,NPR,977,np,Nepal,Federal Democratic Republic of Nepal,Kathmandu
+NR,NRU,520,OC,false,true,true,na,AUD,674,nr,Nauru,Republic of Nauru,Yaren
+NU,NIU,570,OC,false,false,false,en,NZD,683,nu,Niue,Niue,Alofi
+NZ,NZL,554,OC,false,true,true,en-NZ,NZD,64,nz,New Zealand,New Zealand,Wellington
+OM,OMN,512,AS,false,true,true,ar-OM,OMR,968,om,Oman,Sultanate of Oman,Muscat
+PA,PAN,591,NA,false,true,true,es-PA,PAB,507,pa,Panama,Republic of Panama,Panama City
+PE,PER,604,SA,false,true,true,es-PE,PEN,51,pe,Peru,Republic of Peru,Lima
+PF,PYF,258,OC,false,false,false,fr,XPF,689,pf,French Polynesia,French Polynesia,Papeete
+PG,PNG,598,OC,false,true,true,en,PGK,675,pg,Papua New Guinea,Independent State of Papua New Guinea,Port Moresby
+PH,PHL,608,AS,false,true,true,en-PH,PHP,63,ph,Philippines,Republic of the Philippines,Manila
+PK,PAK,586,AS,false,true,true,ur-PK,PKR,92,pk,Pakistan,Islamic Republic of Pakistan,Islamabad
+PL,POL,616,EU,true,true,true,pl-PL,PLN,48,pl,Poland,Republic of Poland,Warsaw
+PM,SPM,666,NA,false,false,false,fr,EUR,508,pm,Saint Pierre and Miquelon,Overseas Collectivity of Saint-Pierre and Miquelon,Saint-Pierre
+PN,PCN,612,OC,false,false,false,en,NZD,64,pn,Pitcairn Islands,"Pitcairn, Henderson, Ducie and Oeno Islands",Adamstown
+PR,PRI,630,NA,false,false,false,es-PR,USD,1,pr,Puerto Rico,Commonwealth of Puerto Rico,San Juan
+PS,PSE,275,AS,false,false,false,ar,ILS,970,ps,Palestine,State of Palestine,East Jerusalem
+PT,PRT,620,EU,true,true,true,pt-PT,EUR,351,pt,Portugal,Portuguese Republic,Lisbon
+PW,PLW,585,OC,false,true,true,en,USD,680,pw,Palau,Republic of Palau,Ngerulmud
+PY,PRY,600,SA,false,true,true,es-PY,PYG,595,py,Paraguay,Republic of Paraguay,Asuncion
+QA,QAT,634,AS,false,true,true,ar-QA,QAR,974,qa,Qatar,State of Qatar,Doha
+RE,REU,638,AF,false,false,false,fr,EUR,262,re,Réunion,La Réunion,Saint-Denis
+RO,ROU,642,EU,true,true,true,ro-RO,RON,40,ro,Romania,Romania,Bucharest
+RS,SRB,688,EU,false,true,true,sr-RS,RSD,381,rs,Serbia,Republic of Serbia,Belgrade
+RU,RUS,643,EU,false,true,true,ru-RU,RUB,7,ru,Russia,Russian Federation,Moscow
+RW,RWA,646,AF,false,true,true,rw-RW,RWF,250,rw,Rwanda,Republic of Rwanda,Kigali
+SA,SAU,682,AS,false,true,true,ar-SA,SAR,966,sa,Saudi Arabia,Kingdom of Saudi Arabia,Riyadh
+SB,SLB,090,OC,false,true,true,en,SBD,677,sb,Solomon Islands,Solomon Islands,Honiara
+SC,SYC,690,AF,false,true,true,fr,SCR,248,sc,Seychelles,Republic of Seychelles,Victoria
+SD,SDN,729,AF,false,true,true,ar-SD,SDG,249,sd,Sudan,Republic of the Sudan,Khartoum
+SE,SWE,752,EU,true,true,true,sv-SE,SEK,46,se,Sweden,Kingdom of Sweden,Stockholm
+SG,SGP,702,AS,false,true,true,en-SG,SGD,65,sg,Singapore,Republic of Singapore,Singapore
+SH,SHN,654,AF,false,false,false,en,SHP,290,sh,Saint Helena,Saint Helena,Jamestown
+SI,SVN,705,EU,true,true,true,sl-SI,EUR,386,si,Slovenia,Republic of Slovenia,Ljubljana
+SJ,SJM,744,EU,false,false,false,no,NOK,47,sj,Svalbard and Jan Mayen,Svalbard and Jan Mayen,Longyearbyen
+SK,SVK,703,EU,true,true,true,sk-SK,EUR,421,sk,Slovakia,Slovak Republic,Bratislava
+SL,SLE,694,AF,false,true,true,en,SLL,232,sl,Sierra Leone,Republic of Sierra Leone,Freetown
+SM,SMR,674,EU,false,true,true,it,EUR,378,sm,San Marino,Republic of San Marino,San Marino
+SN,SEN,686,AF,false,true,true,fr,XOF,221,sn,Senegal,Republic of Senegal,Dakar
+SO,SOM,706,AF,false,true,false,so-SO,SOS,252,so,Somalia,Federal Republic of Somalia,Mogadishu
+SR,SUR,740,SA,false,true,true,nl,SRD,597,sr,Suriname,Republic of Suriname,Paramaribo
+SS,SSD,728,AF,false,true,false,en,SSP,211,ss,South Sudan,Republic of South Sudan,Juba
+ST,STP,678,AF,false,true,true,pt,STN,239,st,Sao Tome and Principe,Democratic Republic of Sao Tome and Principe,Sao Tome
+SV,SLV,222,NA,false,true,true,es-SV,SVC,503,sv,El Salvador,Republic of El Salvador,San Salvador
+SX,SXM,534,NA,false,false,false,nl,ANG,1,sx,Sint Maarten,Sint Maarten,Philipsburg
+SY,SYR,760,AS,false,true,false,ar-SY,SYP,963,sy,Syria,Syrian Arab Republic,Damascus
+SZ,SWZ,748,AF,false,true,true,en,SZL,268,sz,Eswatini,Kingdom of Eswatini,Mbabane
+TC,TCA,796,NA,false,false,false,en,USD,1,tc,Turks and Caicos Islands,Turks and Caicos Islands,Cockburn Town
+TD,TCD,148,AF,false,true,true,fr,XAF,235,td,Chad,Republic of Chad,N'Djamena
+TF,ATF,260,AN,false,false,false,fr,EUR,262,tf,French Southern and Antarctic Lands,French Southern and Antarctic Lands,Port-aux-Francais
+TG,TGO,768,AF,false,true,true,fr,XOF,228,tg,Togo,Togolese Republic,Lome
+TH,THA,764,AS,false,true,true,th-TH,THB,66,th,Thailand,Kingdom of Thailand,Bangkok
+TJ,TJK,762,AS,false,true,true,tg-TJ,TJS,992,tj,Tajikistan,Republic of Tajikistan,Dushanbe
+TK,TKL,772,OC,false,false,false,en,NZD,690,tk,Tokelau,Tokelau Islands,""
+TL,TLS,626,AS,false,true,false,pt,USD,670,tl,East Timor,Democratic Republic of Timor-Leste,Dili
+TM,TKM,795,AS,false,true,false,tk-TM,TMT,993,tm,Turkmenistan,Turkmenistan,Ashgabat
+TN,TUN,788,AF,false,true,true,ar-TN,TND,216,tn,Tunisia,Republic of Tunisia,Tunis
+TO,TON,776,OC,false,true,true,en-TO,TOP,676,to,Tonga,Kingdom of Tonga,Nuku'alofa
+TR,TUR,792,AS,false,true,true,tr-TR,TRY,90,tr,Turkey,Republic of Turkey,Ankara
+TT,TTO,780,NA,false,true,true,en,TTD,1,tt,Trinidad and Tobago,Republic of Trinidad and Tobago,Port of Spain
+TV,TUV,798,OC,false,true,true,en,AUD,688,tv,Tuvalu,Tuvalu,Funafuti
+TW,TWN,158,AS,false,false,true,zh-TW,TWD,886,tw,Taiwan,Republic of China (Taiwan),Taipei
+TZ,TZA,834,AF,false,true,true,sw-TZ,TZS,255,tz,Tanzania,United Republic of Tanzania,Dodoma
+UA,UKR,804,EU,false,true,true,uk-UA,UAH,380,ua,Ukraine,Ukraine,Kiev
+UG,UGA,800,AF,false,true,true,en,UGX,256,ug,Uganda,Republic of Uganda,Kampala
+UM,UMI,581,OC,false,false,false,en,USD,1,um,United States Minor Outlying Islands,United States Minor Outlying Islands,"Washington, D.C."
+US,USA,840,NA,false,true,true,en-US,USD,1,us,United States,United States of America,"Washington, D.C."
+UY,URY,858,SA,false,true,true,es-UY,UYU,598,uy,Uruguay,Oriental Republic of Uruguay,Montevideo
+UZ,UZB,860,AS,false,true,true,uz-UZ,UZS,998,uz,Uzbekistan,Republic of Uzbekistan,Tashkent
+VA,VAT,336,EU,false,true,false,it,EUR,379,va,Vatican City,Vatican City State,Vatican City
+VC,VCT,670,NA,false,true,true,en,XCD,1,vc,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,Kingstown
+VE,VEN,862,SA,false,true,true,es-VE,VES,58,ve,Venezuela,Bolivarian Republic of Venezuela,Caracas
+VG,VGB,092,NA,false,false,false,en,USD,1,vg,British Virgin Islands,Virgin Islands,Road Town
+VI,VIR,850,NA,false,false,false,en,USD,1,vi,United States Virgin Islands,Virgin Islands of the United States,Charlotte Amalie
+VN,VNM,704,AS,false,true,true,vi-VN,VND,84,vn,Vietnam,Socialist Republic of Vietnam,Hanoi
+VU,VUT,548,OC,false,true,true,bi-VU,VUV,678,vu,Vanuatu,Republic of Vanuatu,Port Vila
+WF,WLF,876,OC,false,false,false,fr,XPF,681,wf,Wallis and Futuna,Territory of the Wallis and Futuna Islands,Mata Utu
+WS,WSM,882,OC,false,true,true,sm-WS,WST,685,ws,Samoa,Independent State of Samoa,Apia
+YE,YEM,887,AS,false,true,true,ar-YE,YER,967,ye,Yemen,Republic of Yemen,Sanaa
+YT,MYT,175,AF,false,false,false,fr,EUR,262,yt,Mayotte,Department of Mayotte,Mamoudzou
+ZA,ZAF,710,AF,false,true,true,en-ZA,ZAR,27,za,South Africa,Republic of South Africa,Pretoria
+ZM,ZMB,894,AF,false,true,true,en-ZM,ZMW,260,zm,Zambia,Republic of Zambia,Lusaka
+ZW,ZWE,716,AF,false,true,true,en-ZW,ZWD,263,zw,Zimbabwe,Republic of Zimbabwe,Harare
