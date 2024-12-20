@@ -1,3 +1,4 @@
+mod continent;
 mod country;
 mod currency;
 
@@ -6,6 +7,7 @@ mod currency;
 fn main() -> anyhow::Result<()> {
     println!("cargo::rerun-if-changed=datasets");
 
+    continent::generate()?;
     country::generate()?;
     currency::generate()?;
 
