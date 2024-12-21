@@ -70,7 +70,7 @@ impl Currency {
     /// Get currency from numeric
     pub fn from_numeric(numeric: i32) -> Option<Self> {
         match numeric {
-{{#each countries}}
+{{#each currencies}}
             {{this.numeric}} => Some(Self::{{this.code}}),
 {{/each}}
             _ => None,

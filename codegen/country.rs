@@ -131,10 +131,10 @@ impl Country {
     }
 
     /// Two-letter continent code
-    pub fn continent(&self) -> &str {
+    pub fn continent(&self) -> crate::Continent {
         match self {
 {{#each countries}}
-            Self::{{this.code2}} => "{{this.continent}}",
+            Self::{{this.code2}} => crate::Continent::{{this.continent}},
 {{/each}}
         }
     }
@@ -176,10 +176,10 @@ impl Country {
     }
 
     /// Two-letter currency code
-    pub fn currency(&self) -> &str {
+    pub fn currency(&self) -> crate::Currency {
         match self {
 {{#each countries}}
-            Self::{{this.code2}} => "{{this.currency}}",
+            Self::{{this.code2}} => crate::Currency::{{this.currency}},
 {{/each}}
         }
     }
