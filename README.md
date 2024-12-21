@@ -38,6 +38,7 @@ The documentation is [available here](https://docs.rs/geodb).
 
 * [ISO 3166-1](https://www.iso.org/obp/ui/#search)
 * [ISO 4217](https://www.six-group.com/en/products-services/financial-information/data-standards.html)
+* [Wiki](https://en.wikipedia.org/wiki/Main_Page)
 * [XE](https://www.xe.com/currencyconverter/convert/?Amount=100&From=HKD&To=USD)
 * [Wise](https://wise.com/gb/currency-converter/currencies/usd-us-dollar)
 
