@@ -16,6 +16,39 @@ pub struct Country {
 
     /// e.g., 840
     pub numeric: i32,
+
+    /// e.g., "NA"
+    pub continent: String,
+
+    /// e.g., false
+    pub is_eu: bool,
+
+    /// e.g., false
+    pub is_eea: bool,
+
+    /// e.g., true
+    pub is_un: bool,
+
+    /// e.g., "en-US"
+    pub language: String,
+
+    /// e.g., "USD"
+    pub currency: String,
+
+    /// e.g., "+1"
+    pub dial: String,
+
+    /// e.g., ".us"
+    pub tld: String,
+
+    /// e.g., "United States"
+    pub name: String,
+
+    /// e.g., "United States of America"
+    pub official: String,
+
+    /// e.g., "Washington, D.C."
+    pub capital: String,
 }
 
 pub static COUNTRIES: LazyLock<IndexMap<String, Country>> = LazyLock::new(|| {
@@ -93,6 +126,105 @@ impl Country {
         match self {
 {{#each countries}}
             Self::{{this.code2}} => {{this.numeric}},
+{{/each}}
+        }
+    }
+
+    /// Two-letter continent code
+    pub fn continent(&self) -> &str {
+        match self {
+{{#each countries}}
+            Self::{{this.code2}} => "{{this.continent}}",
+{{/each}}
+        }
+    }
+
+    /// Is it an EU member state?
+    pub fn is_eu(&self) -> bool {
+        match self {
+{{#each countries}}
+            Self::{{this.code2}} => {{this.is_eu}},
+{{/each}}
+        }
+    }
+
+    /// Is it a member of European Economic Area?
+    pub fn is_eea(&self) -> bool {
+        match self {
+{{#each countries}}
+            Self::{{this.code2}} => {{this.is_eea}},
+{{/each}}
+        }
+    }
+
+    /// Is it a formal member of the United Nations?
+    pub fn is_un(&self) -> bool {
+        match self {
+{{#each countries}}
+            Self::{{this.code2}} => {{this.is_un}},
+{{/each}}
+        }
+    }
+
+    /// Main official language codes
+    pub fn language(&self) -> &str {
+        match self {
+{{#each countries}}
+            Self::{{this.code2}} => "{{this.language}}",
+{{/each}}
+        }
+    }
+
+    /// Two-letter currency code
+    pub fn currency(&self) -> &str {
+        match self {
+{{#each countries}}
+            Self::{{this.code2}} => "{{this.currency}}",
+{{/each}}
+        }
+    }
+
+    /// International calling code
+    pub fn dial(&self) -> &str {
+        match self {
+{{#each countries}}
+            Self::{{this.code2}} => "{{this.dial}}",
+{{/each}}
+        }
+    }
+
+    /// ccTLD of the country
+    pub fn tld(&self) -> &str {
+        match self {
+{{#each countries}}
+            Self::{{this.code2}} => "{{this.tld}}",
+{{/each}}
+        }
+    }
+
+    /// Country's abbreviated name
+    pub fn name(&self) -> &str {
+        match self {
+{{#each countries}}
+            Self::{{this.code2}} => "{{this.name}}",
+{{/each}}
+        }
+    }
+
+    /// Country's official name
+    pub fn official(&self) -> &str {
+        match self {
+{{#each countries}}
+            Self::{{this.code2}} => "{{this.official}}",
+{{/each}}
+        }
+    }
+
+    /// Capital name, may be empty as some islands have no capital
+    pub fn capital(&self) -> &str {
+        match self {
+{{#each countries}}
+            Self::{{this.code2}} => "{{this.capital}}",
 {{/each}}
         }
     }
