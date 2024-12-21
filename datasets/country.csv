@@ -2,21 +2,21 @@ code2,code3,numeric,continent,is_eu,is_eea,is_un,language,currency,dial,tld,name
 AD,AND,020,EU,false,false,true,ca-AD,EUR,+376,.ad,Andorra,Principality of Andorra,Andorra la Vella
 AE,ARE,784,AS,false,false,true,ar-AE,AED,+971,.ae,UAE,United Arab Emirates,Abu Dhabi
 AF,AFG,004,AS,false,false,true,ps-AF,AFN,+93,.af,Afghanistan,Islamic Republic of Afghanistan,Kabul
-AG,ATG,028,NA,false,false,true,en-AG,XCD,+1,.ag,Antigua and Barbuda,Antigua and Barbuda,St. John's
-AI,AIA,660,NA,false,false,false,en,XCD,+1,.ai,Anguilla,Anguilla,The Valley
+AG,ATG,028,NA,false,false,true,en-AG,XCD,+1-268,.ag,Antigua and Barbuda,Antigua and Barbuda,St. John's
+AI,AIA,660,NA,false,false,false,en,XCD,+1-264,.ai,Anguilla,Anguilla,The Valley
 AL,ALB,008,EU,false,false,true,sq-AL,ALL,+355,.al,Albania,Republic of Albania,Tirana
 AM,ARM,051,AS,false,false,true,hy-AM,AMD,+374,.am,Armenia,Republic of Armenia,Yerevan
 AO,AGO,024,AF,false,false,true,pt,AOA,+244,.ao,Angola,Republic of Angola,Luanda
 AQ,ATA,010,AN,false,false,false,en,USD,+672,.aq,Antarctica,Antarctica,""
 AR,ARG,032,SA,false,false,true,es-AR,ARS,+54,.ar,Argentina,Argentine Republic,Buenos Aires
-AS,ASM,016,OC,false,false,false,"en,sm",USD,+1,.as,American Samoa,American Samoa,Pago Pago
+AS,ASM,016,OC,false,false,false,"en,sm",USD,+1-684,.as,American Samoa,American Samoa,Pago Pago
 AT,AUT,040,EU,true,true,true,de-AT,EUR,+43,.at,Austria,Republic of Austria,Vienna
 AU,AUS,036,OC,false,false,true,en-AU,AUD,+61,.au,Australia,Commonwealth of Australia,Canberra
 AW,ABW,533,NA,false,false,false,nl-AW,AWG,+297,.aw,Aruba,Country of Aruba,Oranjestad
 AX,ALA,248,EU,false,false,false,sv,EUR,+358,.ax,Åland,Åland,Mariehamn
 AZ,AZE,031,AS,false,false,true,az-AZ,AZN,+994,.az,Azerbaijan,Republic of Azerbaijan,Baku
 BA,BIH,070,EU,false,false,true,"bs-BA,sr,hr",BAM,+387,.ba,Bosnia and Herzegovina,Bosnia and Herzegovina,Sarajevo
-BB,BRB,052,NA,false,false,true,en,BBD,+1,.bb,Barbados,Barbados,Bridgetown
+BB,BRB,052,NA,false,false,true,en,BBD,+1-246,.bb,Barbados,Barbados,Bridgetown
 BD,BGD,050,AS,false,false,true,bn-BD,BDT,+880,.bd,Bangladesh,People's Republic of Bangladesh,Dhaka
 BE,BEL,056,EU,true,true,true,"nl-BE,fr-BE,de-BE",EUR,+32,.be,Belgium,Kingdom of Belgium,Brussels
 BF,BFA,854,AF,false,false,true,ff,XOF,+226,.bf,Burkina Faso,Burkina Faso,Ouagadougou
@@ -25,12 +25,12 @@ BH,BHR,048,AS,false,false,true,ar-BH,BHD,+973,.bh,Bahrain,Kingdom of Bahrain,Man
 BI,BDI,108,AF,false,false,true,"rn,fr,en,sw",BIF,+257,.bi,Burundi,Republic of Burundi,Gitega
 BJ,BEN,204,AF,false,false,true,fr,XOF,+229,.bj,Benin,Republic of Benin,Porto-Novo
 BL,BLM,652,NA,false,false,false,fr,EUR,+590,.bl,Saint Barthélemy,Collectivité territoriale de Saint-Barthélemy,Gustavia
-BM,BMU,060,NA,false,false,false,en,BMD,+1,.bm,Bermuda,Bermuda,Hamilton
+BM,BMU,060,NA,false,false,false,en,BMD,+1-441,.bm,Bermuda,Bermuda,Hamilton
 BN,BRN,096,AS,false,false,true,ms,BND,+673,.bn,Brunei,Brunei Darussalam,Bandar Seri Begawan
 BO,BOL,068,SA,false,false,true,"es-BO,qu,ay,gn",BOB,+591,.bo,Bolivia,Plurinational State of Bolivia,Sucre
 BQ,BES,535,NA,false,false,false,nl,USD,+599,.bq,Bonaire,Bonaire,Kralendijk
 BR,BRA,076,SA,false,false,true,pt-BR,BRL,+55,.br,Brazil,Federative Republic of Brazil,Brasília
-BS,BHS,044,NA,false,false,true,en,BSD,+1,.bs,Bahamas,Commonwealth of The Bahamas,Nassau
+BS,BHS,044,NA,false,false,true,en,BSD,+1-242,.bs,Bahamas,Commonwealth of The Bahamas,Nassau
 BT,BTN,064,AS,false,false,true,dz-BT,BTN,+975,.bt,Bhutan,Kingdom of Bhutan,Thimphu
 BV,BVT,074,AN,false,false,false,no,NOK,+47,.bv,Bouvet Island,Bouvet Island,""
 BW,BWA,072,AF,false,false,true,en-BW,BWP,+267,.bw,Botswana,Republic of Botswana,Gaborone
@@ -58,7 +58,7 @@ CZ,CZE,203,EU,true,true,true,cs-CZ,CZK,+420,.cz,Czechia,Czech Republic,Prague
 DE,DEU,276,EU,true,true,true,de-DE,EUR,+49,.de,Germany,Federal Republic of Germany,Berlin
 DJ,DJI,262,AF,false,false,true,"ar,fr",DJF,+253,.dj,Djibouti,Republic of Djibouti,Djibouti
 DK,DNK,208,EU,true,true,true,da-DK,DKK,+45,.dk,Denmark,Kingdom of Denmark,Copenhagen
-DM,DMA,212,NA,false,false,true,en,XCD,+1,.dm,Dominica,Commonwealth of Dominica,Roseau
+DM,DMA,212,NA,false,false,true,en,XCD,+1-767,.dm,Dominica,Commonwealth of Dominica,Roseau
 DO,DOM,214,NA,false,false,true,es-DO,DOP,+1,.do,Dominican Republic,Dominican Republic,Santo Domingo
 DZ,DZA,012,AF,false,false,true,ar-DZ,DZD,+213,.dz,Algeria,People's Democratic Republic of Algeria,Algiers
 EC,ECU,218,SA,false,false,true,es-EC,USD,+593,.ec,Ecuador,Republic of Ecuador,Quito
@@ -76,7 +76,7 @@ FO,FRO,234,EU,false,false,false,"fo-FO,da",DKK,+298,.fo,Faroe Islands,Faroe Isla
 FR,FRA,250,EU,true,true,true,fr-FR,EUR,+33,.fr,France,French Republic,Paris
 GA,GAB,266,AF,false,false,true,fr,XAF,+241,.ga,Gabon,Gabonese Republic,Libreville
 GB,GBR,826,EU,false,false,true,en-GB,GBP,+44,.uk,United Kingdom,United Kingdom of Great Britain and Northern Ireland,London
-GD,GRD,308,NA,false,false,true,en,XCD,+1,.gd,Grenada,Grenada,St. George's
+GD,GRD,308,NA,false,false,true,en,XCD,+1-473,.gd,Grenada,Grenada,St. George's
 GE,GEO,268,AS,false,false,true,ka-GE,GEL,+995,.ge,Georgia,Georgia,Tbilisi
 GF,GUF,254,SA,false,false,false,fr,EUR,+594,.gf,French Guiana,French Guiana,Cayenne
 GG,GGY,831,EU,false,false,false,"en,fr",GBP,+44,.gg,Guernsey,Guernsey,Saint Peter Port
@@ -90,7 +90,7 @@ GQ,GNQ,226,AF,false,false,true,"es,fr,pt",XAF,+240,.gq,Equatorial Guinea,Republi
 GR,GRC,300,EU,true,true,true,el-GR,EUR,+30,.gr,Greece,Hellenic Republic,Athens
 GS,SGS,239,AN,false,false,false,en,GBP,+500,.gs,South Georgia and the South Sandwich Islands,South Georgia and the South Sandwich Islands,King Edward Point
 GT,GTM,320,NA,false,false,true,es-GT,GTQ,+502,.gt,Guatemala,Republic of Guatemala,Guatemala City
-GU,GUM,316,OC,false,false,false,"en,ch",USD,+1,.gu,Guam,Guam,Hagåtña
+GU,GUM,316,OC,false,false,false,"en,ch",USD,+1-671,.gu,Guam,Guam,Hagåtña
 GW,GNB,624,AF,false,false,true,pt,XOF,+245,.gw,Guinea-Bissau,Republic of Guinea-Bissau,Bissau
 GY,GUY,328,SA,false,false,true,en,GYD,+592,.gy,Guyana,Co-operative Republic of Guyana,Georgetown
 HK,HKG,344,AS,false,false,false,"zh-HK,en-HK",HKD,+852,.hk,Hong Kong,Hong Kong Special Administrative Region of the People's Republic of China,Hong Kong
@@ -110,7 +110,7 @@ IR,IRN,364,AS,false,false,true,fa-IR,IRR,+98,.ir,Iran,Islamic Republic of Iran,T
 IS,ISL,352,EU,false,true,true,is-IS,ISK,+354,.is,Iceland,Republic of Iceland,Reykjavík
 IT,ITA,380,EU,true,true,true,it-IT,EUR,+39,.it,Italy,Italian Republic,Rome
 JE,JEY,832,EU,false,false,false,"fr,en",GBP,+44,.je,Jersey,Bailiwick of Jersey,St Helier
-JM,JAM,388,NA,false,false,true,en,JMD,+1,.jm,Jamaica,Jamaica,Kingston
+JM,JAM,388,NA,false,false,true,en,JMD,+1-876,.jm,Jamaica,Jamaica,Kingston
 JO,JOR,400,AS,false,false,true,ar-JO,JOD,+962,.jo,Jordan,Hashemite Kingdom of Jordan,Amman
 JP,JPN,392,AS,false,false,true,ja-JP,JPY,+81,.jp,Japan,Japan,Tokyo
 KE,KEN,404,AF,false,false,true,"sw-KE,en",KES,+254,.ke,Kenya,Republic of Kenya,Nairobi
@@ -118,15 +118,15 @@ KG,KGZ,417,AS,false,false,true,"ky-KG,ru",KGS,+996,.kg,Kyrgyzstan,Kyrgyz Republi
 KH,KHM,116,AS,false,false,true,km-KH,KHR,+855,.kh,Cambodia,Kingdom of Cambodia,Phnom Penh
 KI,KIR,296,OC,false,false,true,en,AUD,+686,.ki,Kiribati,Republic of Kiribati,Tarawa
 KM,COM,174,AF,false,false,true,"fr,ar",KMF,+269,.km,Comoros,Union of the Comoros,Moroni
-KN,KNA,659,NA,false,false,true,en,XCD,+1,.kn,Saint Kitts and Nevis,Federation of Saint Kitts and Nevis,Basseterre
+KN,KNA,659,NA,false,false,true,en,XCD,+1-869,.kn,Saint Kitts and Nevis,Federation of Saint Kitts and Nevis,Basseterre
 KP,PRK,408,AS,false,false,true,ko,KPW,+850,.kp,North Korea,Democratic People's Republic of Korea,Pyongyang
 KR,KOR,410,AS,false,false,true,ko-KR,KRW,+82,.kr,South Korea,Republic of Korea,Seoul
 KW,KWT,414,AS,false,false,true,ar-KW,KWD,+965,.kw,Kuwait,State of Kuwait,Kuwait City
-KY,CYM,136,NA,false,false,false,en,KYD,+1,.ky,Cayman Islands,Cayman Islands,George Town
+KY,CYM,136,NA,false,false,false,en,KYD,+1-345,.ky,Cayman Islands,Cayman Islands,George Town
 KZ,KAZ,398,AS,false,false,true,"kk-KZ,ru",KZT,+7,.kz,Kazakhstan,Republic of Kazakhstan,Astana
 LA,LAO,418,AS,false,false,true,lo-LA,LAK,+856,.la,Laos,Lao People's Democratic Republic,Vientiane
 LB,LBN,422,AS,false,false,true,ar-LB,LBP,+961,.lb,Lebanon,Lebanese Republic,Beirut
-LC,LCA,662,NA,false,false,true,en,XCD,+1,.lc,Saint Lucia,Saint Lucia,Castries
+LC,LCA,662,NA,false,false,true,en,XCD,+1-758,.lc,Saint Lucia,Saint Lucia,Castries
 LI,LIE,438,EU,false,true,true,de-LI,CHF,+423,.li,Liechtenstein,Principality of Liechtenstein,Vaduz
 LK,LKA,144,AS,false,false,true,"si-LK,ta-LK",LKR,+94,.lk,Sri Lanka,Democratic Socialist Republic of Sri Lanka,Colombo
 LR,LBR,430,AF,false,false,true,en,LRD,+231,.lr,Liberia,Republic of Liberia,Monrovia
@@ -147,10 +147,10 @@ ML,MLI,466,AF,false,false,true,fr,XOF,+223,.ml,Mali,Republic of Mali,Bamako
 MM,MMR,104,AS,false,false,true,my-MM,MMK,+95,.mm,Myanmar,Republic of the Union of Myanmar,Naypyidaw
 MN,MNG,496,AS,false,false,true,mn-MN,MNT,+976,.mn,Mongolia,Mongolia,Ulaanbaatar
 MO,MAC,446,AS,false,false,false,"zh-MO,pt",MOP,+853,.mo,Macao,Macao Special Administrative Region of the People's Republic of China,Macau
-MP,MNP,580,OC,false,false,false,"en,ch",USD,+1,.mp,Northern Mariana Islands,Commonwealth of the Northern Mariana Islands,Saipan
+MP,MNP,580,OC,false,false,false,"en,ch",USD,+1-670,.mp,Northern Mariana Islands,Commonwealth of the Northern Mariana Islands,Saipan
 MQ,MTQ,474,NA,false,false,false,fr,EUR,+596,.mq,Martinique,Martinique,Fort-de-France
 MR,MRT,478,AF,false,false,true,ar,MRU,+222,.mr,Mauritania,Islamic Republic of Mauritania,Nouakchott
-MS,MSR,500,NA,false,false,false,en,XCD,+1,.ms,Montserrat,Montserrat,Plymouth
+MS,MSR,500,NA,false,false,false,en,XCD,+1-664,.ms,Montserrat,Montserrat,Plymouth
 MT,MLT,470,EU,true,true,true,"mt-MT,en",EUR,+356,.mt,Malta,Republic of Malta,Valletta
 MU,MUS,480,AF,false,false,true,"en,fr",MUR,+230,.mu,Mauritius,Republic of Mauritius,Port Louis
 MV,MDV,462,AS,false,false,true,dv-MV,MVR,+960,.mv,Maldives,Republic of Maldives,Male
@@ -180,7 +180,7 @@ PK,PAK,586,AS,false,false,true,"ur-PK,en",PKR,+92,.pk,Pakistan,Islamic Republic 
 PL,POL,616,EU,true,true,true,pl-PL,PLN,+48,.pl,Poland,Republic of Poland,Warsaw
 PM,SPM,666,NA,false,false,false,fr,EUR,+508,.pm,Saint Pierre and Miquelon,Overseas Collectivity of Saint-Pierre and Miquelon,Saint-Pierre
 PN,PCN,612,OC,false,false,false,en,NZD,+64,.pn,Pitcairn Islands,"Pitcairn, Henderson, Ducie and Oeno Islands",Adamstown
-PR,PRI,630,NA,false,false,false,"es-PR,en",USD,+1,.pr,Puerto Rico,Commonwealth of Puerto Rico,San Juan
+PR,PRI,630,NA,false,false,false,"es-PR,en",USD,+1-787,.pr,Puerto Rico,Commonwealth of Puerto Rico,San Juan
 PS,PSE,275,AS,false,false,false,ar,ILS,+970,.ps,Palestine,State of Palestine,East Jerusalem
 PT,PRT,620,EU,true,true,true,pt-PT,EUR,+351,.pt,Portugal,Portuguese Republic,Lisbon
 PW,PLW,585,OC,false,false,true,en,USD,+680,.pw,Palau,Republic of Palau,Ngerulmud
@@ -209,10 +209,10 @@ SR,SUR,740,SA,false,false,true,nl,SRD,+597,.sr,Suriname,Republic of Suriname,Par
 SS,SSD,728,AF,false,false,true,en,SSP,+211,.ss,South Sudan,Republic of South Sudan,Juba
 ST,STP,678,AF,false,false,true,pt,STN,+239,.st,Sao Tome and Principe,Democratic Republic of Sao Tome and Principe,São Tomé
 SV,SLV,222,NA,false,false,true,es-SV,USD,+503,.sv,El Salvador,Republic of El Salvador,San Salvador
-SX,SXM,534,NA,false,false,false,"en,nl",ANG,+1,.sx,Sint Maarten,Sint Maarten,Philipsburg
+SX,SXM,534,NA,false,false,false,"en,nl",ANG,+1-721,.sx,Sint Maarten,Sint Maarten,Philipsburg
 SY,SYR,760,AS,false,false,true,ar-SY,SYP,+963,.sy,Syria,Syrian Arab Republic,Damascus
 SZ,SWZ,748,AF,false,false,true,"ss,en",SZL,+268,.sz,Eswatini,Kingdom of Eswatini,Mbabane
-TC,TCA,796,NA,false,false,false,en,USD,+1,.tc,Turks and Caicos Islands,Turks and Caicos Islands,Cockburn Town
+TC,TCA,796,NA,false,false,false,en,USD,+1-649,.tc,Turks and Caicos Islands,Turks and Caicos Islands,Cockburn Town
 TD,TCD,148,AF,false,false,true,"ar,fr",XAF,+235,.td,Chad,Republic of Chad,N'Djamena
 TF,ATF,260,AN,false,false,false,fr,EUR,+262,.tf,French Southern and Antarctic Lands,French Southern and Antarctic Lands,Port-aux-Francais
 TG,TGO,768,AF,false,false,true,fr,XOF,+228,.tg,Togo,Togolese Republic,Lomé
@@ -224,21 +224,21 @@ TM,TKM,795,AS,false,false,true,tk-TM,TMT,+993,.tm,Turkmenistan,Turkmenistan,Ashg
 TN,TUN,788,AF,false,false,true,ar-TN,TND,+216,.tn,Tunisia,Republic of Tunisia,Tunis
 TO,TON,776,OC,false,false,true,"to-TO,en-TO",TOP,+676,.to,Tonga,Kingdom of Tonga,Nuku'alofa
 TR,TUR,792,AS,false,false,true,tr-TR,TRY,+90,.tr,Turkey,Republic of Turkey,Ankara
-TT,TTO,780,NA,false,false,true,en,TTD,+1,.tt,Trinidad and Tobago,Republic of Trinidad and Tobago,Port of Spain
+TT,TTO,780,NA,false,false,true,en,TTD,+1-868,.tt,Trinidad and Tobago,Republic of Trinidad and Tobago,Port of Spain
 TV,TUV,798,OC,false,false,true,en,AUD,+688,.tv,Tuvalu,Tuvalu,Funafuti
 TW,TWN,158,AS,false,false,false,zh-TW,TWD,+886,.tw,Taiwan,Republic of China (Taiwan),Taipei
 TZ,TZA,834,AF,false,false,true,"sw-TZ,en",TZS,+255,.tz,Tanzania,United Republic of Tanzania,Dodoma
 UA,UKR,804,EU,false,false,true,uk-UA,UAH,+380,.ua,Ukraine,Ukraine,Kiev
 UG,UGA,800,AF,false,false,true,"en,sw",UGX,+256,.ug,Uganda,Republic of Uganda,Kampala
-UM,UMI,581,OC,false,false,false,en,USD,+1,.um,United States Minor Outlying Islands,United States Minor Outlying Islands,"Washington, D.C."
+UM,UMI,581,OC,false,false,false,en,USD,+246,.um,United States Minor Outlying Islands,United States Minor Outlying Islands,"Washington, D.C."
 US,USA,840,NA,false,false,true,en-US,USD,+1,.us,United States,United States of America,"Washington, D.C."
 UY,URY,858,SA,false,false,true,es-UY,UYU,+598,.uy,Uruguay,Oriental Republic of Uruguay,Montevideo
 UZ,UZB,860,AS,false,false,true,uz-UZ,UZS,+998,.uz,Uzbekistan,Republic of Uzbekistan,Tashkent
 VA,VAT,336,EU,false,false,false,it,EUR,+379,.va,Vatican City,Vatican City State,Vatican City
-VC,VCT,670,NA,false,false,true,en,XCD,+1,.vc,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,Kingstown
+VC,VCT,670,NA,false,false,true,en,XCD,+1-784,.vc,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,Kingstown
 VE,VEN,862,SA,false,false,true,es-VE,VED,+58,.ve,Venezuela,Bolivarian Republic of Venezuela,Caracas
-VG,VGB,092,NA,false,false,false,en,USD,+1,.vg,British Virgin Islands,Virgin Islands,Road Town
-VI,VIR,850,NA,false,false,false,en,USD,+1,.vi,United States Virgin Islands,Virgin Islands of the United States,Charlotte Amalie
+VG,VGB,092,NA,false,false,false,en,USD,+1-284,.vg,British Virgin Islands,Virgin Islands,Road Town
+VI,VIR,850,NA,false,false,false,en,USD,+1-340,.vi,United States Virgin Islands,Virgin Islands of the United States,Charlotte Amalie
 VN,VNM,704,AS,false,false,true,vi-VN,VND,+84,.vn,Vietnam,Socialist Republic of Vietnam,Hanoi
 VU,VUT,548,OC,false,false,true,"bi-VU,en,fr",VUV,+678,.vu,Vanuatu,Republic of Vanuatu,Port Vila
 WF,WLF,876,OC,false,false,false,fr,XPF,+681,.wf,Wallis and Futuna,Territory of the Wallis and Futuna Islands,Mata Utu
