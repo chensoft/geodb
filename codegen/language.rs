@@ -32,15 +32,15 @@ pub static LANGUAGES: LazyLock<IndexMap<String, Language>> = LazyLock::new(|| {
 
 pub fn generate() -> Result<()> {
     handlebars_helper!(trim: |v: String| {
-        let mut s = "".to_string();
+        let mut ret = "".to_string();
 
-        for x in v.split("-") {
-            let mut x = x.to_ascii_lowercase();
-            x.get_mut(0..1).map(|v| v.make_ascii_uppercase());
-            s += x.as_str();
+        for seg in v.split("-") {
+            let mut seg = seg.to_ascii_lowercase();
+            seg.get_mut(0..1).map(|v| v.make_ascii_uppercase());
+            ret += seg.as_str();
         }
 
-        s
+        ret
     });
 
     let languages: Vec<Language> = LANGUAGES.values().cloned().collect();
