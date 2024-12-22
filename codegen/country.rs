@@ -41,6 +41,9 @@ pub struct Country {
     /// e.g., ".us"
     pub tld: String,
 
+    /// e.g., "🇺🇸"
+    pub flag: String,
+
     /// e.g., "United States"
     pub name: String,
 
@@ -198,6 +201,15 @@ impl Country {
         match self {
 {{#each countries}}
             Self::{{this.code2}} => "{{this.tld}}",
+{{/each}}
+        }
+    }
+
+    /// Country's emoji flag
+    pub fn flag(&self) -> &str {
+        match self {
+{{#each countries}}
+            Self::{{this.code2}} => "{{this.flag}}",
 {{/each}}
         }
     }
