@@ -10,7 +10,9 @@
 pub mod continent;
 pub mod country;
 pub mod currency;
+pub mod language;
 
 pub use continent::*;
 pub use country::*;
 pub use currency::*;
+pub use language::*;
