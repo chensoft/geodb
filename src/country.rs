@@ -1019,7 +1019,7 @@ impl Country {
     }
 
     /// ISO 3166-1 alpha2 code
-    pub fn code2(&self) -> &str {
+    pub const fn code2(&self) -> &str {
         match self {
             Self::AD => "AD",
             Self::AE => "AE",
@@ -1274,7 +1274,7 @@ impl Country {
     }
 
     /// ISO 3166-1 alpha3 code
-    pub fn code3(&self) -> &str {
+    pub const fn code3(&self) -> &str {
         match self {
             Self::AD => "AND",
             Self::AE => "ARE",
@@ -1529,7 +1529,7 @@ impl Country {
     }
 
     /// ISO 3166-1 numeric code
-    pub fn numeric(&self) -> i32 {
+    pub const fn numeric(&self) -> i32 {
         match self {
             Self::AD => 20,
             Self::AE => 784,
@@ -1784,7 +1784,7 @@ impl Country {
     }
 
     /// Two-letter continent code
-    pub fn continent(&self) -> crate::Continent {
+    pub const fn continent(&self) -> crate::Continent {
         match self {
             Self::AD => crate::Continent::EU,
             Self::AE => crate::Continent::AS,
@@ -2039,7 +2039,7 @@ impl Country {
     }
 
     /// Is it an EU member state?
-    pub fn is_eu(&self) -> bool {
+    pub const fn is_eu(&self) -> bool {
         match self {
             Self::AD => false,
             Self::AE => false,
@@ -2294,7 +2294,7 @@ impl Country {
     }
 
     /// Is it a member of European Economic Area?
-    pub fn is_eea(&self) -> bool {
+    pub const fn is_eea(&self) -> bool {
         match self {
             Self::AD => false,
             Self::AE => false,
@@ -2549,7 +2549,7 @@ impl Country {
     }
 
     /// Is it a formal member of the United Nations?
-    pub fn is_un(&self) -> bool {
+    pub const fn is_un(&self) -> bool {
         match self {
             Self::AD => true,
             Self::AE => true,
@@ -2804,7 +2804,7 @@ impl Country {
     }
 
     /// Main official language codes
-    pub fn language(&self) -> &str {
+    pub const fn language(&self) -> &str {
         match self {
             Self::AD => "ca-AD",
             Self::AE => "ar-AE",
@@ -3059,7 +3059,7 @@ impl Country {
     }
 
     /// Two-letter currency code
-    pub fn currency(&self) -> crate::Currency {
+    pub const fn currency(&self) -> crate::Currency {
         match self {
             Self::AD => crate::Currency::EUR,
             Self::AE => crate::Currency::AED,
@@ -3314,7 +3314,7 @@ impl Country {
     }
 
     /// International calling code
-    pub fn dial(&self) -> &str {
+    pub const fn dial(&self) -> &str {
         match self {
             Self::AD => "+376",
             Self::AE => "+971",
@@ -3569,7 +3569,7 @@ impl Country {
     }
 
     /// ccTLD of the country
-    pub fn tld(&self) -> &str {
+    pub const fn tld(&self) -> &str {
         match self {
             Self::AD => ".ad",
             Self::AE => ".ae",
@@ -3824,7 +3824,7 @@ impl Country {
     }
 
     /// Country's emoji flag
-    pub fn flag(&self) -> &str {
+    pub const fn flag(&self) -> &str {
         match self {
             Self::AD => "🇦🇩",
             Self::AE => "🇦🇪",
@@ -4079,7 +4079,7 @@ impl Country {
     }
 
     /// Country's abbreviated name
-    pub fn name(&self) -> &str {
+    pub const fn name(&self) -> &str {
         match self {
             Self::AD => "Andorra",
             Self::AE => "UAE",
@@ -4334,7 +4334,7 @@ impl Country {
     }
 
     /// Country's official name
-    pub fn official(&self) -> &str {
+    pub const fn official(&self) -> &str {
         match self {
             Self::AD => "Principality of Andorra",
             Self::AE => "United Arab Emirates",
@@ -4589,7 +4589,7 @@ impl Country {
     }
 
     /// Capital name, may be empty as some islands have no capital
-    pub fn capital(&self) -> &str {
+    pub const fn capital(&self) -> &str {
         match self {
             Self::AD => "Andorra la Vella",
             Self::AE => "Abu Dhabi",

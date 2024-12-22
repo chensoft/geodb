@@ -558,7 +558,7 @@ impl Currency {
     }
 
     /// ISO 4217 currency code
-    pub fn code(&self) -> &str {
+    pub const fn code(&self) -> &str {
         match self {
             Self::AED => "AED",
             Self::AFN => "AFN",
@@ -743,7 +743,7 @@ impl Currency {
     }
 
     /// The numeric code is the same as the numeric country code where possible
-    pub fn numeric(&self) -> i32 {
+    pub const fn numeric(&self) -> i32 {
         match self {
             Self::AED => 784,
             Self::AFN => 971,
@@ -928,7 +928,7 @@ impl Currency {
     }
 
     /// For currencies having minor units, ISO 4217:2015 also shows the relationship between the minor unit and the currency itself
-    pub fn minor(&self) -> i32 {
+    pub const fn minor(&self) -> i32 {
         match self {
             Self::AED => 2,
             Self::AFN => 2,
@@ -1113,7 +1113,7 @@ impl Currency {
     }
 
     /// Currency symbol
-    pub fn symbol(&self) -> &str {
+    pub const fn symbol(&self) -> &str {
         match self {
             Self::AED => "د.إ",
             Self::AFN => "؋",
@@ -1298,7 +1298,7 @@ impl Currency {
     }
 
     /// Unit refers to the standard currency measure
-    pub fn unit(&self) -> &str {
+    pub const fn unit(&self) -> &str {
         match self {
             Self::AED => "Dirham",
             Self::AFN => "Afghani",
@@ -1483,7 +1483,7 @@ impl Currency {
     }
 
     /// ISO 4217 currency english name
-    pub fn name(&self) -> &str {
+    pub const fn name(&self) -> &str {
         match self {
             Self::AED => "United Arab Emirates Dirham",
             Self::AFN => "Afghan Afghani",
@@ -1668,7 +1668,7 @@ impl Currency {
     }
 
     /// The form of the currency name used when referring to more than one unit
-    pub fn plural(&self) -> &str {
+    pub const fn plural(&self) -> &str {
         match self {
             Self::AED => "United Arab Emirates Dirhams",
             Self::AFN => "Afghan Afghanis",

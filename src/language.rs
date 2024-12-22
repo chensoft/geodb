@@ -1950,7 +1950,7 @@ impl Language {
     }
 
     /// Language code
-    pub fn code(&self) -> &str {
+    pub const fn code(&self) -> &str {
         match self {
             Self::Aa => "aa",
             Self::AaDj => "aa-DJ",
@@ -2924,7 +2924,7 @@ impl Language {
     }
 
     /// Language name
-    pub fn name(&self) -> &str {
+    pub const fn name(&self) -> &str {
         match self {
             Self::Aa => "Afar",
             Self::AaDj => "Afar (Djibouti)",
@@ -3898,7 +3898,7 @@ impl Language {
     }
 
     /// Language native name
-    pub fn native(&self) -> &str {
+    pub const fn native(&self) -> &str {
         match self {
             Self::Aa => "Afaraf",
             Self::AaDj => "Afaraf (Yabuuti)",

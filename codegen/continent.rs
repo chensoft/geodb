@@ -53,7 +53,7 @@ impl Continent {
     }
 
     /// Continent code
-    pub fn code(&self) -> &str {
+    pub const fn code(&self) -> &str {
         match self {
 {{#each continents}}
             Self::{{this.code}} => "{{this.code}}",
@@ -62,7 +62,7 @@ impl Continent {
     }
 
     /// Continent name
-    pub fn name(&self) -> &str {
+    pub const fn name(&self) -> &str {
         match self {
 {{#each continents}}
             Self::{{this.code}} => "{{this.name}}",
