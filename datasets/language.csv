@@ -1,969 +1,969 @@
 code,name,native
-aa,,
-aa-DJ,,
-aa-ER,,
-aa-ET,,
-ab,,
-ab-GE,,
-af,,
-af-NA,,
-af-ZA,,
-agq,,
-agq-CM,,
-ak,,
-ak-GH,,
-am,,
-am-ET,,
-an,,
-an-ES,,
-ann,,
-ann-NG,,
-apc,,
-apc-SY,,
-ar,,
-ar-001,,
-ar-AE,,
-ar-BH,,
-ar-DJ,,
-ar-DZ,,
-ar-EG,,
-ar-EH,,
-ar-ER,,
-ar-IL,,
-ar-IQ,,
-ar-JO,,
-ar-KM,,
-ar-KW,,
-ar-LB,,
-ar-LY,,
-ar-MA,,
-ar-MR,,
-ar-OM,,
-ar-PS,,
-ar-QA,,
-ar-SA,,
-ar-SD,,
-ar-SO,,
-ar-SS,,
-ar-SY,,
-ar-TD,,
-ar-TN,,
-ar-YE,,
-arn,,
-arn-CL,,
-as,,
-as-IN,,
-asa,,
-asa-TZ,,
-ast,,
-ast-ES,,
-az,,
-az-AZ,,
-az-IQ,,
-az-IR,,
-az-TR,,
-ba,,
-ba-RU,,
-bal,,
-bal-PK,,
-bas,,
-bas-CM,,
-be,,
-be-BY,,
-beSK,,
-bem,,
-bem-ZM,,
-bew,,
-bew-ID,,
-bez,,
-bez-TZ,,
-bg,,
-bg-BG,,
-bgc,,
-bgc-IN,,
-bgn,,
-bgn-AE,,
-bgn-AF,,
-bgn-IR,,
-bgn-OM,,
-bgn-PK,,
-bho,,
-bho-IN,,
-blo,,
-blo-BJ,,
-blt,,
-blt-VN,,
-bm,,
-bm-ML,,
-bn,,
-bn-BD,,
-bn-IN,,
-bo,,
-bo-CN,,
-bo-IN,,
-br,,
-br-FR,,
-brx,,
-brx-IN,,
-bs,,
-bs-BA,,
-bss,,
-bss-CM,,
-byn,,
-byn-ER,,
-ca,,
-ca-AD,,
-ca-ES,,
-ca-FR,,
-ca-IT,,
-caNCIA,,
-cad,,
-cad-US,,
-cch,,
-cch-NG,,
-ccp,,
-ccp-BD,,
-ccp-IN,,
-ce,,
-ce-RU,,
-ceb,,
-ceb-PH,,
-cgg,,
-cgg-UG,,
-cho,,
-cho-US,,
-chr,,
-chr-US,,
-cic,,
-cic-US,,
-ckb,,
-ckb-IQ,,
-ckb-IR,,
-co,,
-co-FR,,
-cs,,
-cs-CZ,,
-csw,,
-csw-CA,,
-cu,,
-cu-RU,,
-cv,,
-cv-RU,,
-cy,,
-cy-GB,,
-da,,
-da-DK,,
-da-GL,,
-dav,,
-dav-KE,,
-de,,
-de-AT,,
-de-BE,,
-de-CH,,
-de-DE,,
-de-IT,,
-de-LI,,
-de-LU,,
-dje,,
-dje-NE,,
-doi,,
-doi-IN,,
-dsb,,
-dsb-DE,,
-dua,,
-dua-CM,,
-dv,,
-dv-MV,,
-dyo,,
-dyo-SN,,
-dz,,
-dz-BT,,
-ebu,,
-ebu-KE,,
-ee,,
-ee-GH,,
-ee-TG,,
-el,,
-el-CY,,
-el-GR,,
-elTON,,
-en,,
-en-001,,
-en-150,,
-en-AE,,
-en-AG,,
-en-AI,,
-en-AS,,
-en-AT,,
-en-AU,,
-en-BB,,
-en-BE,,
-en-BI,,
-en-BM,,
-en-BS,,
-en-BW,,
-en-BZ,,
-en-CA,,
-en-CC,,
-en-CH,,
-en-CK,,
-en-CM,,
-en-CX,,
-en-CY,,
-en-DE,,
-en-DG,,
-en-DK,,
-en-DM,,
-en-ER,,
-en-FI,,
-en-FJ,,
-en-FK,,
-en-FM,,
-en-GB,,
-en-GD,,
-en-GG,,
-en-GH,,
-en-GI,,
-en-GM,,
-en-GU,,
-en-GY,,
-en-HK,,
-en-ID,,
-en-IE,,
-en-IL,,
-en-IM,,
-en-IN,,
-en-IO,,
-en-JE,,
-en-JM,,
-en-KE,,
-en-KI,,
-en-KN,,
-en-KY,,
-en-LC,,
-en-LR,,
-en-LS,,
-en-MG,,
-en-MH,,
-en-MO,,
-en-MP,,
-en-MS,,
-en-MT,,
-en-MU,,
-en-MV,,
-en-MW,,
-en-MY,,
-en-NA,,
-en-NF,,
-en-NG,,
-en-NL,,
-en-NR,,
-en-NU,,
-en-NZ,,
-en-PG,,
-en-PH,,
-en-PK,,
-en-PN,,
-en-PR,,
-en-PW,,
-en-RW,,
-en-SB,,
-en-SC,,
-en-SD,,
-en-SE,,
-en-SG,,
-en-SH,,
-en-SI,,
-en-SL,,
-en-SS,,
-en-SX,,
-en-SZ,,
-en-TC,,
-en-TK,,
-en-TO,,
-en-TT,,
-en-TV,,
-en-TZ,,
-en-UG,,
-en-UM,,
-en-US,,
-en-VC,,
-en-VG,,
-en-VI,,
-en-VU,,
-en-WS,,
-en-ZA,,
-en-ZM,,
-en-ZW,,
-enX,,
-eo,,
-eo-001,,
-es,,
-es-419,,
-es-AR,,
-es-BO,,
-es-BR,,
-es-BZ,,
-es-CL,,
-es-CO,,
-es-CR,,
-es-CU,,
-es-DO,,
-es-EA,,
-es-EC,,
-es-ES,,
-es-GQ,,
-es-GT,,
-es-HN,,
-es-IC,,
-es-MX,,
-es-NI,,
-es-PA,,
-es-PE,,
-es-PH,,
-es-PR,,
-es-PY,,
-es-SV,,
-es-US,,
-es-UY,,
-es-VE,,
-et,,
-et-EE,,
-eu,,
-eu-ES,,
-ewo,,
-ewo-CM,,
-fa,,
-fa-AF,,
-fa-IR,,
-ff,,
-ff-BF,,
-ff-CM,,
-ff-GH,,
-ff-GM,,
-ff-GN,,
-ff-GW,,
-ff-LR,,
-ff-MR,,
-ff-NE,,
-ff-NG,,
-ff-SL,,
-ff-SN,,
-fi,,
-fi-FI,,
-fil,,
-fil-PH,,
-fo,,
-fo-DK,,
-fo-FO,,
-fr,,
-fr-BE,,
-fr-BF,,
-fr-BI,,
-fr-BJ,,
-fr-BL,,
-fr-CA,,
-fr-CD,,
-fr-CF,,
-fr-CG,,
-fr-CH,,
-fr-CI,,
-fr-CM,,
-fr-DJ,,
-fr-DZ,,
-fr-FR,,
-fr-GA,,
-fr-GF,,
-fr-GN,,
-fr-GP,,
-fr-GQ,,
-fr-HT,,
-fr-KM,,
-fr-LU,,
-fr-MA,,
-fr-MC,,
-fr-MF,,
-fr-MG,,
-fr-ML,,
-fr-MQ,,
-fr-MR,,
-fr-MU,,
-fr-NC,,
-fr-NE,,
-fr-PF,,
-fr-PM,,
-fr-RE,,
-fr-RW,,
-fr-SC,,
-fr-SN,,
-fr-SY,,
-fr-TD,,
-fr-TG,,
-fr-TN,,
-fr-VU,,
-fr-WF,,
-fr-YT,,
-frr,,
-frr-DE,,
-fur,,
-fur-IT,,
-fy,,
-fy-NL,,
-ga,,
-ga-GB,,
-ga-IE,,
-gaa,,
-gaa-GH,,
-gd,,
-gd-GB,,
-gez,,
-gez-ER,,
-gez-ET,,
-gl,,
-gl-ES,,
-gn,,
-gn-PY,,
-gsw,,
-gsw-CH,,
-gsw-FR,,
-gsw-LI,,
-gu,,
-gu-IN,,
-guz,,
-guz-KE,,
-gv,,
-gv-IM,,
-ha,,
-ha-GH,,
-ha-NE,,
-ha-NG,,
-ha-SD,,
-haw,,
-haw-US,,
-he,,
-he-IL,,
-hi,,
-hi-IN,,
-hnj,,
-hnj-US,,
-hr,,
-hr-BA,,
-hr-HR,,
-hsb,,
-hsb-DE,,
-hu,,
-hu-HU,,
-hy,,
-hy-AM,,
-ia,,
-ia-001,,
-id,,
-id-ID,,
-ie,,
-ie-EE,,
-ig,,
-ig-NG,,
-ii,,
-ii-CN,,
-io,,
-io-001,,
-is,,
-is-IS,,
-it,,
-it-CH,,
-it-IT,,
-it-SM,,
-it-VA,,
-iu,,
-iu-CA,,
-ja,,
-ja-JP,,
-jbo,,
-jbo-001,,
-jgo,,
-jgo-CM,,
-jmc,,
-jmc-TZ,,
-jv,,
-jv-ID,,
-ka,,
-ka-GE,,
-kaa,,
-kaa-UZ,,
-kab,,
-kab-DZ,,
-kaj,,
-kaj-NG,,
-kam,,
-kam-KE,,
-kcg,,
-kcg-NG,,
-kde,,
-kde-TZ,,
-kea,,
-kea-CV,,
-ken,,
-ken-CM,,
-kgp,,
-kgp-BR,,
-khq,,
-khq-ML,,
-ki,,
-ki-KE,,
-kk,,
-kk-CN,,
-kk-KZ,,
-kkj,,
-kkj-CM,,
-kl,,
-kl-GL,,
-kln,,
-kln-KE,,
-km,,
-km-KH,,
-kn,,
-kn-IN,,
-ko,,
-ko-CN,,
-ko-KP,,
-ko-KR,,
-kok,,
-kok-IN,,
-kpe,,
-kpe-GN,,
-kpe-LR,,
-ks,,
-ks-IN,,
-ksb,,
-ksb-TZ,,
-ksf,,
-ksf-CM,,
-ksh,,
-ksh-DE,,
-ku,,
-ku-TR,,
-kw,,
-kw-GB,,
-kxv,,
-kxv-IN,,
-ky,,
-ky-KG,,
-la,,
-la-VA,,
-lag,,
-lag-TZ,,
-lb,,
-lb-LU,,
-lg,,
-lg-UG,,
-lij,,
-lij-IT,,
-lkt,,
-lkt-US,,
-lld,,
-lld-IT,,
-lmo,,
-lmo-IT,,
-ln,,
-ln-AO,,
-ln-CD,,
-ln-CF,,
-ln-CG,,
-lo,,
-lo-LA,,
-lrc,,
-lrc-IQ,,
-lrc-IR,,
-lt,,
-lt-LT,,
-ltg,,
-ltg-LV,,
-lu,,
-lu-CD,,
-luo,,
-luo-KE,,
-luy,,
-luy-KE,,
-lv,,
-lv-LV,,
-mai,,
-mai-IN,,
-mas,,
-mas-KE,,
-mas-TZ,,
-mdf,,
-mdf-RU,,
-mer,,
-mer-KE,,
-mfe,,
-mfe-MU,,
-mg,,
-mg-MG,,
-mgh,,
-mgh-MZ,,
-mgo,,
-mgo-CM,,
-mhn,,
-mhn-IT,,
-mi,,
-mi-NZ,,
-mic,,
-mic-CA,,
-mk,,
-mk-MK,,
-ml,,
-ml-IN,,
-mn,,
-mn-CN,,
-mn-MN,,
-mni,,
-mni-IN,,
-moh,,
-moh-CA,,
-mr,,
-mr-IN,,
-ms,,
-ms-BN,,
-ms-ID,,
-ms-MY,,
-ms-SG,,
-mt,,
-mt-MT,,
-mua,,
-mua-CM,,
-mus,,
-mus-US,,
-my,,
-my-MM,,
-myv,,
-myv-RU,,
-mzn,,
-mzn-IR,,
-naq,,
-naq-NA,,
-nb,,
-nb-NO,,
-nb-SJ,,
-nd,,
-nd-ZW,,
-nds,,
-nds-DE,,
-nds-NL,,
-ne,,
-ne-IN,,
-ne-NP,,
-nl,,
-nl-AW,,
-nl-BE,,
-nl-BQ,,
-nl-CW,,
-nl-NL,,
-nl-SR,,
-nl-SX,,
-nmg,,
-nmg-CM,,
-nn,,
-nn-NO,,
-nnh,,
-nnh-CM,,
-no,,
-nqo,,
-nqo-GN,,
-nr,,
-nr-ZA,,
-nso,,
-nso-ZA,,
-nus,,
-nus-SS,,
-nv,,
-nv-US,,
-ny,,
-ny-MW,,
-nyn,,
-nyn-UG,,
-oc,,
-oc-ES,,
-oc-FR,,
-om,,
-om-ET,,
-om-KE,,
-or,,
-or-IN,,
-os,,
-os-GE,,
-os-RU,,
-osa,,
-osa-US,,
-pa,,
-pa-IN,,
-pa-PK,,
-pap,,
-pap-AW,,
-pap-CW,,
-pcm,,
-pcm-NG,,
-pis,,
-pis-SB,,
-pl,,
-pl-PL,,
-prg,,
-prg-PL,,
-ps,,
-ps-AF,,
-ps-PK,,
-pt,,
-pt-AO,,
-pt-BR,,
-pt-CH,,
-pt-CV,,
-pt-GQ,,
-pt-GW,,
-pt-LU,,
-pt-MO,,
-pt-MZ,,
-pt-PT,,
-pt-ST,,
-pt-TL,,
-qu,,
-qu-BO,,
-qu-EC,,
-qu-PE,,
-quc,,
-quc-GT,,
-raj,,
-raj-IN,,
-rhg,,
-rhg-BD,,
-rhg-MM,,
-rif,,
-rif-MA,,
-rm,,
-rm-CH,,
-rn,,
-rn-BI,,
-ro,,
-ro-MD,,
-ro-RO,,
-rof,,
-rof-TZ,,
-root,,
-ru,,
-ru-BY,,
-ru-KG,,
-ru-KZ,,
-ru-MD,,
-ru-RU,,
-ru-UA,,
-rw,,
-rw-RW,,
-rwk,,
-rwk-TZ,,
-sa,,
-sa-IN,,
-sah,,
-sah-RU,,
-saq,,
-saq-KE,,
-sat,,
-sat-IN,,
-sbp,,
-sbp-TZ,,
-sc,,
-sc-IT,,
-scn,,
-scn-IT,,
-sd,,
-sd-IN,,
-sd-PK,,
-sdh,,
-sdh-IQ,,
-sdh-IR,,
-se,,
-se-FI,,
-se-NO,,
-se-SE,,
-seh,,
-seh-MZ,,
-ses,,
-ses-ML,,
-sg,,
-sg-CF,,
-shi,,
-shi-MA,,
-shn,,
-shn-MM,,
-shn-TH,,
-si,,
-si-LK,,
-sid,,
-sid-ET,,
-sk,,
-sk-SK,,
-skr,,
-skr-PK,,
-sl,,
-sl-SI,,
-sma,,
-sma-NO,,
-sma-SE,,
-smj,,
-smj-NO,,
-smj-SE,,
-smn,,
-smn-FI,,
-sms,,
-sms-FI,,
-sn,,
-sn-ZW,,
-so,,
-so-DJ,,
-so-ET,,
-so-KE,,
-so-SO,,
-sq,,
-sq-AL,,
-sq-MK,,
-sq-XK,,
-sr,,
-sr-BA,,
-sr-ME,,
-sr-RS,,
-sr-XK,,
-ss,,
-ss-SZ,,
-ss-ZA,,
-ssy,,
-ssy-ER,,
-st,,
-st-LS,,
-st-ZA,,
-su,,
-su-ID,,
-sv,,
-sv-AX,,
-sv-FI,,
-sv-SE,,
-sw,,
-sw-CD,,
-sw-KE,,
-sw-TZ,,
-sw-UG,,
-syr,,
-syr-IQ,,
-syr-SY,,
-szl,,
-szl-PL,,
-ta,,
-ta-IN,,
-ta-LK,,
-ta-MY,,
-ta-SG,,
-te,,
-te-IN,,
-teo,,
-teo-KE,,
-teo-UG,,
-tg,,
-tg-TJ,,
-th,,
-th-TH,,
-ti,,
-ti-ER,,
-ti-ET,,
-tig,,
-tig-ER,,
-tk,,
-tk-TM,,
-tn,,
-tn-BW,,
-tn-ZA,,
-to,,
-to-TO,,
-tok,,
-tok-001,,
-tpi,,
-tpi-PG,,
-tr,,
-tr-CY,,
-tr-TR,,
-trv,,
-trv-TW,,
-trw,,
-trw-PK,,
-ts,,
-ts-ZA,,
-tt,,
-tt-RU,,
-twq,,
-twq-NE,,
-tyv,,
-tyv-RU,,
-tzm,,
-tzm-MA,,
-ug,,
-ug-CN,,
-uk,,
-uk-UA,,
-ur,,
-ur-IN,,
-ur-PK,,
-uz,,
-uz-AF,,
-uz-UZ,,
-vai,,
-vai-LR,,
-ve,,
-ve-ZA,,
-vec,,
-vec-IT,,
-vi,,
-vi-VN,,
-vmw,,
-vmw-MZ,,
-vo,,
-vo-001,,
-vun,,
-vun-TZ,,
-wa,,
-wa-BE,,
-wae,,
-wae-CH,,
-wal,,
-wal-ET,,
-wbp,,
-wbp-AU,,
-wo,,
-wo-SN,,
-xh,,
-xh-ZA,,
-xnr,,
-xnr-IN,,
-xog,,
-xog-UG,,
-yav,,
-yav-CM,,
-yi,,
-yi-UA,,
-yo,,
-yo-BJ,,
-yo-NG,,
-yrl,,
-yrl-BR,,
-yrl-CO,,
-yrl-VE,,
-yue,,
-yue-CN,,
-yue-HK,,
-za,,
-za-CN,,
-zgh,,
-zgh-MA,,
-zh,,
-zh-CN,,
-zh-HK,,
-zh-MO,,
-zh-MY,,
-zh-SG,,
-zh-TW,,
-zu,,
-zu-ZA,,
+aa,Afar,Afaraf
+aa-DJ,Afar (Djibouti),Afaraf (Yabuuti)
+aa-ER,Afar (Eritrea),Afaraf (Eritrea)
+aa-ET,Afar (Ethiopia),Afaraf (Otobbia)
+ab,Abkhaz,Аҧсуа
+ab-GE,Abkhaz (Georgia),Аҧсуа (Қырҭтәыла)
+af,Afrikaans,Afrikaans
+af-NA,Afrikaans (Namibia),Afrikaans (Namibië)
+af-ZA,Afrikaans (South Africa),Afrikaans (Suid-Afrika)
+agq,Aghem,Aghem
+agq-CM,Aghem (Cameroon),Aghem (Kàmɛ̀rûn)
+ak,Akan,Akan
+ak-GH,Akan (Ghana),Akan (Gaana)
+am,Amharic,አማርኛ
+am-ET,Amharic (Ethiopia),አማርኛ (ኢትዮጵያ)
+an,Aragonese,Aragonés
+an-ES,Aragonese (Spain),Aragonés (España)
+ann,Obolo,Obolo
+ann-NG,Obolo (Nigeria),Obolo (Nigeria)
+apc,North Levantine Arabic,اللهجة الشامية
+apc-SY,North Levantine Arabic (Syria),اللهجة الشامية (سوريا)
+ar,Arabic,العربية
+ar-001,Arabic (World),العربية (العالم)
+ar-AE,Arabic (United Arab Emirates),العربية (الإمارات العربية المتحدة)
+ar-BH,Arabic (Bahrain),العربية (البحرين)
+ar-DJ,Arabic (Djibouti),العربية (جيبوتي)
+ar-DZ,Arabic (Algeria),العربية (الجزائر)
+ar-EG,Arabic (Egypt),العربية (مصر)
+ar-EH,Arabic (Western Sahara),العربية (الصحراء الغربية)
+ar-ER,Arabic (Eritrea),العربية (إريتريا)
+ar-IL,Arabic (Israel),العربية (إسرائيل)
+ar-IQ,Arabic (Iraq),العربية (العراق)
+ar-JO,Arabic (Jordan),العربية (الأردن)
+ar-KM,Arabic (Comoros),العربية (جزر القمر)
+ar-KW,Arabic (Kuwait),العربية (الكويت)
+ar-LB,Arabic (Lebanon),العربية (لبنان)
+ar-LY,Arabic (Libya),العربية (ليبيا)
+ar-MA,Arabic (Morocco),العربية (المغرب)
+ar-MR,Arabic (Mauritania),العربية (موريتانيا)
+ar-OM,Arabic (Oman),العربية (عُمان)
+ar-PS,Arabic (Palestinian Territories),العربية (الأراضي الفلسطينية)
+ar-QA,Arabic (Qatar),العربية (قطر)
+ar-SA,Arabic (Saudi Arabia),العربية (المملكة العربية السعودية)
+ar-SD,Arabic (Sudan),العربية (السودان)
+ar-SO,Arabic (Somalia),العربية (الصومال)
+ar-SS,Arabic (South Sudan),العربية (جنوب السودان)
+ar-SY,Arabic (Syria),العربية (سوريا)
+ar-TD,Arabic (Chad),العربية (تشاد)
+ar-TN,Arabic (Tunisia),العربية (تونس)
+ar-YE,Arabic (Yemen),العربية (اليمن)
+arn,Mapuche,Mapudungun
+arn-CL,Mapuche (Chile),Mapudungun (Chile)
+as,Assamese,অসমীয়া
+as-IN,Assamese (India),অসমীয়া (ভাৰত)
+asa,Asu,Kipare
+asa-TZ,Asu (Tanzania),Kipare (Tadhania)
+ast,Asturian,Asturianu
+ast-ES,Asturian (Spain),Asturianu (España)
+az,Azerbaijani,Azərbaycan
+az-AZ,Azerbaijani (Azerbaijan),Azərbaycan (Azərbaycan)
+az-IQ,Azerbaijani (Iraq),Azərbaycan (İraq)
+az-IR,Azerbaijani (Iran),Azərbaycan (İran)
+az-TR,Azerbaijani (Turkey),Azərbaycan (Türkiyə)
+ba,Bashkir,Башҡортса
+ba-RU,Bashkir (Russia),Башҡортса (Рәсәй)
+bal,Baluchi,بلوچی
+bal-PK,Baluchi (Pakistan),بلوچی (پاکستان)
+bas,Basaa,Ɓàsàa
+bas-CM,Basaa (Cameroon),Ɓàsàa (Kàmɛ̀rûn)
+be,Belarusian,Беларуская
+be-BY,Belarusian (Belarus),Беларуская (Беларусь)
+beSK,Belarusian (Slovakia),Беларуская (Славакія)
+bem,Bemba,Ichibemba
+bem-ZM,Bemba (Zambia),Ichibemba (Zambia)
+bew,Betawi,Betawi
+bew-ID,Betawi (Indonesia),Betawi (Indonesia)
+bez,Bena,Hibena
+bez-TZ,Bena (Tanzania),Hibena (Tanzania)
+bg,Bulgarian,Български
+bg-BG,Bulgarian (Bulgaria),Български (България)
+bgc,Haryanvi,हरियाणवी
+bgc-IN,Haryanvi (India),हरियाणवी (भारत)
+bgn,Western Balochi,بلوچی مکرانی
+bgn-AE,Western Balochi (UAE),بلوچی مکرانی (متحدہ عرب امارات)
+bgn-AF,Western Balochi (Afghanistan),بلوچی مکرانی (افغانستان)
+bgn-IR,Western Balochi (Iran),بلوچی مکرانی (ایران)
+bgn-OM,Western Balochi (Oman),بلوچی مکرانی (عمان)
+bgn-PK,Western Balochi (Pakistan),بلوچی مکرانی (پاکستان)
+bho,Bhojpuri,भोजपुरी
+bho-IN,Bhojpuri (India),भोजपुरी (भारत)
+blo,Anii,Anii
+blo-BJ,Anii (Benin),Anii (Bénin)
+blt,Tai Dam,ꪼꪕꪒꪾ
+blt-VN,Tai Dam (Vietnam),ꪼꪕꪒꪾ (Việt Nam)
+bm,Bambara,Bamanakan
+bm-ML,Bambara (Mali),Bamanakan (Mali)
+bn,Bengali,বাংলা
+bn-BD,Bengali (Bangladesh),বাংলা (বাংলাদেশ)
+bn-IN,Bengali (India),বাংলা (ভারত)
+bo,Tibetan,བོད་སྐད་
+bo-CN,Tibetan (China),བོད་སྐད་ (རྒྱ་ནག)
+bo-IN,Tibetan (India),བོད་སྐད་ (རྒྱ་གར་)
+br,Breton,Brezhoneg
+br-FR,Breton (France),Brezhoneg (Frañs)
+brx,Bodo,बड़ो
+brx-IN,Bodo (India),बड़ो (भारत)
+bs,Bosnian,Bosanski
+bs-BA,Bosnian (Bosnia & Herzegovina),Bosanski (Bosna i Hercegovina)
+bss,Akoose,Akoos
+bss-CM,Akoose (Cameroon),Akoos (Kamerûn)
+byn,Blin,ብሊን
+byn-ER,Blin (Eritrea),ብሊን (ኤርትራ)
+ca,Catalan,Català
+ca-AD,Catalan (Andorra),Català (Andorra)
+ca-ES,Catalan (Spain),Català (Espanya)
+ca-FR,Catalan (France),Català (França)
+ca-IT,Catalan (Italy),Català (Itàlia)
+caNCIA,Catalan (New Caledonia),Català (Nova Caledònia)
+cad,Caddo,Hasí:nay
+cad-US,Caddo (United States),Hasí:nay (United States)
+cch,Atsam,Atsam
+cch-NG,Atsam (Nigeria),Atsam (Nigeria)
+ccp,Chakma,𑄌𑄋𑄴𑄟𑄳𑄦
+ccp-BD,Chakma (Bangladesh),𑄌𑄋𑄴𑄟𑄳𑄦 (𑄝𑄁𑄣𑄘𑄬𑄌𑄴)
+ccp-IN,Chakma (India),𑄌𑄋𑄴𑄟𑄳𑄦 (𑄞𑄢𑄧𑄖𑄴)
+ce,Chechen,Нохчийн
+ce-RU,Chechen (Russia),Нохчийн (Росси)
+ceb,Cebuano,Cebuano
+ceb-PH,Cebuano (Philippines),Cebuano (Pilipinas)
+cgg,Chiga,Rukiga
+cgg-UG,Chiga (Uganda),Rukiga (Uganda)
+cho,Choctaw,Chahta
+cho-US,Choctaw (United States),Chahta (United States)
+chr,Cherokee,ᏣᎳᎩ
+chr-US,Cherokee (United States),ᏣᎳᎩ (ᏌᏊ ᎢᏳᎾᎵᏍᏔᏅ ᏍᎦᏚᎩ)
+cic,Chickasaw,Chikashshanompaʼ
+cic-US,Chickasaw (United States),Chikashshanompaʼ (United States)
+ckb,Central Kurdish,کوردیی ناوەندی
+ckb-IQ,Central Kurdish (Iraq),کوردیی ناوەندی (عێراق)
+ckb-IR,Central Kurdish (Iran),کوردیی ناوەندی (ئێران)
+co,Corsican,Corsu
+co-FR,Corsican (France),Corsu (Francia)
+cs,Czech,Čeština
+cs-CZ,Czech (Czechia),Čeština (Česko)
+csw,Swampy Cree,ᓀᐦᐃᔭᐍᐏᐣ
+csw-CA,Swampy Cree (Canada),ᓀᐦᐃᔭᐍᐏᐣ (ᑳᓇᑕ)
+cu,Church Slavic,Церковнослове́нскїй
+cu-RU,Church Slavic (Russia),Церковнослове́нскїй (Россія)
+cv,Chuvash,Чӑвашла
+cv-RU,Chuvash (Russia),Чӑвашла (Раҫҫей)
+cy,Welsh,Cymraeg
+cy-GB,Welsh (United Kingdom),Cymraeg (Y Deyrnas Unedig)
+da,Danish,Dansk
+da-DK,Danish (Denmark),Dansk (Danmark)
+da-GL,Danish (Greenland),Dansk (Grønland)
+dav,Taita,Kitaita
+dav-KE,Taita (Kenya),Kitaita (Kenya)
+de,German,Deutsch
+de-AT,German (Austria),Deutsch (Österreich)
+de-BE,German (Belgium),Deutsch (Belgien)
+de-CH,German (Switzerland),Deutsch (Schweiz)
+de-DE,German (Germany),Deutsch (Deutschland)
+de-IT,German (Italy),Deutsch (Italien)
+de-LI,German (Liechtenstein),Deutsch (Liechtenstein)
+de-LU,German (Luxembourg),Deutsch (Luxemburg)
+dje,Zarma,Zarmaciine
+dje-NE,Zarma (Niger),Zarmaciine (Nižer)
+doi,Dogri,डोगरी
+doi-IN,Dogri (India),डोगरी (भारत)
+dsb,Lower Sorbian,Dolnoserbšćina
+dsb-DE,Lower Sorbian (Germany),Dolnoserbšćina (Nimska)
+dua,Duala,Duálá
+dua-CM,Duala (Cameroon),Duálá (Cameroun)
+dv,Divehi,ދިވެހި
+dv-MV,Divehi (Maldives),ދިވެހި (ދިވެހިރާއްޖެ)
+dyo,Jola-Fonyi,Joola
+dyo-SN,Jola-Fonyi (Senegal),Joola (Senegal)
+dz,Dzongkha,རྫོང་ཁ
+dz-BT,Dzongkha (Bhutan),རྫོང་ཁ (འབྲུག)
+ebu,Embu,Kĩembu
+ebu-KE,Embu (Kenya),Kĩembu (Kenya)
+ee,Ewe,Eʋegbe
+ee-GH,Ewe (Ghana),Eʋegbe (Ghana)
+ee-TG,Ewe (Togo),Eʋegbe (Togo)
+el,Greek,Ελληνικά
+el-CY,Greek (Cyprus),Ελληνικά (Κύπρος)
+el-GR,Greek (Greece),Ελληνικά (Ελλάδα)
+elTON,Greek (Tonga),Ελληνικά (Τόγκα)
+en,English,English
+en-001,English (World),English (World)
+en-150,English (Europe),English (Europe)
+en-AE,English (United Arab Emirates),English (United Arab Emirates)
+en-AG,English (Antigua & Barbuda),English (Antigua & Barbuda)
+en-AI,English (Anguilla),English (Anguilla)
+en-AS,English (American Samoa),English (American Samoa)
+en-AT,English (Austria),English (Austria)
+en-AU,English (Australia),English (Australia)
+en-BB,English (Barbados),English (Barbados)
+en-BE,English (Belgium),English (Belgium)
+en-BI,English (Burundi),English (Burundi)
+en-BM,English (Bermuda),English (Bermuda)
+en-BS,English (Bahamas),English (Bahamas)
+en-BW,English (Botswana),English (Botswana)
+en-BZ,English (Belize),English (Belize)
+en-CA,English (Canada),English (Canada)
+en-CC,English (Cocos [Keeling] Islands),English (Cocos [Keeling] Islands)
+en-CH,English (Switzerland),English (Switzerland)
+en-CK,English (Cook Islands),English (Cook Islands)
+en-CM,English (Cameroon),English (Cameroon)
+en-CX,English (Christmas Island),English (Christmas Island)
+en-CY,English (Cyprus),English (Cyprus)
+en-DE,English (Germany),English (Germany)
+en-DG,English (Diego Garcia),English (Diego Garcia)
+en-DK,English (Denmark),English (Denmark)
+en-DM,English (Dominica),English (Dominica)
+en-ER,English (Eritrea),English (Eritrea)
+en-FI,English (Finland),English (Finland)
+en-FJ,English (Fiji),English (Fiji)
+en-FK,English (Falkland Islands),English (Falkland Islands)
+en-FM,English (Micronesia),English (Micronesia)
+en-GB,English (United Kingdom),English (United Kingdom)
+en-GD,English (Grenada),English (Grenada)
+en-GG,English (Guernsey),English (Guernsey)
+en-GH,English (Ghana),English (Ghana)
+en-GI,English (Gibraltar),English (Gibraltar)
+en-GM,English (Gambia),English (Gambia)
+en-GU,English (Guam),English (Guam)
+en-GY,English (Guyana),English (Guyana)
+en-HK,English (Hong Kong SAR China),English (Hong Kong SAR China)
+en-ID,English (Indonesia),English (Indonesia)
+en-IE,English (Ireland),English (Ireland)
+en-IL,English (Israel),English (Israel)
+en-IM,English (Isle of Man),English (Isle of Man)
+en-IN,English (India),English (India)
+en-IO,English (British Indian Ocean Territory),English (British Indian Ocean Territory)
+en-JE,English (Jersey),English (Jersey)
+en-JM,English (Jamaica),English (Jamaica)
+en-KE,English (Kenya),English (Kenya)
+en-KI,English (Kiribati),English (Kiribati)
+en-KN,English (St. Kitts & Nevis),English (St. Kitts & Nevis)
+en-KY,English (Cayman Islands),English (Cayman Islands)
+en-LC,English (St. Lucia),English (St. Lucia)
+en-LR,English (Liberia),English (Liberia)
+en-LS,English (Lesotho),English (Lesotho)
+en-MG,English (Madagascar),English (Madagascar)
+en-MH,English (Marshall Islands),English (Marshall Islands)
+en-MO,English (Macao SAR China),English (Macao SAR China)
+en-MP,English (Northern Mariana Islands),English (Northern Mariana Islands)
+en-MS,English (Montserrat),English (Montserrat)
+en-MT,English (Malta),English (Malta)
+en-MU,English (Mauritius),English (Mauritius)
+en-MV,English (Maldives),English (Maldives)
+en-MW,English (Malawi),English (Malawi)
+en-MY,English (Malaysia),English (Malaysia)
+en-NA,English (Namibia),English (Namibia)
+en-NF,English (Norfolk Island),English (Norfolk Island)
+en-NG,English (Nigeria),English (Nigeria)
+en-NL,English (Netherlands),English (Netherlands)
+en-NR,English (Nauru),English (Nauru)
+en-NU,English (Niue),English (Niue)
+en-NZ,English (New Zealand),English (New Zealand)
+en-PG,English (Papua New Guinea),English (Papua New Guinea)
+en-PH,English (Philippines),English (Philippines)
+en-PK,English (Pakistan),English (Pakistan)
+en-PN,English (Pitcairn Islands),English (Pitcairn Islands)
+en-PR,English (Puerto Rico),English (Puerto Rico)
+en-PW,English (Palau),English (Palau)
+en-RW,English (Rwanda),English (Rwanda)
+en-SB,English (Solomon Islands),English (Solomon Islands)
+en-SC,English (Seychelles),English (Seychelles)
+en-SD,English (Sudan),English (Sudan)
+en-SE,English (Sweden),English (Sweden)
+en-SG,English (Singapore),English (Singapore)
+en-SH,English (St. Helena),English (St. Helena)
+en-SI,English (Slovenia),English (Slovenia)
+en-SL,English (Sierra Leone),English (Sierra Leone)
+en-SS,English (South Sudan),English (South Sudan)
+en-SX,English (Sint Maarten),English (Sint Maarten)
+en-SZ,English (Eswatini),English (Eswatini)
+en-TC,English (Turks & Caicos Islands),English (Turks & Caicos Islands)
+en-TK,English (Tokelau),English (Tokelau)
+en-TO,English (Tonga),English (Tonga)
+en-TT,English (Trinidad & Tobago),English (Trinidad & Tobago)
+en-TV,English (Tuvalu),English (Tuvalu)
+en-TZ,English (Tanzania),English (Tanzania)
+en-UG,English (Uganda),English (Uganda)
+en-UM,English (U.S. Outlying Islands),English (U.S. Outlying Islands)
+en-US,English (United States),English (United States)
+en-VC,English (St. Vincent & Grenadines),English (St. Vincent & Grenadines)
+en-VG,English (British Virgin Islands),English (British Virgin Islands)
+en-VI,English (U.S. Virgin Islands),English (U.S. Virgin Islands)
+en-VU,English (Vanuatu),English (Vanuatu)
+en-WS,English (Samoa),English (Samoa)
+en-ZA,English (South Africa),English (South Africa)
+en-ZM,English (Zambia),English (Zambia)
+en-ZW,English (Zimbabwe),English (Zimbabwe)
+enX,English X,English X
+eo,Esperanto,Esperanto
+eo-001,Esperanto (World),Esperanto (Mondo)
+es,Spanish,Español
+es-419,Spanish (Latin America),Español (Latinoamérica)
+es-AR,Spanish (Argentina),Español (Argentina)
+es-BO,Spanish (Bolivia),Español (Bolivia)
+es-BR,Spanish (Brazil),Español (Brasil)
+es-BZ,Spanish (Belize),Español (Belice)
+es-CL,Spanish (Chile),Español (Chile)
+es-CO,Spanish (Colombia),Español (Colombia)
+es-CR,Spanish (Costa Rica),Español (Costa Rica)
+es-CU,Spanish (Cuba),Español (Cuba)
+es-DO,Spanish (Dominican Republic),Español (República Dominicana)
+es-EA,Spanish (Ceuta & Melilla),Español (Ceuta y Melilla)
+es-EC,Spanish (Ecuador),Español (Ecuador)
+es-ES,Spanish (Spain),Español (España)
+es-GQ,Spanish (Equatorial Guinea),Español (Guinea Ecuatorial)
+es-GT,Spanish (Guatemala),Español (Guatemala)
+es-HN,Spanish (Honduras),Español (Honduras)
+es-IC,Spanish (Canary Islands),Español (Canarias)
+es-MX,Spanish (Mexico),Español (México)
+es-NI,Spanish (Nicaragua),Español (Nicaragua)
+es-PA,Spanish (Panama),Español (Panamá)
+es-PE,Spanish (Peru),Español (Perú)
+es-PH,Spanish (Philippines),Español (Filipinas)
+es-PR,Spanish (Puerto Rico),Español (Puerto Rico)
+es-PY,Spanish (Paraguay),Español (Paraguay)
+es-SV,Spanish (El Salvador),Español (El Salvador)
+es-US,Spanish (United States),Español (Estados Unidos)
+es-UY,Spanish (Uruguay),Español (Uruguay)
+es-VE,Spanish (Venezuela),Español (Venezuela)
+et,Estonian,Eesti
+et-EE,Estonian (Estonia),Eesti (Eesti)
+eu,Basque,Euskara
+eu-ES,Basque (Spain),Euskara (Espainia)
+ewo,Ewondo,Ewondo
+ewo-CM,Ewondo (Cameroon),Ewondo (Kamərún)
+fa,Persian,فارسی
+fa-AF,Persian (Afghanistan),فارسی (افغانستان)
+fa-IR,Persian (Iran),فارسی (ایران)
+ff,Fulah,Pulaar
+ff-BF,Fulah (Burkina Faso),Pulaar (Burkina Faso)
+ff-CM,Fulah (Cameroon),Pulaar (Kamerun)
+ff-GH,Fulah (Ghana),Pulaar (Gana)
+ff-GM,Fulah (Gambia),Pulaar (Gambi)
+ff-GN,Fulah (Guinea),Pulaar (Gine)
+ff-GW,Fulah (Guinea-Bissau),Pulaar (Gine-Bisaawo)
+ff-LR,Fulah (Liberia),Pulaar (Liberiyaa)
+ff-MR,Fulah (Mauritania),Pulaar (Muritani)
+ff-NE,Fulah (Niger),Pulaar (Nijeer)
+ff-NG,Fulah (Nigeria),Pulaar (Nijeriya)
+ff-SL,Fulah (Sierra Leone),Pulaar (Seraa liyon)
+ff-SN,Fulah (Senegal),Pulaar (Senegaal)
+fi,Finnish,Suomi
+fi-FI,Finnish (Finland),Suomi (Suomi)
+fil,Filipino,Filipino
+fil-PH,Filipino (Philippines),Filipino (Pilipinas)
+fo,Faroese,Føroyskt
+fo-DK,Faroese (Denmark),Føroyskt (Danmark)
+fo-FO,Faroese (Faroe Islands),Føroyskt (Føroyar)
+fr,French,Français
+fr-BE,French (Belgium),Français (Belgique)
+fr-BF,French (Burkina Faso),Français (Burkina Faso)
+fr-BI,French (Burundi),Français (Burundi)
+fr-BJ,French (Benin),Français (Bénin)
+fr-BL,French (St. Barthélemy),Français (Saint-Barthélemy)
+fr-CA,French (Canada),Français (Canada)
+fr-CD,French (Congo - Kinshasa),Français (Congo-Kinshasa)
+fr-CF,French (Central African Republic),Français (République centrafricaine)
+fr-CG,French (Congo - Brazzaville),Français (Congo-Brazzaville)
+fr-CH,French (Switzerland),Français (Suisse)
+fr-CI,French (Côte d'Ivoire),Français (Côte d'Ivoire)
+fr-CM,French (Cameroon),Français (Cameroun)
+fr-DJ,French (Djibouti),Français (Djibouti)
+fr-DZ,French (Algeria),Français (Algérie)
+fr-FR,French (France),Français (France)
+fr-GA,French (Gabon),Français (Gabon)
+fr-GF,French (French Guiana),Français (Guyane française)
+fr-GN,French (Guinea),Français (Guinée)
+fr-GP,French (Guadeloupe),Français (Guadeloupe)
+fr-GQ,French (Equatorial Guinea),Français (Guinée équatoriale)
+fr-HT,French (Haiti),Français (Haïti)
+fr-KM,French (Comoros),Français (Comores)
+fr-LU,French (Luxembourg),Français (Luxembourg)
+fr-MA,French (Morocco),Français (Maroc)
+fr-MC,French (Monaco),Français (Monaco)
+fr-MF,French (St. Martin),Français (Saint-Martin)
+fr-MG,French (Madagascar),Français (Madagascar)
+fr-ML,French (Mali),Français (Mali)
+fr-MQ,French (Martinique),Français (Martinique)
+fr-MR,French (Mauritania),Français (Mauritanie)
+fr-MU,French (Mauritius),Français (Maurice)
+fr-NC,French (New Caledonia),Français (Nouvelle-Calédonie)
+fr-NE,French (Niger),Français (Niger)
+fr-PF,French (French Polynesia),Français (Polynésie française)
+fr-PM,French (St. Pierre & Miquelon),Français (Saint-Pierre-et-Miquelon)
+fr-RE,French (Réunion),Français (La Réunion)
+fr-RW,French (Rwanda),Français (Rwanda)
+fr-SC,French (Seychelles),Français (Seychelles)
+fr-SN,French (Senegal),Français (Sénégal)
+fr-SY,French (Syria),Français (Syrie)
+fr-TD,French (Chad),Français (Tchad)
+fr-TG,French (Togo),Français (Togo)
+fr-TN,French (Tunisia),Français (Tunisie)
+fr-VU,French (Vanuatu),Français (Vanuatu)
+fr-WF,French (Wallis & Futuna),Français (Wallis-et-Futuna)
+fr-YT,French (Mayotte),Français (Mayotte)
+frr,Northern Frisian,Nordfriisk
+frr-DE,Northern Frisian (Germany),Nordfriisk (Dütschland)
+fur,Friulian,Furlan
+fur-IT,Friulian (Italy),Furlan (Italie)
+fy,Western Frisian,Frysk
+fy-NL,Western Frisian (Netherlands),Frysk (Nederlân)
+ga,Irish,Gaeilge
+ga-GB,Irish (United Kingdom),Gaeilge (an Ríocht Aontaithe)
+ga-IE,Irish (Ireland),Gaeilge (Éire)
+gaa,Ga,Gã
+gaa-GH,Ga (Ghana),Gã (Gaana)
+gd,Scottish Gaelic,Gàidhlig
+gd-GB,Scottish Gaelic (United Kingdom),Gàidhlig (An Rìoghachd Aonaichte)
+gez,Geez,ግዕዝ
+gez-ER,Geez (Eritrea),ግዕዝ (ኤርትራ)
+gez-ET,Geez (Ethiopia),ግዕዝ (ኢትዮጵያ)
+gl,Galician,Galego
+gl-ES,Galician (Spain),Galego (España)
+gn,Guarani,Avañe'ẽ
+gn-PY,Guarani (Paraguay),Avañe'ẽ (Paraguay)
+gsw,Swiss German,Schwiizertüütsch
+gsw-CH,Swiss German (Switzerland),Schwiizertüütsch (Schwiiz)
+gsw-FR,Swiss German (France),Schwiizertüütsch (Frankriich)
+gsw-LI,Swiss German (Liechtenstein),Schwiizertüütsch (Liächteschtäi)
+gu,Gujarati,ગુજરાતી
+gu-IN,Gujarati (India),ગુજરાતી (ભારત)
+guz,Gusii,Ekegusii
+guz-KE,Gusii (Kenya),Ekegusii (Kenya)
+gv,Manx,Gaelg
+gv-IM,Manx (Isle of Man),Gaelg (Ellan Vannin)
+ha,Hausa,Hausa
+ha-GH,Hausa (Ghana),Hausa (Gana)
+ha-NE,Hausa (Niger),Hausa (Nijar)
+ha-NG,Hausa (Nigeria),Hausa (Najeriya)
+ha-SD,Hausa (Sudan),Hausa (Sudan)
+haw,Hawaiian,ʻŌlelo Hawaiʻi
+haw-US,Hawaiian (United States),ʻŌlelo Hawaiʻi (ʻAmelika Hui Pū ʻIa)
+he,Hebrew,עברית
+he-IL,Hebrew (Israel),עברית (ישראל)
+hi,Hindi,हिन्दी
+hi-IN,Hindi (India),हिन्दी (भारत)
+hnj,Hmong Njua,Hmoob Nrua
+hnj-US,Hmong Njua (United States),Hmoob Nrua (United States)
+hr,Croatian,Hrvatski
+hr-BA,Croatian (Bosnia & Herzegovina),Hrvatski (Bosna i Hercegovina)
+hr-HR,Croatian (Croatia),Hrvatski (Hrvatska)
+hsb,Upper Sorbian,Hornjoserbšćina
+hsb-DE,Upper Sorbian (Germany),Hornjoserbšćina (Němska)
+hu,Hungarian,Magyar
+hu-HU,Hungarian (Hungary),Magyar (Magyarország)
+hy,Armenian,Հայերեն
+hy-AM,Armenian (Armenia),Հայերեն (Հայաստան)
+ia,Interlingua,Interlingua
+ia-001,Interlingua (World),Interlingua (Mundo)
+id,Indonesian,Indonesia
+id-ID,Indonesian (Indonesia),Indonesia (Indonesia)
+ie,Interlingue,Interlingue
+ie-EE,Interlingue (Estonia),Interlingue (Estonia)
+ig,Igbo,Igbo
+ig-NG,Igbo (Nigeria),Igbo (Naịjịrịa)
+ii,Sichuan Yi,ꆈꌠꉙ
+ii-CN,Sichuan Yi (China),ꆈꌠꉙ (ꍏꇩ)
+io,Ido,Ido
+io-001,Ido (World),Ido (World)
+is,Icelandic,Íslenska
+is-IS,Icelandic (Iceland),Íslenska (Ísland)
+it,Italian,Italiano
+it-CH,Italian (Switzerland),Italiano (Svizzera)
+it-IT,Italian (Italy),Italiano (Italia)
+it-SM,Italian (San Marino),Italiano (San Marino)
+it-VA,Italian (Vatican City),Italiano (Città del Vaticano)
+iu,Inuktitut,ᐃᓄᒃᑎᑐᑦ
+iu-CA,Inuktitut (Canada),ᐃᓄᒃᑎᑐᑦ (ᑲᓇᑕ)
+ja,Japanese,日本語
+ja-JP,Japanese (Japan),日本語 (日本)
+jbo,Lojban,la .lojban.
+jbo-001,Lojban (World),la .lojban. (World)
+jgo,Ngomba,Ndaꞌa
+jgo-CM,Ngomba (Cameroon),Ndaꞌa (Kamɛrūn)
+jmc,Machame,Kimachame
+jmc-TZ,Machame (Tanzania),Kimachame (Tanzania)
+jv,Javanese,Jawa
+jv-ID,Javanese (Indonesia),Jawa (Indonesia)
+ka,Georgian,ქართული
+ka-GE,Georgian (Georgia),ქართული (საქართველო)
+kaa,Kara-Kalpak,Қарақалпақ
+kaa-UZ,Kara-Kalpak (Uzbekistan),Қарақалпақ (Өзбекстан)
+kab,Kabyle,Taqbaylit
+kab-DZ,Kabyle (Algeria),Taqbaylit (Lezzayer)
+kaj,Jju,Jju
+kaj-NG,Jju (Nigeria),Jju (Nigeria)
+kam,Kamba,Kikamba
+kam-KE,Kamba (Kenya),Kikamba (Kenya)
+kcg,Tyap,Katab
+kcg-NG,Tyap (Nigeria),Katab (Nigeria)
+kde,Makonde,Chimakonde
+kde-TZ,Makonde (Tanzania),Chimakonde (Tanzania)
+kea,Kabuverdianu,Kabuverdianu
+kea-CV,Kabuverdianu (Cape Verde),Kabuverdianu (Kabu Verdi)
+ken,Kenyang,Kɛnyaŋ
+ken-CM,Kenyang (Cameroon),Kɛnyaŋ (Kamerun)
+kgp,Kaingang,Kanhgág
+kgp-BR,Kaingang (Brazil),Kanhgág (Brazil)
+khq,Koyra Chiini,Koyra ciini
+khq-ML,Koyra Chiini (Mali),Koyra ciini (Mali)
+ki,Kikuyu,Gikuyu
+ki-KE,Kikuyu (Kenya),Gikuyu (Kenya)
+kk,Kazakh,Қазақ
+kk-CN,Kazakh (China),Қазақ (Қытай)
+kk-KZ,Kazakh (Kazakhstan),Қазақ (Қазақстан)
+kkj,Kako,Kakɔ
+kkj-CM,Kako (Cameroon),Kakɔ (Kamɛrun)
+kl,Kalaallisut,Kalaallisut
+kl-GL,Kalaallisut (Greenland),Kalaallisut (Kalaallit Nunaat)
+kln,Kalenjin,Kalenjin
+kln-KE,Kalenjin (Kenya),Kalenjin (Emetab Kenya)
+km,Khmer,ខ្មែរ
+km-KH,Khmer (Cambodia),ខ្មែរ (កម្ពុជា)
+kn,Kannada,ಕನ್ನಡ
+kn-IN,Kannada (India),ಕನ್ನಡ (ಭಾರತ)
+ko,Korean,한국어
+ko-CN,Korean (China),한국어 (중국)
+ko-KP,Korean (North Korea),한국어 (조선민주주의인민공화국)
+ko-KR,Korean (South Korea),한국어 (대한민국)
+kok,Konkani,कोंकणी
+kok-IN,Konkani (India),कोंकणी (भारत)
+kpe,Kpelle,Kpelle
+kpe-GN,Kpelle (Guinea),Kpelle (Guinée)
+kpe-LR,Kpelle (Liberia),Kpelle (Liberia)
+ks,Kashmiri,کٲشُر
+ks-IN,Kashmiri (India),کٲشُر (ہِندوستان)
+ksb,Shambala,Kishambaa
+ksb-TZ,Shambala (Tanzania),Kishambaa (Tanzania)
+ksf,Bafia,Rikpa
+ksf-CM,Bafia (Cameroon),Rikpa (Kamɛrún)
+ksh,Colognian,Kölsch
+ksh-DE,Colognian (Germany),Kölsch (Doütschland)
+ku,Kurdish,Kurdî
+ku-TR,Kurdish (Turkey),Kurdî (Tirkiye)
+kw,Cornish,Kernewek
+kw-GB,Cornish (United Kingdom),Kernewek (Rywvaneth Unys)
+kxv,Kuvi,କୁଇ
+kxv-IN,Kuvi (India),କୁଇ (ଭାରତ)
+ky,Kyrgyz,Кыргызча
+ky-KG,Kyrgyz (Kyrgyzstan),Кыргызча (Кыргызстан)
+la,Latin,Latina
+la-VA,Latin (Vatican City),Latina (Civitas Vaticana)
+lag,Langi,Kɨlaangi
+lag-TZ,Langi (Tanzania),Kɨlaangi (Taansanía)
+lb,Luxembourgish,Lëtzebuergesch
+lb-LU,Luxembourgish (Luxembourg),Lëtzebuergesch (Lëtzebuerg)
+lg,Ganda,Luganda
+lg-UG,Ganda (Uganda),Luganda (Yuganda)
+lij,Ligurian,Lìgure
+lij-IT,Ligurian (Italy),Lìgure (Italia)
+lkt,Lakota,Lakȟólʼiyapi
+lkt-US,Lakota (United States),Lakȟólʼiyapi (Mílahaŋska Tȟamákȟočhe)
+lld,Ladin,Ladin
+lld-IT,Ladin (Italy),Ladin (Italia)
+lmo,Lombard,Lombard
+lmo-IT,Lombard (Italy),Lombard (Italia)
+ln,Lingala,Lingála
+ln-AO,Lingala (Angola),Lingála (Angóla)
+ln-CD,Lingala (Congo - Kinshasa),Lingála (Republíki ya Kongó Demokratíki)
+ln-CF,Lingala (Central African Republic),Lingála (Repibiki ya Afríka ya Káti)
+ln-CG,Lingala (Congo - Brazzaville),Lingála (Kongo)
+lo,Lao,ລາວ
+lo-LA,Lao (Laos),ລາວ (ລາວ)
+lrc,Northern Luri,لۊری شومالی
+lrc-IQ,Northern Luri (Iraq),لۊری شومالی (Iraq)
+lrc-IR,Northern Luri (Iran),لۊری شومالی (Iran)
+lt,Lithuanian,Lietuvių
+lt-LT,Lithuanian (Lithuania),Lietuvių (Lietuva)
+ltg,Latgalian,Latgalīšu
+ltg-LV,Latgalian (Latvia),Latgalīšu (Latveja)
+lu,Luba-Katanga,Tshiluba
+lu-CD,Luba-Katanga (Congo - Kinshasa),Tshiluba (Ditunga wa Kongu)
+luo,Luo,Dholuo
+luo-KE,Luo (Kenya),Dholuo (Kenya)
+luy,Luyia,Luluhia
+luy-KE,Luyia (Kenya),Luluhia (Kenya)
+lv,Latvian,Latviešu
+lv-LV,Latvian (Latvia),Latviešu (Latvija)
+mai,Maithili,मैथिली
+mai-IN,Maithili (India),मैथिली (भारत)
+mas,Masai,Maa
+mas-KE,Masai (Kenya),Maa (Kenya)
+mas-TZ,Masai (Tanzania),Maa (Tansania)
+mdf,Moksha,Мокшень
+mdf-RU,Moksha (Russia),Мокшень (Россия)
+mer,Meru,Kĩmĩrũ
+mer-KE,Meru (Kenya),Kĩmĩrũ (Kenya)
+mfe,Morisyen,Kreol Morisien
+mfe-MU,Morisyen (Mauritius),Kreol Morisien (Moris)
+mg,Malagasy,Malagasy
+mg-MG,Malagasy (Madagascar),Malagasy (Madagasikara)
+mgh,Makhuwa-Meetto,Makua
+mgh-MZ,Makhuwa-Meetto (Mozambique),Makua (Mozambique)
+mgo,Metaʼ,Metaʼ
+mgo-CM,Metaʼ (Cameroon),Metaʼ (Kamalún)
+mhn,Mócheno,Bersntoler
+mhn-IT,Mócheno (Italy),Bersntoler (Italia)
+mi,Māori,Te Reo Māori
+mi-NZ,Māori (New Zealand),Te Reo Māori (Aotearoa)
+mic,Mi'kmaq,Mìkmawìsimk
+mic-CA,Mi'kmaq (Canada),Mìkmawìsimk (Canada)
+mk,Macedonian,Македонски
+mk-MK,Macedonian (North Macedonia),Македонски (Северна Македонија)
+ml,Malayalam,മലയാളം
+ml-IN,Malayalam (India),മലയാളം (ഇന്ത്യ)
+mn,Mongolian,Монгол
+mn-CN,Mongolian (China),Монгол (Хятад)
+mn-MN,Mongolian (Mongolia),Монгол (Монгол)
+mni,Manipuri,মৈতৈলোন্
+mni-IN,Manipuri (India),মৈতৈলোন্ (ভারত)
+moh,Mohawk,Kanienʼkéha
+moh-CA,Mohawk (Canada),Kanienʼkéha (Canada)
+mr,Marathi,मराठी
+mr-IN,Marathi (India),मराठी (भारत)
+ms,Malay,Melayu
+ms-BN,Malay (Brunei),Melayu (Brunei)
+ms-ID,Malay (Indonesia),Melayu (Indonesia)
+ms-MY,Malay (Malaysia),Melayu (Malaysia)
+ms-SG,Malay (Singapore),Melayu (Singapura)
+mt,Maltese,Malti
+mt-MT,Maltese (Malta),Malti (Malta)
+mua,Mundang,Mundang
+mua-CM,Mundang (Cameroon),Mundang (Cameroon)
+mus,Muscogee,Mvskoke
+mus-US,Muscogee (United States),Mvskoke (United States)
+my,Burmese,မြန်မာ
+my-MM,Burmese (Myanmar),မြန်မာ (မြန်မာ)
+myv,Erzya,Эрзянь
+myv-RU,Erzya (Russia),Эрзянь (Россия)
+mzn,Mazanderani,مازرونی
+mzn-IR,Mazanderani (Iran),مازرونی (ایران)
+naq,Nama,Khoekhoegowab
+naq-NA,Nama (Namibia),Khoekhoegowab (Namibiab)
+nb,Norwegian Bokmål,Norsk bokmål
+nb-NO,Norwegian Bokmål (Norway),Norsk bokmål (Norge)
+nb-SJ,Norwegian Bokmål (Svalbard & Jan Mayen),Norsk bokmål (Svalbard og Jan Mayen)
+nd,North Ndebele,IsiNdebele
+nd-ZW,North Ndebele (Zimbabwe),IsiNdebele (Zimbabwe)
+nds,Low German,Neddersassisch
+nds-DE,Low German (Germany),Neddersassisch (Deutschland)
+nds-NL,Low German (Netherlands),Neddersassisch (Nederland)
+ne,Nepali,नेपाली
+ne-IN,Nepali (India),नेपाली (भारत)
+ne-NP,Nepali (Nepal),नेपाली (नेपाल)
+nl,Dutch,Nederlands
+nl-AW,Dutch (Aruba),Nederlands (Aruba)
+nl-BE,Dutch (Belgium),Nederlands (België)
+nl-BQ,Dutch (Caribbean Netherlands),Nederlands (Caribisch Nederland)
+nl-CW,Dutch (Curaçao),Nederlands (Curaçao)
+nl-NL,Dutch (Netherlands),Nederlands (Nederland)
+nl-SR,Dutch (Suriname),Nederlands (Suriname)
+nl-SX,Dutch (Sint Maarten),Nederlands (Sint Maarten)
+nmg,Kwasio,Ngumba
+nmg-CM,Kwasio (Cameroon),Ngumba (Kamerun)
+nn,Norwegian Nynorsk,Norsk nynorsk
+nn-NO,Norwegian Nynorsk (Norway),Norsk nynorsk (Noreg)
+nnh,Ngiemboon,Shwóŋò ngiembɔɔn
+nnh-CM,Ngiemboon (Cameroon),Shwóŋò ngiembɔɔn (Kàmalûm)
+no,Norwegian,Norsk
+nqo,N'Ko,ߒߞߏ
+nqo-GN,N'Ko (Guinea),ߒߞߏ (ߖߌ߬ߣߍ߬)
+nr,South Ndebele,isiNdebele
+nr-ZA,South Ndebele (South Africa),isiNdebele (iSewula Afrika)
+nso,Northern Sotho,Sesotho sa Leboa
+nso-ZA,Northern Sotho (South Africa),Sesotho sa Leboa (Afrika Borwa)
+nus,Nuer,Thok Nath
+nus-SS,Nuer (South Sudan),Thok Nath (South Sudan)
+nv,Navajo,Diné Bizaad
+nv-US,Navajo (United States),Diné Bizaad (United States)
+ny,Nyanja,Nyanja
+ny-MW,Nyanja (Malawi),Nyanja (Malawi)
+nyn,Nyankole,Runyankore
+nyn-UG,Nyankole (Uganda),Runyankore (Uganda)
+oc,Occitan,Occitan
+oc-ES,Occitan (Spain),Occitan (Espanha)
+oc-FR,Occitan (France),Occitan (França)
+om,Oromo,Oromoo
+om-ET,Oromo (Ethiopia),Oromoo (Itoophiyaa)
+om-KE,Oromo (Kenya),Oromoo (Keeniyaa)
+or,Odia,ଓଡ଼ିଆ
+or-IN,Odia (India),ଓଡ଼ିଆ (ଭାରତ)
+os,Ossetic,Ирон
+os-GE,Ossetic (Georgia),Ирон (Гуырдзыстон)
+os-RU,Ossetic (Russia),Ирон (Уӕрӕсе)
+osa,Osage,Wazhazhe
+osa-US,Osage (United States),Wazhazhe (United States)
+pa,Punjabi,ਪੰਜਾਬੀ
+pa-IN,Punjabi (India),ਪੰਜਾਬੀ (ਭਾਰਤ)
+pa-PK,Punjabi (Pakistan),پنجابی (پاکستان)
+pap,Papiamento,Papiamento
+pap-AW,Papiamento (Aruba),Papiamento (Aruba)
+pap-CW,Papiamento (Curaçao),Papiamento (Curaçao)
+pcm,Nigerian Pidgin,Naijíriá Píjin
+pcm-NG,Nigerian Pidgin (Nigeria),Naijíriá Píjin (Naijíria)
+pis,Pijin,Pijin
+pis-SB,Pijin (Solomon Islands),Pijin (Solomon Islands)
+pl,Polish,Polski
+pl-PL,Polish (Poland),Polski (Polska)
+prg,Prussian,Prūsiskan
+prg-PL,Prussian (Poland),Prūsiskan (Polska)
+ps,Pashto,پښتو
+ps-AF,Pashto (Afghanistan),پښتو (افغانستان)
+ps-PK,Pashto (Pakistan),پښتو (پاکستان)
+pt,Portuguese,Português
+pt-AO,Portuguese (Angola),Português (Angola)
+pt-BR,Portuguese (Brazil),Português (Brasil)
+pt-CH,Portuguese (Switzerland),Português (Suíça)
+pt-CV,Portuguese (Cape Verde),Português (Cabo Verde)
+pt-GQ,Portuguese (Equatorial Guinea),Português (Guiné Equatorial)
+pt-GW,Portuguese (Guinea-Bissau),Português (Guiné-Bissau)
+pt-LU,Portuguese (Luxembourg),Português (Luxemburgo)
+pt-MO,Portuguese (Macao SAR China),Português (Macau, RAE da China)
+pt-MZ,Portuguese (Mozambique),Português (Moçambique)
+pt-PT,Portuguese (Portugal),Português (Portugal)
+pt-ST,Portuguese (São Tomé & Príncipe),Português (São Tomé e Príncipe)
+pt-TL,Portuguese (Timor-Leste),Português (Timor-Leste)
+qu,Quechua,Runasimi
+qu-BO,Quechua (Bolivia),Runasimi (Bolivia)
+qu-EC,Quechua (Ecuador),Runasimi (Ecuador)
+qu-PE,Quechua (Peru),Runasimi (Perú)
+quc,Kʼicheʼ,Kʼicheʼ
+quc-GT,Kʼicheʼ (Guatemala),Kʼicheʼ (Guatemala)
+raj,Rajasthani,राजस्थानी
+raj-IN,Rajasthani (India),राजस्थानी (भारत)
+rhg,Rohingya,𐴌𐴟𐴇𐴥𐴝𐴚𐴒𐴙𐴝
+rhg-BD,Rohingya (Bangladesh),𐴌𐴟𐴇𐴥𐴝𐴚𐴒𐴙𐴝 (𐴊𐴝𐴀𐴞𐴝𐴓𐴨𐴡𐴥𐴝)
+rhg-MM,Rohingya (Myanmar),𐴌𐴟𐴇𐴥𐴝𐴚𐴒𐴙𐴝 (𐴓𐴙𐴝𐴀𐴓𐴝)
+rif,Riffian,Tarifit
+rif-MA,Riffian (Morocco),Tarifit (Merruk)
+rm,Romansh,Rumantsch
+rm-CH,Romansh (Switzerland),Rumantsch (Svizra)
+rn,Rundi,Ikirundi
+rn-BI,Rundi (Burundi),Ikirundi (Uburundi)
+ro,Romanian,Română
+ro-MD,Romanian (Moldova),Română (Moldova)
+ro-RO,Romanian (Romania),Română (România)
+rof,Rombo,Kihorombo
+rof-TZ,Rombo (Tanzania),Kihorombo (Tanzania)
+root,Root,Root
+ru,Russian,Русский
+ru-BY,Russian (Belarus),Русский (Беларусь)
+ru-KG,Russian (Kyrgyzstan),Русский (Киргизия)
+ru-KZ,Russian (Kazakhstan),Русский (Казахстан)
+ru-MD,Russian (Moldova),Русский (Молдова)
+ru-RU,Russian (Russia),Русский (Россия)
+ru-UA,Russian (Ukraine),Русский (Украина)
+rw,Kinyarwanda,Kinyarwanda
+rw-RW,Kinyarwanda (Rwanda),Kinyarwanda (Rwanda)
+rwk,Rwa,Kiruwa
+rwk-TZ,Rwa (Tanzania),Kiruwa (Tanzania)
+sa,Sanskrit,संस्कृत
+sa-IN,Sanskrit (India),संस्कृत (भारत)
+sah,Sakha,Саха
+sah-RU,Sakha (Russia),Саха (Россия)
+saq,Samburu,Kisampur
+saq-KE,Samburu (Kenya),Kisampur (Kenya)
+sat,Santali,ᱥᱟᱱᱛᱟᱲᱤ
+sat-IN,Santali (India),ᱥᱟᱱᱛᱟᱲᱤ (ᱤᱱᱰᱤᱭᱟ)
+sbp,Sangu,Ishisangu
+sbp-TZ,Sangu (Tanzania),Ishisangu (Tansaniya)
+sc,Sardinian,Sardu
+sc-IT,Sardinian (Italy),Sardu (Itàlia)
+scn,Sicilian,Sicilianu
+scn-IT,Sicilian (Italy),Sicilianu (Italia)
+sd,Sindhi,سنڌي
+sd-IN,Sindhi (India),سنڌي (भारत)
+sd-PK,Sindhi (Pakistan),سنڌي (پاڪستان)
+sdh,Southern Kurdish,کوردیی خوارگ
+sdh-IQ,Southern Kurdish (Iraq),کوردیی خوارگ (عێراق)
+sdh-IR,Southern Kurdish (Iran),کوردیی خوارگ (ئێران)
+se,Northern Sami,Davvisámegiella
+se-FI,Northern Sami (Finland),Davvisámegiella (Suopma)
+se-NO,Northern Sami (Norway),Davvisámegiella (Norga)
+se-SE,Northern Sami (Sweden),Davvisámegiella (Ruoŧŧa)
+seh,Sena,Sena
+seh-MZ,Sena (Mozambique),Sena (Moçambique)
+ses,Koyraboro Senni,Koyraboro senni
+ses-ML,Koyraboro Senni (Mali),Koyraboro senni (Maali)
+sg,Sango,Sängö
+sg-CF,Sango (Central African Republic),Sängö (Ködörösêse tî Bêafrîka)
+shi,Tachelhit,ⵜⴰⵛⵍⵃⵉⵜ
+shi-MA,Tachelhit (Morocco),ⵜⴰⵛⵍⵃⵉⵜ (ⵍⵎⵖⵔⵉⴱ)
+shn,Shan,လိၵ်ႈတႆး
+shn-MM,Shan (Myanmar),လိၵ်ႈတႆး (မျၢၼ်ႇမႃႇ)
+shn-TH,Shan (Thailand),လိၵ်ႈတႆး (ထႆး)
+si,Sinhala,සිංහල
+si-LK,Sinhala (Sri Lanka),සිංහල (ශ්‍රී ලංකාව)
+sid,Sidamo,Sidaamu Afo
+sid-ET,Sidamo (Ethiopia),Sidaamu Afo (Itiyoophiya)
+sk,Slovak,Slovenčina
+sk-SK,Slovak (Slovakia),Slovenčina (Slovensko)
+skr,Saraiki,سرائیکی
+skr-PK,Saraiki (Pakistan),سرائیکی (پاکستان)
+sl,Slovenian,Slovenščina
+sl-SI,Slovenian (Slovenia),Slovenščina (Slovenija)
+sma,Southern Sami,Åarjelsaemien
+sma-NO,Southern Sami (Norway),Åarjelsaemien (Nöörje)
+sma-SE,Southern Sami (Sweden),Åarjelsaemien (Sveerje)
+smj,Lule Sami,Julevsámegiella
+smj-NO,Lule Sami (Norway),Julevsámegiella (Vuodna)
+smj-SE,Lule Sami (Sweden),Julevsámegiella (Svierik)
+smn,Inari Sami,Anarâškielâ
+smn-FI,Inari Sami (Finland),Anarâškielâ (Suomâ)
+sms,Skolt Sami,Sääʹmǩiõll
+sms-FI,Skolt Sami (Finland),Sääʹmǩiõll (Lääʹddjânnam)
+sn,Shona,ChiShona
+sn-ZW,Shona (Zimbabwe),ChiShona (Zimbabwe)
+so,Somali,Soomaali
+so-DJ,Somali (Djibouti),Soomaali (Jabuuti)
+so-ET,Somali (Ethiopia),Soomaali (Itoobiya)
+so-KE,Somali (Kenya),Soomaali (Kenya)
+so-SO,Somali (Somalia),Soomaali (Soomaaliya)
+sq,Albanian,Shqip
+sq-AL,Albanian (Albania),Shqip (Shqipëri)
+sq-MK,Albanian (North Macedonia),Shqip (Maqedonia e Veriut)
+sq-XK,Albanian (Kosovo),Shqip (Kosovë)
+sr,Serbian,Српски
+sr-BA,Serbian (Bosnia & Herzegovina),Српски (Босна и Херцеговина)
+sr-ME,Serbian (Montenegro),Српски (Црна Гора)
+sr-RS,Serbian (Serbia),Српски (Србија)
+sr-XK,Serbian (Kosovo),Српски (Косово)
+ss,Swati,SiSwati
+ss-SZ,Swati (Eswatini),SiSwati (eSwatini)
+ss-ZA,Swati (South Africa),SiSwati (eMzansi)
+ssy,Saho,Saho
+ssy-ER,Saho (Eritrea),Saho (Eritrea)
+st,Southern Sotho,Sesotho
+st-LS,Southern Sotho (Lesotho),Sesotho (Lesotho)
+st-ZA,Southern Sotho (South Africa),Sesotho (Afrika Borwa)
+su,Sundanese,Basa Sunda
+su-ID,Sundanese (Indonesia),Basa Sunda (Indonesia)
+sv,Swedish,Svenska
+sv-AX,Swedish (Åland Islands),Svenska (Åland)
+sv-FI,Swedish (Finland),Svenska (Finland)
+sv-SE,Swedish (Sweden),Svenska (Sverige)
+sw,Swahili,Kiswahili
+sw-CD,Swahili (Congo - Kinshasa),Kiswahili (Jamhuri ya Kidemokrasia ya Kongo)
+sw-KE,Swahili (Kenya),Kiswahili (Kenya)
+sw-TZ,Swahili (Tanzania),Kiswahili (Tanzania)
+sw-UG,Swahili (Uganda),Kiswahili (Uganda)
+syr,Syriac,ܣܘܪܝܝܐ
+syr-IQ,Syriac (Iraq),ܣܘܪܝܝܐ (ܥܝܪܐܩ)
+syr-SY,Syriac (Syria),ܣܘܪܝܝܐ (ܣܘܪܝܐ)
+szl,Silesian,Ślōnski
+szl-PL,Silesian (Poland),Ślōnski (Polska)
+ta,Tamil,தமிழ்
+ta-IN,Tamil (India),தமிழ் (இந்தியா)
+ta-LK,Tamil (Sri Lanka),தமிழ் (இலங்கை)
+ta-MY,Tamil (Malaysia),தமிழ் (மலேசியா)
+ta-SG,Tamil (Singapore),தமிழ் (சிங்கப்பூர்)
+te,Telugu,తెలుగు
+te-IN,Telugu (India),తెలుగు (భారతదేశం)
+teo,Teso,Kiteso
+teo-KE,Teso (Kenya),Kiteso (Kenia)
+teo-UG,Teso (Uganda),Kiteso (Uganda)
+tg,Tajik,Тоҷикӣ
+tg-TJ,Tajik (Tajikistan),Тоҷикӣ (Тоҷикистон)
+th,Thai,ไทย
+th-TH,Thai (Thailand),ไทย (ไทย)
+ti,Tigrinya,ትግርኛ
+ti-ER,Tigrinya (Eritrea),ትግርኛ (ኤርትራ)
+ti-ET,Tigrinya (Ethiopia),ትግርኛ (ኢትዮጵያ)
+tig,Tigre,ትግረ
+tig-ER,Tigre (Eritrea),ትግረ (ኤርትራ)
+tk,Turkmen,Türkmen
+tk-TM,Turkmen (Turkmenistan),Türkmen (Türkmenistan)
+tn,Tswana,Setswana
+tn-BW,Tswana (Botswana),Setswana (Botswana)
+tn-ZA,Tswana (South Africa),Setswana (Aforika Borwa)
+to,Tongan,Lea fakatonga
+to-TO,Tongan (Tonga),Lea fakatonga (Tonga)
+tok,Toki Pona,Toki Pona
+tok-001,Toki Pona (World),Toki Pona (ma ali)
+tpi,Tok Pisin,Tok Pisin
+tpi-PG,Tok Pisin (Papua New Guinea),Tok Pisin (Papua Niugini)
+tr,Turkish,Türkçe
+tr-CY,Turkish (Cyprus),Türkçe (Kıbrıs)
+tr-TR,Turkish (Turkey),Türkçe (Türkiye)
+trv,Taroko,Seediq
+trv-TW,Taroko (Taiwan),Seediq (Taiwan)
+trw,Torwali,توروالی
+trw-PK,Torwali (Pakistan),توروالی (پاکستان)
+ts,Tsonga,Xitsonga
+ts-ZA,Tsonga (South Africa),Xitsonga (Afrika-Dzonga)
+tt,Tatar,Татар
+tt-RU,Tatar (Russia),Татар (Россия)
+twq,Tasawaq,Tasawaq senni
+twq-NE,Tasawaq (Niger),Tasawaq senni (Nižer)
+tyv,Tuvinian,Тыва дыл
+tyv-RU,Tuvinian (Russia),Тыва дыл (Россия)
+tzm,Central Atlas Tamazight,Tamaziɣt n laṭlaṣ
+tzm-MA,Central Atlas Tamazight (Morocco),Tamaziɣt n laṭlaṣ (Meṛṛuk)
+ug,Uyghur,ئۇيغۇرچە
+ug-CN,Uyghur (China),ئۇيغۇرچە (جۇڭگو)
+uk,Ukrainian,Українська
+uk-UA,Ukrainian (Ukraine),Українська (Україна)
+ur,Urdu,اردو
+ur-IN,Urdu (India),اردو (بھارت)
+ur-PK,Urdu (Pakistan),اردو (پاکستان)
+uz,Uzbek,O'zbek
+uz-AF,Uzbek (Afghanistan),O'zbek (Афғонистон)
+uz-UZ,Uzbek (Uzbekistan),O'zbek (Oʻzbekiston)
+vai,Vai,ꕙꔤ
+vai-LR,Vai (Liberia),ꕙꔤ (ꕞꔤꔫꕩ)
+ve,Venda,Tshivenḓa
+ve-ZA,Venda (South Africa),Tshivenḓa (Afurika Tshipembe)
+vec,Venetian,Vèneto
+vec-IT,Venetian (Italy),Vèneto (Italia)
+vi,Vietnamese,Tiếng Việt
+vi-VN,Vietnamese (Vietnam),Tiếng Việt (Việt Nam)
+vmw,Makhuwa,Emakhuwa
+vmw-MZ,Makhuwa (Mozambique),Emakhuwa (Moxambike)
+vo,Volapük,Volapük
+vo-001,Volapük (World),Volapük (World)
+vun,Vunjo,Kyivunjo
+vun-TZ,Vunjo (Tanzania),Kyivunjo (Tanzania)
+wa,Walloon,Walon
+wa-BE,Walloon (Belgium),Walon (Beldjike)
+wae,Walser,Walser
+wae-CH,Walser (Switzerland),Walser (Schwiz)
+wal,Wolaytta,ወላይታቱ
+wal-ET,Wolaytta (Ethiopia),ወላይታቱ (ኢትዮጵያ)
+wbp,Warlpiri,Warlpiri
+wbp-AU,Warlpiri (Australia),Warlpiri (Australia)
+wo,Wolof,Wolof
+wo-SN,Wolof (Senegal),Wolof (Senegaal)
+xh,Xhosa,IsiXhosa
+xh-ZA,Xhosa (South Africa),IsiXhosa (eMzantsi Afrika)
+xnr,Kangri,कांगड़ी
+xnr-IN,Kangri (India),कांगड़ी (भारत)
+xog,Soga,Olusoga
+xog-UG,Soga (Uganda),Olusoga (Uganda)
+yav,Yangben,Nuasue
+yav-CM,Yangben (Cameroon),Nuasue (Kemelún)
+yi,Yiddish,ייִדיש
+yi-UA,Yiddish (Ukraine),ייִדיש (אוקראַינע)
+yo,Yoruba,Èdè Yorùbá
+yo-BJ,Yoruba (Benin),Èdè Yorùbá (Orílɛ́ède Bɛ̀nɛ̀)
+yo-NG,Yoruba (Nigeria),Èdè Yorùbá (Nàìjíríà)
+yrl,Nheengatu,Nheẽgatu
+yrl-BR,Nheengatu (Brazil),Nheẽgatu (Brasil)
+yrl-CO,Nheengatu (Colombia),Nheẽgatu (Colombia)
+yrl-VE,Nheengatu (Venezuela),Nheẽgatu (Venezuela)
+yue,Cantonese,粵語
+yue-CN,Cantonese (China),粵語 (中國)
+yue-HK,Cantonese (Hong Kong),粵語 (香港)
+za,Zhuang,Vahcuengh
+za-CN,Zhuang (China),Vahcuengh (Cunghgoz)
+zgh,Standard Moroccan Tamazight,ⵜⴰⵎⴰⵣⵉⵖⵜ
+zgh-MA,Standard Moroccan Tamazight (Morocco),ⵜⴰⵎⴰⵣⵉⵖⵜ (ⵍⵎⵖⵔⵉⴱ)
+zh,Chinese,中文
+zh-CN,"Chinese (Simplified, China)",简体中文 (中国)
+zh-HK,"Chinese (Traditional, Hong Kong)",繁體中文 (香港)
+zh-MO,"Chinese (Traditional, Macao)",繁體中文 (澳門)
+zh-MY,"Chinese (Simplified, Malaysia)",简体中文 (马来西亚)
+zh-SG,"Chinese (Simplified, Singapore)",简体中文 (新加坡)
+zh-TW,"Chinese (Traditional, Taiwan)",繁體中文 (台灣)
+zu,Zulu,isiZulu
+zu-ZA,Zulu (South Africa),isiZulu (iNingizimu Afrika)
