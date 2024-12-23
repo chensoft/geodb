@@ -1,0 +1,219 @@
+code,kind,parent,name,native
+AD-02,Parish,,Canillo,Canillo
+AD-03,Parish,,Encamp,Encamp
+AD-04,Parish,,La Massana,La Massana
+AD-05,Parish,,Ordino,Ordino
+AD-06,Parish,,Sant Julià de Lòria,Sant Julià de Lòria
+AD-07,Parish,,Andorra la Vella,Andorra la Vella
+AD-08,Parish,,Escaldes-Engordany,Escaldes-Engordany
+AE-AJ,Emirate,,Ajman,عجمانّ
+AE-AZ,Emirate,,Abu Dhabi,أبو ظبي
+AE-DU,Emirate,,Dubai,دبي
+AE-FU,Emirate,,Fujairah,الفجيرة
+AE-RK,Emirate,,Ras Al Khaimah,رأس الخيمة
+AE-SH,Emirate,,Sharjah,الشارقةّ
+AE-UQ,Emirate,,Umm Al Quwain,أمّ القيوين
+AF-BAL,Province,,Balkh,بلخ
+AF-BAM,Province,,Bamyan,بامیان
+AF-BDG,Province,,Badghis,بادغیس
+AF-BDS,Province,,Badakhshan,بدخشان
+AF-BGL,Province,,Baghlan,بغلان
+AF-DAY,Province,,Daykundi,دایکندی
+AF-FRA,Province,,Farah,فراه
+AF-FYB,Province,,Faryab,فاریاب
+AF-GHA,Province,,Ghazni,غزني
+AF-GHO,Province,,Ghōr,غور
+AF-HEL,Province,,Helmand,هلمند
+AF-HER,Province,,Herat,هرات
+AF-JOW,Province,,Jowzjan,جوزجان
+AF-KAB,Province,,Kabul,کابل
+AF-KAN,Province,,Kandahar,کندھار
+AF-KAP,Province,,Kapisa,کاپيسا
+AF-KDZ,Province,,Kunduz,کندوز
+AF-KHO,Province,,Khost,خوست
+AF-KNR,Province,,Kunar,کونړ
+AF-LAG,Province,,Laghman,لغمان
+AF-LOG,Province,,Logar,لوګر
+AF-NAN,Province,,Nangarhar,ننګرهار
+AF-NIM,Province,,Nimruz,نيمروز
+AF-NUR,Province,,Nuristan,نورستان
+AF-PAN,Province,,Panjshir,پنجشیر
+AF-PAR,Province,,Parwan,پروان
+AF-PIA,Province,,Paktia,پکتیا
+AF-PKA,Province,,Paktika,پکتیکا
+AF-SAM,Province,,Samangan,سمنګان
+AF-SAR,Province,,Sar-e Pol,سرپل
+AF-TAK,Province,,Takhar,تخار
+AF-URU,Province,,Urozgan,اروزګان
+AF-WAR,Province,,Maidan Wardak,ميدان وردگ
+AF-ZAB,Province,,Zabul,زابل
+AG-03,Parish,,Saint George,Saint George
+AG-04,Parish,,Saint John,Saint John
+AG-05,Parish,,Saint Mary,Saint Mary
+AG-06,Parish,,Saint Paul,Saint Paul
+AG-07,Parish,,Saint Peter,Saint Peter
+AG-08,Parish,,Saint Philip,Saint Philip
+AG-10,Dependency,,Barbuda,Barbuda
+AG-11,Dependency,,Redonda,Redonda
+AL-01,County,,Berat,Berat
+AL-02,County,,Durrës,Durrës
+AL-03,County,,Elbasan,Elbasan
+AL-04,County,,Fier,Fier
+AL-05,County,,Gjirokastër,Gjirokastër
+AL-06,County,,Korçë,Korçë
+AL-07,County,,Kukës,Kukës
+AL-08,County,,Lezhë,Lezhë
+AL-09,County,,Dibër,Dibër
+AL-10,County,,Shkodër,Shkodër
+AL-11,County,,Tiranë,Tiranë
+AL-12,County,,Vlorë,Vlorë
+AM-AG,Region,,Aragatsotn,Արագածոտն
+AM-AR,Region,,Ararat,Արարատ
+AM-AV,Region,,Armavir,Արմավիր
+AM-ER,City,,Yerevan,Երևան
+AM-GR,Region,,Gegharkunik,Գեղարքունիք
+AM-KT,Region,,Kotayk,Կոտայք
+AM-LO,Region,,Lori,Լոռի
+AM-SH,Region,,Shirak,Շիրակ
+AM-SU,Region,,Syunik,Սյունիք
+AM-TV,Region,,Tavush,Տավուշ
+AM-VD,Region,,Vayots Dzor,Վայոց Ձոր
+AO-BGO,Province,,Bengo,Bengo
+AO-BGU,Province,,Benguela,Benguela
+AO-BIE,Province,,Bie,Bié
+AO-CAB,Province,,Cabinda,Cabinda
+AO-CCU,ProvinceKuando Kubango,,Cuando Cubango,Cuando Cubango
+AO-CNN,Province,,Cunene,Cunene
+AO-CNO,ProvinceKwanza Norte,,North Cuanza,Cuanza-Norte
+AO-CUS,ProvinceKwanza Sul,,South Cuanza,Cuanza-Sul
+AO-HUA,Province,,Huambo,Huambo
+AO-HUI,Province,,Huila,Huíla
+AO-LNO,Province,,North Lunda,Lunda-Norte
+AO-LSU,Province,,South Lunda,Lunda-Sul
+AO-LUA,Province,,Luanda,Luanda
+AO-MAL,Province,,Malanje,Malange
+AO-MOX,Province,,Moxico,Moxico
+AO-NAM,Province,,Namibe,Namibe
+AO-UIG,Province,,Uige,Uíge
+AO-ZAI,Province,,Zaire,Zaire
+AR-A,Province,,Salta,Salta
+AR-B,Province,,Buenos Aires,Buenos Aires
+AR-C,City,,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires
+AR-D,Province,,San Luis,San Luis
+AR-E,Province,,Entre Ríos,Entre Ríos
+AR-F,Province,,La Rioja,La Rioja
+AR-G,Province,,Santiago del Estero,Santiago del Estero
+AR-H,Province,,Chaco,Chaco
+AR-J,Province,,San Juan,San Juan
+AR-K,Province,,Catamarca,Catamarca
+AR-L,Province,,La Pampa,La Pampa
+AR-M,Province,,Mendoza,Mendoza
+AR-N,Province,,Misiones,Misiones
+AR-P,Province,,Formosa,Formosa
+AR-Q,Province,,Neuquén,Neuquén
+AR-R,Province,,Río Negro,Río Negro
+AR-S,Province,,Santa Fe,Santa Fe
+AR-T,Province,,Tucumán,Tucumán
+AR-U,Province,,Chubut,Chubut
+AR-V,Province,,Tierra del Fuego,Tierra del Fuego
+AR-W,Province,,Corrientes,Corrientes
+AR-X,Province,,Córdoba,Córdoba
+AR-Y,Province,,Jujuy,Jujuy
+AR-Z,Province,,Santa Cruz,Santa Cruz
+AT-1,State,,Burgenland,Burgenland
+AT-2,State,,Carinthia,Kärnten
+AT-3,State,,Lower Austria,Niederösterreich
+AT-4,State,,Upper Austria,Oberösterreich
+AT-5,State,,Salzburg,Salzburg
+AT-6,State,,Styria,Steiermark
+AT-7,State,,Tyrol,Tirol
+AT-8,State,,Vorarlberg,Vorarlberg
+AT-9,State,,Vienna,Wien
+AU-ACT,Territory,,Australian Capital Territory,Australian Capital Territory
+AU-NSW,State,,New South Wales,New South Wales
+AU-NT,Territory,,Northern Territory,Northern Territory
+AU-QLD,State,,Queensland,Queensland
+AU-SA,State,,South Australia,South Australia
+AU-TAS,State,,Tasmania,Tasmania
+AU-VIC,State,,Victoria,Victoria
+AU-WA,State,,Western Australia,Western Australia
+AZ-NX,Autonomous Republic,,Nakhchivan,Naxçıvan
+AZ-ABS,Rayon,,Absheron,Abşeron
+AZ-AGA,Rayon,,Aghstafa,Ağstafa
+AZ-AGC,Rayon,,Aghjabadi,Ağcabədi
+AZ-AGM,Rayon,,Aghdam,Ağdam
+AZ-AGS,Rayon,,Agdash,Ağdaş
+AZ-AGU,Rayon,,Aghsu,Ağsu
+AZ-AST,Rayon,,Astara,Astara
+AZ-BA,Municipality,,Baku,Bakı
+AZ-BAB,Rayon,AZ-NX,Babek,Babək
+AZ-BAL,Rayon,,Balakan,Balakən
+AZ-BAR,Rayon,,Barda,Bərdə
+AZ-BEY,Rayon,,Beylagan,Beyləqan
+AZ-BIL,Rayon,,Bilasuvar,Biləsuvar
+AZ-CAB,Rayon,,Jabrayil,Cəbrayıl
+AZ-CAL,Rayon,,Jalilabad,Cəlilabad
+AZ-CUL,Rayon,AZ-NX,Julfa,Culfa
+AZ-DAS,Rayon,,Dashkasan,Daşkəsən
+AZ-FUZ,Rayon,,Fuzuli,Füzuli
+AZ-GA,Municipality,,Ganja,Gəncə
+AZ-GAD,Rayon,,Gadabay,Gədəbəy
+AZ-GOR,Rayon,,Goranboy,Goranboy
+AZ-GOY,Rayon,,Goychay,Göyçay
+AZ-GYG,Rayon,,Goygol,Göygöl
+AZ-HAC,Rayon,,Hajigabul,Hacıqabul
+AZ-IMI,Rayon,,Imishli,İmişli
+AZ-ISM,Rayon,,Ismayilli,İsmayıllı
+AZ-KAL,Rayon,,Kalbajar,Kəlbəcər
+AZ-KAN,Rayon,AZ-NX,Kangarli,Kǝngǝrli
+AZ-KUR,Rayon,,Kurdamir,Kürdəmir
+AZ-LA,Municipality,,Lankaran City,Lənkəran
+AZ-LAC,Rayon,,Lachin,Laçın
+AZ-LAN,Rayon,,Lankaran,Lənkəran
+AZ-LER,Rayon,,Lerik,Lerik
+AZ-MAS,Rayon,,Masally,Masallı
+AZ-MI,Municipality,,Mingachevir,Mingəçevir
+AZ-NA,Municipality,,Naftalan,Naftalan
+AZ-NEF,Rayon,,Neftchala,Neftçala
+AZ-NV,Municipality,AZ-NX,Nakhchivan City,Naxçıvan
+AZ-OGU,Rayon,,Oghuz,Oğuz
+AZ-ORD,Rayon,AZ-NX,Ordubad,Ordubad
+AZ-QAB,Rayon,,Gabala,Qəbələ
+AZ-QAX,Rayon,,Gakh,Qax
+AZ-QAZ,Rayon,,Gazakh,Qazax
+AZ-QBA,Rayon,,Guba,Quba
+AZ-QBI,Rayon,,Gubadlı,Qubadlı
+AZ-QOB,Rayon,,Gobustan,Qobustan
+AZ-QUS,Rayon,,Gusar,Qusar
+AZ-SA,Municipality,,Shaki City,Şəki
+AZ-SAB,Rayon,,Sabirabad,Sabirabad
+AZ-SAD,Rayon,AZ-NX,Sadarak,Sədərək
+AZ-SAH,Rayon,AZ-NX,Shahbuz,Şahbuz
+AZ-SAK,Rayon,,Shaki,Şəki
+AZ-SAL,Rayon,,Salyan,Salyan
+AZ-SAR,Rayon,AZ-NX,Sharur,Şərur
+AZ-SAT,Rayon,,Saatly,Saatlı
+AZ-SBN,Rayon,,Shabran,Şabran
+AZ-SIY,Rayon,,Siyazan,Siyəzən
+AZ-SKR,Rayon,,Shamkir,Şəmkir
+AZ-SM,Municipality,,Sumgayit,Sumqayıt
+AZ-SMI,Rayon,,Shamakhi,Şamaxı
+AZ-SMX,Rayon,,Samukh,Samux
+AZ-SR,Municipality,,Shirvan,Şirvan
+AZ-SUS,Rayon,,Shusha,Şuşa
+AZ-TAR,Rayon,,Tartar,Tərtər
+AZ-TOV,Rayon,,Tovuz,Tovuz
+AZ-UCA,Rayon,,Ujar,Ucar
+AZ-XA,Municipality,,Khankendi,Xankəndi
+AZ-XAC,Rayon,,Khachmaz,Xaçmaz
+AZ-XCI,Rayon,,Khojaly,Xocalı
+AZ-XIZ,Rayon,,Khizi,Xızı
+AZ-XVD,Rayon,,Khojavend,Xocavənd
+AZ-YAR,Rayon,,Yardimli,Yardımlı
+AZ-YE,Municipality,,Yevlakh City,Yevlax
+AZ-YEV,Rayon,,Yevlakh,Yevlax
+AZ-ZAN,Rayon,,Zangilan,Zəngilan
+AZ-ZAQ,Rayon,,Zagatala,Zaqatala
+AZ-ZAR,Rayon,,Zardab,Zərdab
+,NULL,NULL,NULL,NULL
+,NULL,NULL,NULL,NULL
