@@ -1,180 +1,180 @@
-code,numeric,minor,symbol,unit,name,plural
-AED,784,2,د.إ,Dirham,United Arab Emirates Dirham,United Arab Emirates Dirhams
-AFN,971,2,؋,Afghani,Afghan Afghani,Afghan Afghanis
-ALL,008,2,L,Lek,Albanian Lek,Albanian Leke
-AMD,051,2,֏,Dram,Armenian Dram,Armenian Drams
-ANG,532,2,ƒ,Guilder,Netherlands Antillean Guilder,Netherlands Antillean Guilders
-AOA,973,2,Kz,Kwanza,Angolan Kwanza,Angolan Kwanzas
-ARS,032,2,$,Peso,Argentine Peso,Argentine Pesos
-AUD,036,2,$,Dollar,Australian Dollar,Australian Dollars
-AWG,533,2,ƒ,Florin,Aruban Florin,Aruban Florin
-AZN,944,2,₼,Manat,Azerbaijani Manat,Azerbaijani Manats
-BAM,977,2,KM,Mark,Bosnia-Herzegovina Convertible Mark,Bosnia-Herzegovina Convertible Marks
-BBD,052,2,$,Dollar,Barbadian Dollar,Barbadian Dollars
-BDT,050,2,৳,Taka,Bangladeshi Taka,Bangladeshi Takas
-BGN,975,2,лв,Lev,Bulgarian Lev,Bulgarian Leva
-BHD,048,3,.د.ب,Dinar,Bahraini Dinar,Bahraini Dinars
-BIF,108,0,FBu,Franc,Burundian Franc,Burundian Francs
-BMD,060,2,$,Dollar,Bermudian Dollar,Bermudian Dollars
-BND,096,2,$,Dollar,Brunei Dollar,Brunei Dollars
-BOB,068,2,$b,Boliviano,Bolivian Boliviano,Bolivian Bolivianos
-BOV,984,2,BOV,Mvdol,Bolivian Mvdol,Bolivian Mvdol
-BRL,986,2,R$,Real,Brazilian Real,Brazilian Reais
-BSD,044,2,$,Dollar,Bahamian Dollar,Bahamian Dollars
-BTN,064,2,Nu.,Ngultrum,Bhutanese Ngultrum,Bhutanese Ngultrums
-BWP,072,2,P,Pula,Botswana Pula,Botswana Pula
-BYN,933,2,Br,Ruble,Belarusian Ruble,Belarusian Rubles
-BZD,084,2,BZ$,Dollar,Belize Dollar,Belize Dollars
-CAD,124,2,$,Dollar,Canadian Dollar,Canadian Dollars
-CDF,976,2,FC,Franc,Congolese Franc,Congolese Francs
-CHE,947,2,CHE,WIR,WIR Euro,WIR Euros
-CHF,756,2,CHF,Franc,Swiss Franc,Swiss Francs
-CHW,948,2,CHW,Franc,WIR Franc,WIR Francs
-CLF,990,4,UF,Unit,Unidad de Fomento,Unidades de Fomento
-CLP,152,0,$,Peso,Chilean Peso,Chilean Pesos
-CNY,156,2,¥,Yuan,Chinese Yuan,Chinese Yuan
-COP,170,2,$,Peso,Colombian Peso,Colombian Pesos
-COU,970,2,COU,Unit,Unidad de Valor Real,Unidades de Valor Real
-CRC,188,2,₡,Colon,Costa Rican Colon,Costa Rican Colones
-CUC,931,2,$,Peso,Cuban Convertible Peso,Cuban Convertible Pesos
-CUP,192,2,₱,Peso,Cuban Peso,Cuban Pesos
-CVE,132,2,$,Escudo,Cape Verdean Escudo,Cape Verdean Escudos
-CZK,203,2,Kč,Koruna,Czech Koruna,Czech Koruny
-DJF,262,0,Fdj,Franc,Djiboutian Franc,Djiboutian Francs
-DKK,208,2,kr,Krone,Danish Krone,Danish Kroner
-DOP,214,2,RD$,Peso,Dominican Peso,Dominican Pesos
-DZD,012,2,دج,Dinar,Algerian Dinar,Algerian Dinars
-EGP,818,2,£,Pound,Egyptian Pound,Egyptian Pounds
-ERN,232,2,Nfk,Nakfa,Eritrean Nakfa,Eritrean Nakfas
-ETB,230,2,Br,Birr,Ethiopian Birr,Ethiopian Birrs
-EUR,978,2,€,Euro,Euro,Euros
-FJD,242,2,FJ$,Dollar,Fiji Dollar,Fiji Dollars
-FKP,238,2,£,Pound,Falkland Islands Pound,Falkland Islands Pounds
-GBP,826,2,£,Pound,British Pound,British Pounds
-GEL,981,2,₾,Lari,Georgian Lari,Georgian Lari
-GHS,936,2,GH₵,Cedi,Ghanaian Cedi,Ghanaian Cedis
-GIP,292,2,£,Pound,Gibraltar Pound,Gibraltar Pounds
-GMD,270,2,D,Dalasi,Gambian Dalasi,Gambian Dalasis
-GNF,324,0,FG,Franc,Guinean Franc,Guinean Francs
-GTQ,320,2,Q,Quetzal,Guatemalan Quetzal,Guatemalan Quetzales
-GYD,328,2,$,Dollar,Guyanese Dollar,Guyanese Dollars
-HKD,344,2,HK$,Dollar,Hong Kong Dollar,Hong Kong Dollars
-HNL,340,2,L,Lempira,Honduran Lempira,Honduran Lempiras
-HTG,332,2,G,Gourde,Haitian Gourde,Haitian Gourdes
-HUF,348,2,Ft,Forint,Hungarian Forint,Hungarian Forints
-IDR,360,2,Rp,Rupiah,Indonesian Rupiah,Indonesian Rupiahs
-ILS,376,2,₪,Shekel,Israeli New Shekel,Israeli New Shekels
-INR,356,2,₹,Rupee,Indian Rupee,Indian Rupees
-IQD,368,3,ع.د,Dinar,Iraqi Dinar,Iraqi Dinars
-IRR,364,2,﷼,Rial,Iranian Rial,Iranian Rials
-ISK,352,0,kr,Krona,Icelandic Krona,Icelandic Kronur
-JMD,388,2,J$,Dollar,Jamaican Dollar,Jamaican Dollars
-JOD,400,3,JD,Dinar,Jordanian Dinar,Jordanian Dinars
-JPY,392,0,¥,Yen,Japanese Yen,Japanese Yen
-KES,404,2,KSh,Shilling,Kenyan Shilling,Kenyan Shillings
-KGS,417,2,лв,Som,Kyrgyzstani Som,Kyrgyzstani Soms
-KHR,116,2,៛,Riel,Cambodian Riel,Cambodian Riels
-KMF,174,0,CF,Franc,Comorian Franc,Comorian Francs
-KPW,408,2,₩,Won,North Korean Won,North Korean Won
-KRW,410,0,₩,Won,South Korean Won,South Korean Won
-KWD,414,3,KD,Dinar,Kuwaiti Dinar,Kuwaiti Dinars
-KYD,136,2,$,Dollar,Cayman Islands Dollar,Cayman Islands Dollars
-KZT,398,2,₸,Tenge,Kazakhstani Tenge,Kazakhstani Tenge
-LAK,418,2,₭,Kip,Lao Kip,Lao Kips
-LBP,422,2,£,Pound,Lebanese Pound,Lebanese Pounds
-LKR,144,2,Rs,Rupee,Sri Lankan Rupee,Sri Lankan Rupees
-LRD,430,2,$,Dollar,Liberian Dollar,Liberian Dollars
-LSL,426,2,M,Loti,Lesotho Loti,Lesotho Maloti
-LYD,434,3,LD,Dinar,Libyan Dinar,Libyan Dinars
-MAD,504,2,MAD,Dirham,Moroccan Dirham,Moroccan Dirhams
-MDL,498,2,L,Leu,Moldovan Leu,Moldovan Lei
-MGA,969,2,Ar,Ariary,Malagasy Ariary,Malagasy Ariary
-MKD,807,2,ден,Denar,Macedonian Denar,Macedonian Denars
-MMK,104,2,K,Kyat,Myanmar Kyat,Myanmar Kyats
-MNT,496,2,₮,Tugrik,Mongolian Tugrik,Mongolian Tugriks
-MOP,446,2,MOP$,Pataca,Macanese Pataca,Macanese Patacas
-MRU,929,2,UM,Ouguiya,Mauritanian Ouguiya,Mauritanian Ouguiyas
-MUR,480,2,Rs,Rupee,Mauritian Rupee,Mauritian Rupees
-MVR,462,2,Rf,Rufiyaa,Maldivian Rufiyaa,Maldivian Rufiyaa
-MWK,454,2,K,Kwacha,Malawian Kwacha,Malawian Kwachas
-MXN,484,2,$,Peso,Mexican Peso,Mexican Pesos
-MXV,979,2,MXV,Unit,Mexican Unidad de Inversion,Mexican Unidades de Inversion
-MYR,458,2,RM,Ringgit,Malaysian Ringgit,Malaysian Ringgits
-MZN,943,2,MT,Metical,Mozambican Metical,Mozambican Meticais
-NAD,516,2,$,Dollar,Namibian Dollar,Namibian Dollars
-NGN,566,2,₦,Naira,Nigerian Naira,Nigerian Nairas
-NIO,558,2,C$,Córdoba,Nicaraguan Cordoba,Nicaraguan Cordobas
-NOK,578,2,kr,Krone,Norwegian Krone,Norwegian Kroner
-NPR,524,2,Rs,Rupee,Nepalese Rupee,Nepalese Rupees
-NZD,554,2,$,Dollar,New Zealand Dollar,New Zealand Dollars
-OMR,512,3,﷼,Rial,Omani Rial,Omani Rials
-PAB,590,2,B/.,Balboa,Panamanian Balboa,Panamanian Balboa
-PEN,604,2,S/.,Sol,Peruvian Sol,Peruvian Soles
-PGK,598,2,K,Kina,Papua New Guinean Kina,Papua New Guinean Kina
-PHP,608,2,₱,Peso,Philippine Peso,Philippine Pesos
-PKR,586,2,Rs,Rupee,Pakistani Rupee,Pakistani Rupees
-PLN,985,2,zł,Zloty,Polish Zloty,Polish Zlotych
-PYG,600,0,Gs,Guarani,Paraguayan Guarani,Paraguayan Guarani
-QAR,634,2,﷼,Rial,Qatari Rial,Qatari Rials
-RON,946,2,lei,Leu,Romanian Leu,Romanian Lei
-RSD,941,2,дин.,Dinar,Serbian Dinar,Serbian Dinars
-RUB,643,2,₽,Ruble,Russian Ruble,Russian Rubles
-RWF,646,0,R₣,Franc,Rwandan Franc,Rwandan Francs
-SAR,682,2,﷼,Riyal,Saudi Riyal,Saudi Riyals
-SBD,090,2,$,Dollar,Solomon Islands Dollar,Solomon Islands Dollars
-SCR,690,2,Rs,Rupee,Seychellois Rupee,Seychellois Rupees
-SDG,938,2,ج.س.,Pound,Sudanese Pound,Sudanese Pounds
-SEK,752,2,kr,Krona,Swedish Krona,Swedish Kronor
-SGD,702,2,S$,Dollar,Singapore Dollar,Singapore Dollars
-SHP,654,2,£,Pound,Saint Helena Pound,Saint Helena Pounds
-SLE,925,2,Le,Leone,Sierra Leonean Leone,Sierra Leonean Leones
-SOS,706,2,S,Shilling,Somali Shilling,Somali Shillings
-SRD,968,2,$,Dollar,Surinamese Dollar,Surinamese Dollars
-SSP,728,2,£,Pound,South Sudanese Pound,South Sudanese Pounds
-STN,930,2,Db,Dobra,Sao Tomean Dobra,Sao Tomean Dobras
-SVC,222,2,₡,Colon,Salvadoran Colon,Salvadoran Colones
-SYP,760,2,£,Pound,Syrian Pound,Syrian Pounds
-SZL,748,2,E,Lilangeni,Swazi Lilangeni,Swazi Emalangeni
-THB,764,2,฿,Baht,Thai Baht,Thai Baht
-TJS,972,2,ЅМ,Somoni,Tajikistani Somoni,Tajikistani Somoni
-TMT,934,2,T,Manat,Turkmenistani Manat,Turkmenistani Manats
-TND,788,3,د.ت,Dinar,Tunisian Dinar,Tunisian Dinars
-TOP,776,2,T$,Paʻanga,Tongan Pa'anga,Tongan Pa'anga
-TRY,949,2,₺,Lira,Turkish Lira,Turkish Lire
-TTD,780,2,TT$,Dollar,Trinidad and Tobago Dollar,Trinidad and Tobago Dollars
-TWD,901,2,NT$,Dollar,New Taiwan Dollar,New Taiwan Dollars
-TZS,834,2,TSh,Shilling,Tanzanian Shilling,Tanzanian Shillings
-UAH,980,2,₴,Hryvnia,Ukrainian Hryvnia,Ukrainian Hryvni
-UGX,800,0,USh,Shilling,Ugandan Shilling,Ugandan Shillings
-USD,840,2,$,Dollar,US Dollar,US Dollars
-USN,997,2,USN,Dollar,US Dollar (Next day),US Dollars (Next day)
-UYI,940,0,UYI,Unit,Uruguay Peso en Unidades Indexadas,Uruguay Pesos en Unidades Indexadas
-UYU,858,2,$U,Peso,Uruguayan Peso,Uruguayan Pesos
-UYW,927,4,UYW,Unit,Unidad Previsional,Unidades Previsionales
-UZS,860,2,лв,Som,Uzbekistan Som,Uzbekistan Soms
-VED,926,2,Bs.S,Bolivar,Venezuelan Bolivar Digital,Venezuelan Bolivares Digital
-VES,928,2,Bs.S,Bolivar,Venezuelan Bolivar,Venezuelan Bolivares
-VND,704,0,₫,Dong,Vietnamese Dong,Vietnamese Dongs
-VUV,548,0,VT,Vatu,Vanuatu Vatu,Vanuatu Vatu
-WST,882,2,WS$,Tala,Samoan Tala,Samoan Tala
-XAF,950,0,FCFA,Franc,CFA Franc BEAC,CFA Francs BEAC
-XAG,961,0,XAG,Silver,Silver,Silver
-XAU,959,0,XAU,Gold,Gold,Gold
-XBA,955,0,XBA,Unit,Bond Markets Unit European Composite Unit (EURCO),Bond Markets Unit European Composite Unit (EURCO)
-XBB,956,0,XBB,Unit,Bond Markets Unit European Monetary Unit (E.M.U.-6),Bond Markets Unit European Monetary Unit (E.M.U.-6)
-XBC,957,0,XBC,Unit,Bond Markets Unit European Unit of Account 9 (E.U.A.-9),Bond Markets Unit European Unit of Account 9 (E.U.A.-9)
-XBD,958,0,XBD,Unit,Bond Markets Unit European Unit of Account 17 (E.U.A.-17),Bond Markets Unit European Unit of Account 17 (E.U.A.-17)
-XCD,951,2,$,Dollar,East Caribbean Dollar,East Caribbean Dollars
-XDR,960,0,XDR,Right,Special Drawing Right,Special Drawing Rights
-XOF,952,0,CFA,Franc,CFA Franc BCEAO,CFA Francs BCEAO
-XPD,964,0,XPD,Palladium,Palladium,Palladium
-XPF,953,0,₣,Franc,CFP Franc,CFP Francs
-XPT,962,0,XPT,Platinum,Platinum,Platinum
-XSU,994,0,XSU,Right,Sucre,Sucre
-XTS,963,0,XTS,Reserved,Codes specifically reserved for testing purposes,Codes specifically reserved for testing purposes
-XUA,965,0,XUA,Right,ADB Unit of Account,ADB Units of Account
-XXX,999,0,XXX,Reserved,The codes assigned for transactions where no currency is involved,The codes assigned for transactions where no currency is involved
-YER,886,2,﷼,Rial,Yemeni Rial,Yemeni Rials
-ZAR,710,2,R,Rand,South African Rand,South African Rand
-ZMW,967,2,ZK,Kwacha,Zambian Kwacha,Zambian Kwacha
-ZWG,924,2,ZiG,Gold,Zimbabwe Gold,Zimbabwe Gold
+code,numeric,minor,symbol,local,unit,name,plural
+AED,784,2,د.إ,درهم,Dirham,United Arab Emirates Dirham,United Arab Emirates Dirhams
+AFN,971,2,؋,؋,Afghani,Afghan Afghani,Afghan Afghanis
+ALL,008,2,L,Lekë,Lek,Albanian Lek,Albanian Leke
+AMD,051,2,֏,դր.,Dram,Armenian Dram,Armenian Drams
+ANG,532,2,ƒ,ƒ,Guilder,Netherlands Antillean Guilder,Netherlands Antillean Guilders
+AOA,973,2,Kz,Kz,Kwanza,Angolan Kwanza,Angolan Kwanzas
+ARS,032,2,$,$,Peso,Argentine Peso,Argentine Pesos
+AUD,036,2,$,A$,Dollar,Australian Dollar,Australian Dollars
+AWG,533,2,ƒ,Afl.,Florin,Aruban Florin,Aruban Florin
+AZN,944,2,₼,₼,Manat,Azerbaijani Manat,Azerbaijani Manats
+BAM,977,2,KM,KM,Mark,Bosnia-Herzegovina Convertible Mark,Bosnia-Herzegovina Convertible Marks
+BBD,052,2,$,Bds$,Dollar,Barbadian Dollar,Barbadian Dollars
+BDT,050,2,৳,৳,Taka,Bangladeshi Taka,Bangladeshi Takas
+BGN,975,2,лв,лв,Lev,Bulgarian Lev,Bulgarian Leva
+BHD,048,3,.د.ب,.د.ب,Dinar,Bahraini Dinar,Bahraini Dinars
+BIF,108,0,FBu,FBu,Franc,Burundian Franc,Burundian Francs
+BMD,060,2,$,BD$,Dollar,Bermudian Dollar,Bermudian Dollars
+BND,096,2,$,B$,Dollar,Brunei Dollar,Brunei Dollars
+BOB,068,2,$b,Bs.,Boliviano,Bolivian Boliviano,Bolivian Bolivianos
+BOV,984,2,BOV,BOV,Mvdol,Bolivian Mvdol,Bolivian Mvdol
+BRL,986,2,R$,R$,Real,Brazilian Real,Brazilian Reais
+BSD,044,2,$,B$,Dollar,Bahamian Dollar,Bahamian Dollars
+BTN,064,2,Nu.,Nu.,Ngultrum,Bhutanese Ngultrum,Bhutanese Ngultrums
+BWP,072,2,P,P,Pula,Botswana Pula,Botswana Pule
+BYN,933,2,Br,Br,Ruble,Belarusian Ruble,Belarusian Rubles
+BZD,084,2,BZ$,BZ$,Dollar,Belize Dollar,Belize Dollars
+CAD,124,2,$,C$,Dollar,Canadian Dollar,Canadian Dollars
+CDF,976,2,FC,FC,Franc,Congolese Franc,Congolese Francs
+CHE,947,2,CHE,CHE,Euro,WIR Euro,WIR Euros
+CHF,756,2,CHF,Fr.,Franc,Swiss Franc,Swiss Francs
+CHW,948,2,CHW,CHW,Franc,WIR Franc,WIR Francs
+CLF,990,4,UF,Unit,Unit,Unidad de Fomento,Unidades de Fomento
+CLP,152,0,$,$,Peso,Chilean Peso,Chilean Pesos
+CNY,156,2,¥,元,Yuan,Chinese Yuan,Chinese Yuan
+COP,170,2,$,$,Peso,Colombian Peso,Colombian Pesos
+COU,970,2,COU,Unit,Unit,Unidad de Valor Real,Unidades de Valor Real
+CRC,188,2,₡,₡,Colon,Costa Rican Colon,Costa Rican Colones
+CUC,931,2,$,$,Peso,Cuban Convertible Peso,Cuban Convertible Pesos
+CUP,192,2,₱,$,Peso,Cuban Peso,Cuban Pesos
+CVE,132,2,$,Esc,Escudo,Cape Verdean Escudo,Cape Verdean Escudos
+CZK,203,2,Kč,Kč,Koruna,Czech Koruna,Czech Koruny
+DJF,262,0,Fdj,Fdj,Franc,Djiboutian Franc,Djiboutian Francs
+DKK,208,2,kr,kr.,Krone,Danish Krone,Danish Kroner
+DOP,214,2,RD$,RD$,Peso,Dominican Peso,Dominican Pesos
+DZD,012,2,دج,دج,Dinar,Algerian Dinar,Algerian Dinars
+EGP,818,2,£,ج.م,Pound,Egyptian Pound,Egyptian Pounds
+ERN,232,2,Nfk,Nfk,Nakfa,Eritrean Nakfa,Eritrean Nakfas
+ETB,230,2,Br,Br,Birr,Ethiopian Birr,Ethiopian Birrs
+EUR,978,2,€,€,Euro,Euro,Euros
+FJD,242,2,FJ$,FJ$,Dollar,Fiji Dollar,Fiji Dollars
+FKP,238,2,£,£,Pound,Falkland Islands Pound,Falkland Islands Pounds
+GBP,826,2,£,£,Pound,British Pound,British Pounds
+GEL,981,2,₾,₾,Lari,Georgian Lari,Georgian Lari
+GHS,936,2,GH₵,GH₵,Cedi,Ghanaian Cedi,Ghanaian Cedis
+GIP,292,2,£,£,Pound,Gibraltar Pound,Gibraltar Pounds
+GMD,270,2,D,D,Dalasi,Gambian Dalasi,Gambian Dalasis
+GNF,324,0,FG,FG,Franc,Guinean Franc,Guinean Francs
+GTQ,320,2,Q,Q,Quetzal,Guatemalan Quetzal,Guatemalan Quetzales
+GYD,328,2,$,G$,Dollar,Guyanese Dollar,Guyanese Dollars
+HKD,344,2,HK$,元,Dollar,Hong Kong Dollar,Hong Kong Dollars
+HNL,340,2,L,L,Lempira,Honduran Lempira,Honduran Lempiras
+HTG,332,2,G,G,Gourde,Haitian Gourde,Haitian Gourdes
+HUF,348,2,Ft,Ft,Forint,Hungarian Forint,Hungarian Forints
+IDR,360,2,Rp,Rp,Rupiah,Indonesian Rupiah,Indonesian Rupiahs
+ILS,376,2,₪,₪,Shekel,Israeli New Shekel,Israeli New Shekels
+INR,356,2,₹,₹,Rupee,Indian Rupee,Indian Rupees
+IQD,368,3,ع.د,د.ع,Dinar,Iraqi Dinar,Iraqi Dinars
+IRR,364,2,﷼,ریال,Rial,Iranian Rial,Iranian Rials
+ISK,352,0,kr,kr,Krona,Icelandic Krona,Icelandic Kronur
+JMD,388,2,J$,J$,Dollar,Jamaican Dollar,Jamaican Dollars
+JOD,400,3,JD,د.ا,Dinar,Jordanian Dinar,Jordanian Dinars
+JPY,392,0,¥,円,Yen,Japanese Yen,Japanese Yen
+KES,404,2,KSh,KSh,Shilling,Kenyan Shilling,Kenyan Shillings
+KGS,417,2,лв,сом,Som,Kyrgyzstani Som,Kyrgyzstani Soms
+KHR,116,2,៛,៛,Riel,Cambodian Riel,Cambodian Riels
+KMF,174,0,CF,CF,Franc,Comorian Franc,Comorian Francs
+KPW,408,2,₩,₩,Won,North Korean Won,North Korean Won
+KRW,410,0,₩,원,Won,South Korean Won,South Korean Won
+KWD,414,3,KD,د.ك,Dinar,Kuwaiti Dinar,Kuwaiti Dinars
+KYD,136,2,$,CI$,Dollar,Cayman Islands Dollar,Cayman Islands Dollars
+KZT,398,2,₸,₸,Tenge,Kazakhstani Tenge,Kazakhstani Tenge
+LAK,418,2,₭,₭,Kip,Lao Kip,Lao Kips
+LBP,422,2,£,ل.ل,Pound,Lebanese Pound,Lebanese Pounds
+LKR,144,2,Rs,රු,Rupee,Sri Lankan Rupee,Sri Lankan Rupees
+LRD,430,2,$,L$,Dollar,Liberian Dollar,Liberian Dollars
+LSL,426,2,M,M,Loti,Lesotho Loti,Lesotho Maloti
+LYD,434,3,LD,ل.د,Dinar,Libyan Dinar,Libyan Dinars
+MAD,504,2,MAD,د.م.,Dirham,Moroccan Dirham,Moroccan Dirhams
+MDL,498,2,L,L,Leu,Moldovan Leu,Moldovan Lei
+MGA,969,2,Ar,Ar,Ariary,Malagasy Ariary,Malagasy Ariary
+MKD,807,2,ден,ден,Denar,Macedonian Denar,Macedonian Denars
+MMK,104,2,K,K,Kyat,Myanmar Kyat,Myanmar Kyats
+MNT,496,2,₮,₮,Tugrik,Mongolian Tugrik,Mongolian Tugriks
+MOP,446,2,MOP$,圓,Pataca,Macanese Pataca,Macanese Patacas
+MRU,929,2,UM,UM,Ouguiya,Mauritanian Ouguiya,Mauritanian Ouguiyas
+MUR,480,2,Rs,₨,Rupee,Mauritian Rupee,Mauritian Rupees
+MVR,462,2,Rf,ރ,Rufiyaa,Maldivian Rufiyaa,Maldivian Rufiyaa
+MWK,454,2,K,K,Kwacha,Malawian Kwacha,Malawian Kwachas
+MXN,484,2,$,$,Peso,Mexican Peso,Mexican Pesos
+MXV,979,2,MXV,MXV,Unit,Mexican Unidad de Inversion,Mexican Unidades de Inversion
+MYR,458,2,RM,RM,Ringgit,Malaysian Ringgit,Malaysian Ringgits
+MZN,943,2,MT,MT,Metical,Mozambican Metical,Mozambican Meticais
+NAD,516,2,$,N$,Dollar,Namibian Dollar,Namibian Dollars
+NGN,566,2,₦,₦,Naira,Nigerian Naira,Nigerian Nairas
+NIO,558,2,C$,C$,Córdoba,Nicaraguan Cordoba,Nicaraguan Cordobas
+NOK,578,2,kr,kr,Krone,Norwegian Krone,Norwegian Kroner
+NPR,524,2,Rs,रु,Rupee,Nepalese Rupee,Nepalese Rupees
+NZD,554,2,$,NZ$,Dollar,New Zealand Dollar,New Zealand Dollars
+OMR,512,3,﷼,ر.ع.,Rial,Omani Rial,Omani Rials
+PAB,590,2,B/.,B/.,Balboa,Panamanian Balboa,Panamanian Balboa
+PEN,604,2,S/.,S/.,Sol,Peruvian Sol,Peruvian Soles
+PGK,598,2,K,K,Kina,Papua New Guinean Kina,Papua New Guinean Kina
+PHP,608,2,₱,₱,Peso,Philippine Peso,Philippine Pesos
+PKR,586,2,Rs,₨,Rupee,Pakistani Rupee,Pakistani Rupees
+PLN,985,2,zł,zł,Zloty,Polish Zloty,Polish Zlotych
+PYG,600,0,Gs,₲,Guarani,Paraguayan Guarani,Paraguayan Guarani
+QAR,634,2,﷼,ر.ق,Rial,Qatari Rial,Qatari Rials
+RON,946,2,lei,lei,Leu,Romanian Leu,Romanian Lei
+RSD,941,2,дин.,дин,Dinar,Serbian Dinar,Serbian Dinars
+RUB,643,2,₽,₽,Ruble,Russian Ruble,Russian Rubles
+RWF,646,0,R₣,FRw,Franc,Rwandan Franc,Rwandan Francs
+SAR,682,2,﷼,ر.س,Riyal,Saudi Riyal,Saudi Riyals
+SBD,090,2,$,SI$,Dollar,Solomon Islands Dollar,Solomon Islands Dollars
+SCR,690,2,Rs,SR,Rupee,Seychellois Rupee,Seychellois Rupees
+SDG,938,2,ج.س.,ج.س,Pound,Sudanese Pound,Sudanese Pounds
+SEK,752,2,kr,kr,Krona,Swedish Krona,Swedish Kronor
+SGD,702,2,S$,S$,Dollar,Singapore Dollar,Singapore Dollars
+SHP,654,2,£,£,Pound,Saint Helena Pound,Saint Helena Pounds
+SLE,925,2,Le,Le,Leone,Sierra Leonean Leone,Sierra Leonean Leones
+SOS,706,2,S,S,Shilling,Somali Shilling,Somali Shillings
+SRD,968,2,$,Sr$,Dollar,Surinamese Dollar,Surinamese Dollars
+SSP,728,2,£,SS£,Pound,South Sudanese Pound,South Sudanese Pounds
+STN,930,2,Db,Db,Dobra,Sao Tomean Dobra,Sao Tomean Dobras
+SVC,222,2,₡,₡,Colon,Salvadoran Colon,Salvadoran Colones
+SYP,760,2,£,ل.س,Pound,Syrian Pound,Syrian Pounds
+SZL,748,2,E,E,Lilangeni,Swazi Lilangeni,Swazi Emalangeni
+THB,764,2,฿,฿,Baht,Thai Baht,Thai Baht
+TJS,972,2,ЅМ,с.,Somoni,Tajikistani Somoni,Tajikistani Somoni
+TMT,934,2,T,m,Manat,Turkmenistani Manat,Turkmenistani Manats
+TND,788,3,د.ت,د.ت,Dinar,Tunisian Dinar,Tunisian Dinars
+TOP,776,2,T$,T$,Paʻanga,Tongan Pa'anga,Tongan Pa'anga
+TRY,949,2,₺,₺,Lira,Turkish Lira,Turkish Lire
+TTD,780,2,TT$,TT$,Dollar,Trinidad and Tobago Dollar,Trinidad and Tobago Dollars
+TWD,901,2,NT$,元,Dollar,New Taiwan Dollar,New Taiwan Dollars
+TZS,834,2,TSh,TSh,Shilling,Tanzanian Shilling,Tanzanian Shillings
+UAH,980,2,₴,₴,Hryvnia,Ukrainian Hryvnia,Ukrainian Hryvni
+UGX,800,0,USh,USh,Shilling,Ugandan Shilling,Ugandan Shillings
+USD,840,2,$,$,Dollar,US Dollar,US Dollars
+USN,997,2,USN,USN,Dollar,US Dollar (Next day),US Dollars (Next day)
+UYI,940,0,UYI,UYI,Unit,Uruguay Peso en Unidades Indexadas,Uruguay Pesos en Unidades Indexadas
+UYU,858,2,$U,$U,Peso,Uruguayan Peso,Uruguayan Pesos
+UYW,927,4,UYW,UYW,Unit,Unidad Previsional,Unidades Previsionales
+UZS,860,2,лв,сўм,Som,Uzbekistan Som,Uzbekistan Soms
+VED,926,2,Bs.S,Bs.D,Bolivar,Venezuelan Bolivar Digital,Venezuelan Bolivares Digital
+VES,928,2,Bs.S,Bs.S,Bolivar,Venezuelan Bolivar,Venezuelan Bolivares
+VND,704,0,₫,₫,Dong,Vietnamese Dong,Vietnamese Dongs
+VUV,548,0,VT,VT,Vatu,Vanuatu Vatu,Vanuatu Vatu
+WST,882,2,WS$,WS$,Tala,Samoan Tala,Samoan Tala
+XAF,950,0,FCFA,FCFA,Franc,CFA Franc BEAC,CFA Francs BEAC
+XAG,961,0,XAG,XAG,Silver,Silver,Silver
+XAU,959,0,XAU,XAU,Gold,Gold,Gold
+XBA,955,0,XBA,XBA,Unit,Bond Markets Unit European Composite Unit (EURCO),Bond Markets Unit European Composite Unit (EURCO)
+XBB,956,0,XBB,XBB,Unit,Bond Markets Unit European Monetary Unit (E.M.U.-6),Bond Markets Unit European Monetary Unit (E.M.U.-6)
+XBC,957,0,XBC,XBC,Unit,Bond Markets Unit European Unit of Account 9 (E.U.A.-9),Bond Markets Unit European Unit of Account 9 (E.U.A.-9)
+XBD,958,0,XBD,XBD,Unit,Bond Markets Unit European Unit of Account 17 (E.U.A.-17),Bond Markets Unit European Unit of Account 17 (E.U.A.-17)
+XCD,951,2,$,EC$,Dollar,East Caribbean Dollar,East Caribbean Dollars
+XDR,960,0,XDR,XDR,Right,Special Drawing Right,Special Drawing Rights
+XOF,952,0,CFA,CFA,Franc,CFA Franc BCEAO,CFA Francs BCEAO
+XPD,964,0,XPD,XPD,Palladium,Palladium,Palladium
+XPF,953,0,₣,CFP,Franc,CFP Franc,CFP Francs
+XPT,962,0,XPT,XPT,Platinum,Platinum,Platinum
+XSU,994,0,XSU,XSU,Right,Sucre,Sucre
+XTS,963,0,XTS,XTS,Reserved,Codes specifically reserved for testing purposes,Codes specifically reserved for testing purposes
+XUA,965,0,XUA,XUA,Right,ADB Unit of Account,ADB Units of Account
+XXX,999,0,XXX,XXX,Reserved,The codes assigned for transactions where no currency is involved,The codes assigned for transactions where no currency is involved
+YER,886,2,﷼,ر.ي,Rial,Yemeni Rial,Yemeni Rials
+ZAR,710,2,R,R,Rand,South African Rand,South African Rand
+ZMW,967,2,ZK,K,Kwacha,Zambian Kwacha,Zambian Kwacha
+ZWG,924,2,ZiG,ZiG,Gold,Zimbabwe Gold,Zimbabwe Gold
