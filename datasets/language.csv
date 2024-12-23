@@ -1,10 +1,10 @@
 code,name,native
-aa,Afar,Afaraf
-aa-DJ,Afar (Djibouti),Afaraf (Yabuuti)
-aa-ER,Afar (Eritrea),Afaraf (Eritrea)
-aa-ET,Afar (Ethiopia),Afaraf (Otobbia)
-ab,Abkhaz,Аҧсуа
-ab-GE,Abkhaz (Georgia),Аҧсуа (Қырҭтәыла)
+aa,Afar,Qafar
+aa-DJ,Afar (Djibouti),Qafar (Gabuuti)
+aa-ER,Afar (Eritrea),Qafar (Eretriya)
+aa-ET,Afar (Ethiopia),Qafar (Itiyoppiya)
+ab,Abkhazian,Аԥсшәа
+ab-GE,Abkhazian (Georgia),Аԥсшәа (Қырҭтәыла)
 af,Afrikaans,Afrikaans
 af-NA,Afrikaans (Namibia),Afrikaans (Namibië)
 af-ZA,Afrikaans (South Africa),Afrikaans (Suid-Afrika)
@@ -18,8 +18,8 @@ an,Aragonese,Aragonés
 an-ES,Aragonese (Spain),Aragonés (España)
 ann,Obolo,Obolo
 ann-NG,Obolo (Nigeria),Obolo (Nigeria)
-apc,North Levantine Arabic,اللهجة الشامية
-apc-SY,North Levantine Arabic (Syria),اللهجة الشامية (سوريا)
+apc,Levantine Arabic,العامية
+apc-SY,Levantine Arabic (Syria),العامية (سوريا)
 ar,Arabic,العربية
 ar-001,Arabic (World),العربية (العالم)
 ar-AE,Arabic (United Arab Emirates),العربية (الإمارات العربية المتحدة)
@@ -62,15 +62,14 @@ az-AZ,Azerbaijani (Azerbaijan),Azərbaycan (Azərbaycan)
 az-IQ,Azerbaijani (Iraq),Azərbaycan (İraq)
 az-IR,Azerbaijani (Iran),Azərbaycan (İran)
 az-TR,Azerbaijani (Turkey),Azərbaycan (Türkiyə)
-ba,Bashkir,Башҡортса
-ba-RU,Bashkir (Russia),Башҡортса (Рәсәй)
-bal,Baluchi,بلوچی
-bal-PK,Baluchi (Pakistan),بلوچی (پاکستان)
+ba,Bashkir,башҡорт теле
+ba-RU,Bashkir (Russia),башҡорт теле (Рәсәй .)
+bal,Baluchi,بلۆچی
+bal-PK,Baluchi (Pakistan),بلۆچی (پاکستان .)
 bas,Basaa,Ɓàsàa
 bas-CM,Basaa (Cameroon),Ɓàsàa (Kàmɛ̀rûn)
 be,Belarusian,Беларуская
 be-BY,Belarusian (Belarus),Беларуская (Беларусь)
-beSK,Belarusian (Slovakia),Беларуская (Славакія)
 bem,Bemba,Ichibemba
 bem-ZM,Bemba (Zambia),Ichibemba (Zambia)
 bew,Betawi,Betawi
@@ -81,12 +80,12 @@ bg,Bulgarian,Български
 bg-BG,Bulgarian (Bulgaria),Български (България)
 bgc,Haryanvi,हरियाणवी
 bgc-IN,Haryanvi (India),हरियाणवी (भारत)
-bgn,Western Balochi,بلوچی مکرانی
-bgn-AE,Western Balochi (UAE),بلوچی مکرانی (متحدہ عرب امارات)
-bgn-AF,Western Balochi (Afghanistan),بلوچی مکرانی (افغانستان)
-bgn-IR,Western Balochi (Iran),بلوچی مکرانی (ایران)
-bgn-OM,Western Balochi (Oman),بلوچی مکرانی (عمان)
-bgn-PK,Western Balochi (Pakistan),بلوچی مکرانی (پاکستان)
+bgn,Western Balochi,بلوچی
+bgn-AE,Western Balochi (UAE),بلوچی (متحدہ عرب امارات)
+bgn-AF,Western Balochi (Afghanistan),بلوچی (افغانستان)
+bgn-IR,Western Balochi (Iran),بلوچی (ایران)
+bgn-OM,Western Balochi (Oman),بلوچی (عمان)
+bgn-PK,Western Balochi (Pakistan),بلوچی (پاکستان)
 bho,Bhojpuri,भोजपुरी
 bho-IN,Bhojpuri (India),भोजपुरी (भारत)
 blo,Anii,Anii
@@ -100,15 +99,15 @@ bn-BD,Bengali (Bangladesh),বাংলা (বাংলাদেশ)
 bn-IN,Bengali (India),বাংলা (ভারত)
 bo,Tibetan,བོད་སྐད་
 bo-CN,Tibetan (China),བོད་སྐད་ (རྒྱ་ནག)
-bo-IN,Tibetan (India),བོད་སྐད་ (རྒྱ་གར་)
+bo-IN,Tibetan (India),བོད་སྐད་ (རྒྱ་གར)
 br,Breton,Brezhoneg
 br-FR,Breton (France),Brezhoneg (Frañs)
 brx,Bodo,बड़ो
 brx-IN,Bodo (India),बड़ो (भारत)
 bs,Bosnian,Bosanski
 bs-BA,Bosnian (Bosnia & Herzegovina),Bosanski (Bosna i Hercegovina)
-bss,Akoose,Akoos
-bss-CM,Akoose (Cameroon),Akoos (Kamerûn)
+bss,Akoose,Akoose
+bss-CM,Akoose (Cameroon),Akoose (Kamerûn)
 byn,Blin,ብሊን
 byn-ER,Blin (Eritrea),ብሊን (ኤርትራ)
 ca,Catalan,Català
@@ -116,9 +115,8 @@ ca-AD,Catalan (Andorra),Català (Andorra)
 ca-ES,Catalan (Spain),Català (Espanya)
 ca-FR,Catalan (France),Català (França)
 ca-IT,Catalan (Italy),Català (Itàlia)
-caNCIA,Catalan (New Caledonia),Català (Nova Caledònia)
-cad,Caddo,Hasí:nay
-cad-US,Caddo (United States),Hasí:nay (United States)
+cad,Caddo,Caddo
+cad-US,Caddo (United States),Caddo (United States)
 cch,Atsam,Atsam
 cch-NG,Atsam (Nigeria),Atsam (Nigeria)
 ccp,Chakma,𑄌𑄋𑄴𑄟𑄳𑄦
@@ -147,8 +145,8 @@ csw,Swampy Cree,ᓀᐦᐃᔭᐍᐏᐣ
 csw-CA,Swampy Cree (Canada),ᓀᐦᐃᔭᐍᐏᐣ (ᑳᓇᑕ)
 cu,Church Slavic,Церковнослове́нскїй
 cu-RU,Church Slavic (Russia),Церковнослове́нскїй (Россія)
-cv,Chuvash,Чӑвашла
-cv-RU,Chuvash (Russia),Чӑвашла (Раҫҫей)
+cv,Chuvash,Чӑваш
+cv-RU,Chuvash (Russia),Чӑваш (Раҫҫей)
 cy,Welsh,Cymraeg
 cy-GB,Welsh (United Kingdom),Cymraeg (Y Deyrnas Unedig)
 da,Danish,Dansk
@@ -172,8 +170,8 @@ dsb,Lower Sorbian,Dolnoserbšćina
 dsb-DE,Lower Sorbian (Germany),Dolnoserbšćina (Nimska)
 dua,Duala,Duálá
 dua-CM,Duala (Cameroon),Duálá (Cameroun)
-dv,Divehi,ދިވެހި
-dv-MV,Divehi (Maldives),ދިވެހި (ދިވެހިރާއްޖެ)
+dv,Divehi,ދިވެހިބަސް
+dv-MV,Divehi (Maldives),ދިވެހިބަސް (ދިވެހިރާއްޖެ)
 dyo,Jola-Fonyi,Joola
 dyo-SN,Jola-Fonyi (Senegal),Joola (Senegal)
 dz,Dzongkha,རྫོང་ཁ
@@ -186,7 +184,6 @@ ee-TG,Ewe (Togo),Eʋegbe (Togo)
 el,Greek,Ελληνικά
 el-CY,Greek (Cyprus),Ελληνικά (Κύπρος)
 el-GR,Greek (Greece),Ελληνικά (Ελλάδα)
-elTON,Greek (Tonga),Ελληνικά (Τόγκα)
 en,English,English
 en-001,English (World),English (World)
 en-150,English (Europe),English (Europe)
@@ -295,7 +292,6 @@ en-WS,English (Samoa),English (Samoa)
 en-ZA,English (South Africa),English (South Africa)
 en-ZM,English (Zambia),English (Zambia)
 en-ZW,English (Zimbabwe),English (Zimbabwe)
-enX,English X,English X
 eo,Esperanto,Esperanto
 eo-001,Esperanto (World),Esperanto (Mondo)
 es,Spanish,Español
@@ -336,19 +332,19 @@ ewo-CM,Ewondo (Cameroon),Ewondo (Kamərún)
 fa,Persian,فارسی
 fa-AF,Persian (Afghanistan),فارسی (افغانستان)
 fa-IR,Persian (Iran),فارسی (ایران)
-ff,Fulah,Pulaar
-ff-BF,Fulah (Burkina Faso),Pulaar (Burkina Faso)
-ff-CM,Fulah (Cameroon),Pulaar (Kamerun)
-ff-GH,Fulah (Ghana),Pulaar (Gana)
-ff-GM,Fulah (Gambia),Pulaar (Gambi)
-ff-GN,Fulah (Guinea),Pulaar (Gine)
-ff-GW,Fulah (Guinea-Bissau),Pulaar (Gine-Bisaawo)
-ff-LR,Fulah (Liberia),Pulaar (Liberiyaa)
-ff-MR,Fulah (Mauritania),Pulaar (Muritani)
-ff-NE,Fulah (Niger),Pulaar (Nijeer)
-ff-NG,Fulah (Nigeria),Pulaar (Nijeriya)
-ff-SL,Fulah (Sierra Leone),Pulaar (Seraa liyon)
-ff-SN,Fulah (Senegal),Pulaar (Senegaal)
+ff,Fula,Pulaar
+ff-BF,Fula (Burkina Faso),Pulaar (Burkina Faso)
+ff-CM,Fula (Cameroon),Pulaar (Kamerun)
+ff-GH,Fula (Ghana),Pulaar (Gana)
+ff-GM,Fula (Gambia),Pulaar (Gambi)
+ff-GN,Fula (Guinea),Pulaar (Gine)
+ff-GW,Fula (Guinea-Bissau),Pulaar (Gine-Bisaawo)
+ff-LR,Fula (Liberia),Pulaar (Liberiyaa)
+ff-MR,Fula (Mauritania),Pulaar (Muritani)
+ff-NE,Fula (Niger),Pulaar (Nijeer)
+ff-NG,Fula (Nigeria),Pulaar (Nijeriya)
+ff-SL,Fula (Sierra Leone),Pulaar (Seraa liyon)
+ff-SN,Fula (Senegal),Pulaar (Senegaal)
 fi,Finnish,Suomi
 fi-FI,Finnish (Finland),Suomi (Suomi)
 fil,Filipino,Filipino
@@ -416,9 +412,9 @@ gaa,Ga,Gã
 gaa-GH,Ga (Ghana),Gã (Gaana)
 gd,Scottish Gaelic,Gàidhlig
 gd-GB,Scottish Gaelic (United Kingdom),Gàidhlig (An Rìoghachd Aonaichte)
-gez,Geez,ግዕዝ
-gez-ER,Geez (Eritrea),ግዕዝ (ኤርትራ)
-gez-ET,Geez (Ethiopia),ግዕዝ (ኢትዮጵያ)
+gez,Geez,ግዕዝኛ
+gez-ER,Geez (Eritrea),ግዕዝኛ (ኤርትራ)
+gez-ET,Geez (Ethiopia),ግዕዝኛ (ኢትዮጵያ)
 gl,Galician,Galego
 gl-ES,Galician (Spain),Galego (España)
 gn,Guarani,Avañe'ẽ
@@ -444,8 +440,8 @@ he,Hebrew,עברית
 he-IL,Hebrew (Israel),עברית (ישראל)
 hi,Hindi,हिन्दी
 hi-IN,Hindi (India),हिन्दी (भारत)
-hnj,Hmong Njua,Hmoob Nrua
-hnj-US,Hmong Njua (United States),Hmoob Nrua (United States)
+hnj,Hmong Njua,𞄀𞄄𞄰𞄩𞄍𞄜𞄰
+hnj-US,Hmong Njua (United States),𞄀𞄄𞄰𞄩𞄍𞄜𞄰 (United States)
 hr,Croatian,Hrvatski
 hr-BA,Croatian (Bosnia & Herzegovina),Hrvatski (Bosna i Hercegovina)
 hr-HR,Croatian (Croatia),Hrvatski (Hrvatska)
@@ -453,8 +449,8 @@ hsb,Upper Sorbian,Hornjoserbšćina
 hsb-DE,Upper Sorbian (Germany),Hornjoserbšćina (Němska)
 hu,Hungarian,Magyar
 hu-HU,Hungarian (Hungary),Magyar (Magyarország)
-hy,Armenian,Հայերեն
-hy-AM,Armenian (Armenia),Հայերեն (Հայաստան)
+hy,Armenian,հայերեն
+hy-AM,Armenian (Armenia),հայերեն (Հայաստան)
 ia,Interlingua,Interlingua
 ia-001,Interlingua (World),Interlingua (Mundo)
 id,Indonesian,Indonesia
@@ -477,9 +473,9 @@ it-VA,Italian (Vatican City),Italiano (Città del Vaticano)
 iu,Inuktitut,ᐃᓄᒃᑎᑐᑦ
 iu-CA,Inuktitut (Canada),ᐃᓄᒃᑎᑐᑦ (ᑲᓇᑕ)
 ja,Japanese,日本語
-ja-JP,Japanese (Japan),日本語 (日本)
-jbo,Lojban,la .lojban.
-jbo-001,Lojban (World),la .lojban. (World)
+ja-JP,Japanese (Japan),日本語 (日本国)
+jbo,Lojban,la .Lojban.
+jbo-001,Lojban (World),la .Lojban. (World)
 jgo,Ngomba,Ndaꞌa
 jgo-CM,Ngomba (Cameroon),Ndaꞌa (Kamɛrūn)
 jmc,Machame,Kimachame
@@ -492,8 +488,8 @@ kaa,Kara-Kalpak,Қарақалпақ
 kaa-UZ,Kara-Kalpak (Uzbekistan),Қарақалпақ (Өзбекстан)
 kab,Kabyle,Taqbaylit
 kab-DZ,Kabyle (Algeria),Taqbaylit (Lezzayer)
-kaj,Jju,Jju
-kaj-NG,Jju (Nigeria),Jju (Nigeria)
+kaj,Jju,Kaje
+kaj-NG,Jju (Nigeria),Kaje (Nigeria)
 kam,Kamba,Kikamba
 kam-KE,Kamba (Kenya),Kikamba (Kenya)
 kcg,Tyap,Katab
@@ -529,9 +525,9 @@ ko-KP,Korean (North Korea),한국어 (조선민주주의인민공화국)
 ko-KR,Korean (South Korea),한국어 (대한민국)
 kok,Konkani,कोंकणी
 kok-IN,Konkani (India),कोंकणी (भारत)
-kpe,Kpelle,Kpelle
-kpe-GN,Kpelle (Guinea),Kpelle (Guinée)
-kpe-LR,Kpelle (Liberia),Kpelle (Liberia)
+kpe,Kpelle,Kpɛlɛɛ
+kpe-GN,Kpelle (Guinea),Kpɛlɛɛ (Guinée)
+kpe-LR,Kpelle (Liberia),Kpɛlɛɛ (Liberia)
 ks,Kashmiri,کٲشُر
 ks-IN,Kashmiri (India),کٲشُر (ہِندوستان)
 ksb,Shambala,Kishambaa
@@ -544,8 +540,8 @@ ku,Kurdish,Kurdî
 ku-TR,Kurdish (Turkey),Kurdî (Tirkiye)
 kw,Cornish,Kernewek
 kw-GB,Cornish (United Kingdom),Kernewek (Rywvaneth Unys)
-kxv,Kuvi,କୁଇ
-kxv-IN,Kuvi (India),କୁଇ (ଭାରତ)
+kxv,Kuvi,Kuvi
+kxv-IN,Kuvi (India),Kuvi (ଭାରତ)
 ky,Kyrgyz,Кыргызча
 ky-KG,Kyrgyz (Kyrgyzstan),Кыргызча (Кыргызстан)
 la,Latin,Latina
@@ -556,8 +552,8 @@ lb,Luxembourgish,Lëtzebuergesch
 lb-LU,Luxembourgish (Luxembourg),Lëtzebuergesch (Lëtzebuerg)
 lg,Ganda,Luganda
 lg-UG,Ganda (Uganda),Luganda (Yuganda)
-lij,Ligurian,Lìgure
-lij-IT,Ligurian (Italy),Lìgure (Italia)
+lij,Ligurian,Ligure
+lij-IT,Ligurian (Italy),Ligure (Italia)
 lkt,Lakota,Lakȟólʼiyapi
 lkt-US,Lakota (United States),Lakȟólʼiyapi (Mílahaŋska Tȟamákȟočhe)
 lld,Ladin,Ladin
@@ -591,8 +587,8 @@ mai-IN,Maithili (India),मैथिली (भारत)
 mas,Masai,Maa
 mas-KE,Masai (Kenya),Maa (Kenya)
 mas-TZ,Masai (Tanzania),Maa (Tansania)
-mdf,Moksha,Мокшень
-mdf-RU,Moksha (Russia),Мокшень (Россия)
+mdf,Moksha,Мокшень кяль
+mdf-RU,Moksha (Russia),Мокшень кяль (Россия)
 mer,Meru,Kĩmĩrũ
 mer-KE,Meru (Kenya),Kĩmĩrũ (Kenya)
 mfe,Morisyen,Kreol Morisien
@@ -603,12 +599,12 @@ mgh,Makhuwa-Meetto,Makua
 mgh-MZ,Makhuwa-Meetto (Mozambique),Makua (Mozambique)
 mgo,Metaʼ,Metaʼ
 mgo-CM,Metaʼ (Cameroon),Metaʼ (Kamalún)
-mhn,Mócheno,Bersntoler
-mhn-IT,Mócheno (Italy),Bersntoler (Italia)
-mi,Māori,Te Reo Māori
-mi-NZ,Māori (New Zealand),Te Reo Māori (Aotearoa)
-mic,Mi'kmaq,Mìkmawìsimk
-mic-CA,Mi'kmaq (Canada),Mìkmawìsimk (Canada)
+mhn,Mòcheno,Mòcheno
+mhn-IT,Mòcheno (Italy),Mòcheno (Italia)
+mi,Māori,Māori
+mi-NZ,Māori (New Zealand),Māori (Aotearoa)
+mic,Mi'kmaq,Lʼnuiʼsuti
+mic-CA,Mi'kmaq (Canada),Lʼnuiʼsuti (Canada)
 mk,Macedonian,Македонски
 mk-MK,Macedonian (North Macedonia),Македонски (Северна Македонија)
 ml,Malayalam,മലയാളം
@@ -629,26 +625,26 @@ ms-MY,Malay (Malaysia),Melayu (Malaysia)
 ms-SG,Malay (Singapore),Melayu (Singapura)
 mt,Maltese,Malti
 mt-MT,Maltese (Malta),Malti (Malta)
-mua,Mundang,Mundang
-mua-CM,Mundang (Cameroon),Mundang (Cameroon)
+mua,Mundang,MUNDAŊ
+mua-CM,Mundang (Cameroon),MUNDAŊ (Cameroon)
 mus,Muscogee,Mvskoke
 mus-US,Muscogee (United States),Mvskoke (United States)
 my,Burmese,မြန်မာ
 my-MM,Burmese (Myanmar),မြန်မာ (မြန်မာ)
-myv,Erzya,Эрзянь
-myv-RU,Erzya (Russia),Эрзянь (Россия)
+myv,Erzya,Эрзянь кель
+myv-RU,Erzya (Russia),Эрзянь кель (Россия)
 mzn,Mazanderani,مازرونی
 mzn-IR,Mazanderani (Iran),مازرونی (ایران)
 naq,Nama,Khoekhoegowab
 naq-NA,Nama (Namibia),Khoekhoegowab (Namibiab)
-nb,Norwegian Bokmål,Norsk bokmål
-nb-NO,Norwegian Bokmål (Norway),Norsk bokmål (Norge)
-nb-SJ,Norwegian Bokmål (Svalbard & Jan Mayen),Norsk bokmål (Svalbard og Jan Mayen)
-nd,North Ndebele,IsiNdebele
-nd-ZW,North Ndebele (Zimbabwe),IsiNdebele (Zimbabwe)
-nds,Low German,Neddersassisch
-nds-DE,Low German (Germany),Neddersassisch (Deutschland)
-nds-NL,Low German (Netherlands),Neddersassisch (Nederland)
+nb,Norwegian Bokmål,Bokmål
+nb-NO,Norwegian Bokmål (Norway),Bokmål (Norge)
+nb-SJ,Norwegian Bokmål (Svalbard & Jan Mayen),Bokmål (Svalbard og Jan Mayen)
+nd,North Ndebele,isiNdebele
+nd-ZW,North Ndebele (Zimbabwe),isiNdebele (Zimbabwe)
+nds,Low German,Neddersass’sch
+nds-DE,Low German (Germany),Neddersass’sch (Deutschland)
+nds-NL,Low German (Netherlands),Neddersass’sch (Nederland)
 ne,Nepali,नेपाली
 ne-IN,Nepali (India),नेपाली (भारत)
 ne-NP,Nepali (Nepal),नेपाली (नेपाल)
@@ -660,10 +656,10 @@ nl-CW,Dutch (Curaçao),Nederlands (Curaçao)
 nl-NL,Dutch (Netherlands),Nederlands (Nederland)
 nl-SR,Dutch (Suriname),Nederlands (Suriname)
 nl-SX,Dutch (Sint Maarten),Nederlands (Sint Maarten)
-nmg,Kwasio,Ngumba
-nmg-CM,Kwasio (Cameroon),Ngumba (Kamerun)
-nn,Norwegian Nynorsk,Norsk nynorsk
-nn-NO,Norwegian Nynorsk (Norway),Norsk nynorsk (Noreg)
+nmg,Kwasio,Kwasio
+nmg-CM,Kwasio (Cameroon),Kwasio (Kamerun)
+nn,Norwegian Nynorsk,Nynorsk
+nn-NO,Norwegian Nynorsk (Norway),Nynorsk (Noreg)
 nnh,Ngiemboon,Shwóŋò ngiembɔɔn
 nnh-CM,Ngiemboon (Cameroon),Shwóŋò ngiembɔɔn (Kàmalûm)
 no,Norwegian,Norsk
@@ -689,17 +685,17 @@ om-ET,Oromo (Ethiopia),Oromoo (Itoophiyaa)
 om-KE,Oromo (Kenya),Oromoo (Keeniyaa)
 or,Odia,ଓଡ଼ିଆ
 or-IN,Odia (India),ଓଡ଼ିଆ (ଭାରତ)
-os,Ossetic,Ирон
+os,Ossetic,ирон
 os-GE,Ossetic (Georgia),Ирон (Гуырдзыстон)
 os-RU,Ossetic (Russia),Ирон (Уӕрӕсе)
-osa,Osage,Wazhazhe
-osa-US,Osage (United States),Wazhazhe (United States)
+osa,Osage,𐓏𐓘𐓻𐓘𐓻𐓟
+osa-US,Osage (United States),𐓏𐓘𐓻𐓘𐓻𐓟 (United States)
 pa,Punjabi,ਪੰਜਾਬੀ
 pa-IN,Punjabi (India),ਪੰਜਾਬੀ (ਭਾਰਤ)
-pa-PK,Punjabi (Pakistan),پنجابی (پاکستان)
-pap,Papiamento,Papiamento
-pap-AW,Papiamento (Aruba),Papiamento (Aruba)
-pap-CW,Papiamento (Curaçao),Papiamento (Curaçao)
+pa-PK,Punjabi (Pakistan),ਪੰਜਾਬੀ (پاکستان)
+pap,Papiamento,Papiamentu
+pap-AW,Papiamento (Aruba),Papiamentu (Aruba)
+pap-CW,Papiamento (Curaçao),Papiamentu (Curaçao)
 pcm,Nigerian Pidgin,Naijíriá Píjin
 pcm-NG,Nigerian Pidgin (Nigeria),Naijíriá Píjin (Naijíria)
 pis,Pijin,Pijin
@@ -732,9 +728,9 @@ quc,Kʼicheʼ,Kʼicheʼ
 quc-GT,Kʼicheʼ (Guatemala),Kʼicheʼ (Guatemala)
 raj,Rajasthani,राजस्थानी
 raj-IN,Rajasthani (India),राजस्थानी (भारत)
-rhg,Rohingya,𐴌𐴟𐴇𐴥𐴝𐴚𐴒𐴙𐴝
-rhg-BD,Rohingya (Bangladesh),𐴌𐴟𐴇𐴥𐴝𐴚𐴒𐴙𐴝 (𐴊𐴝𐴀𐴞𐴝𐴓𐴨𐴡𐴥𐴝)
-rhg-MM,Rohingya (Myanmar),𐴌𐴟𐴇𐴥𐴝𐴚𐴒𐴙𐴝 (𐴓𐴙𐴝𐴀𐴓𐴝)
+rhg,Rohingya,𐴌𐴗𐴥𐴝𐴙𐴚𐴒𐴙𐴝
+rhg-BD,Rohingya (Bangladesh),𐴌𐴗𐴥𐴝𐴙𐴚𐴒𐴙𐴝 (𐴊𐴝𐴀𐴞𐴝𐴓𐴨𐴡𐴥𐴝)
+rhg-MM,Rohingya (Myanmar),𐴌𐴗𐴥𐴝𐴙𐴚𐴒𐴙𐴝 (𐴓𐴙𐴝𐴀𐴓𐴝)
 rif,Riffian,Tarifit
 rif-MA,Riffian (Morocco),Tarifit (Merruk)
 rm,Romansh,Rumantsch
@@ -746,22 +742,21 @@ ro-MD,Romanian (Moldova),Română (Moldova)
 ro-RO,Romanian (Romania),Română (România)
 rof,Rombo,Kihorombo
 rof-TZ,Rombo (Tanzania),Kihorombo (Tanzania)
-root,Root,Root
-ru,Russian,Русский
-ru-BY,Russian (Belarus),Русский (Беларусь)
-ru-KG,Russian (Kyrgyzstan),Русский (Киргизия)
-ru-KZ,Russian (Kazakhstan),Русский (Казахстан)
-ru-MD,Russian (Moldova),Русский (Молдова)
-ru-RU,Russian (Russia),Русский (Россия)
-ru-UA,Russian (Ukraine),Русский (Украина)
-rw,Kinyarwanda,Kinyarwanda
-rw-RW,Kinyarwanda (Rwanda),Kinyarwanda (Rwanda)
+ru,Russian,Pусский
+ru-BY,Russian (Belarus),Pусский (Беларусь)
+ru-KG,Russian (Kyrgyzstan),Pусский (Киргизия)
+ru-KZ,Russian (Kazakhstan),Pусский (Казахстан)
+ru-MD,Russian (Moldova),Pусский (Молдова)
+ru-RU,Russian (Russia),Pусский (Россия)
+ru-UA,Russian (Ukraine),Pусский (Украина)
+rw,Kinyarwanda,Ikinyarwanda
+rw-RW,Kinyarwanda (Rwanda),Ikinyarwanda (Rwanda)
 rwk,Rwa,Kiruwa
 rwk-TZ,Rwa (Tanzania),Kiruwa (Tanzania)
-sa,Sanskrit,संस्कृत
-sa-IN,Sanskrit (India),संस्कृत (भारत)
-sah,Sakha,Саха
-sah-RU,Sakha (Russia),Саха (Россия)
+sa,Sanskrit,संस्कृत भाषा
+sa-IN,Sanskrit (India),संस्कृत भाषा (भारत)
+sah,Sakha,Саха Тыла
+sah-RU,Sakha (Russia),Саха Тыла (Россия)
 saq,Samburu,Kisampur
 saq-KE,Samburu (Kenya),Kisampur (Kenya)
 sat,Santali,ᱥᱟᱱᱛᱟᱲᱤ
@@ -775,9 +770,9 @@ scn-IT,Sicilian (Italy),Sicilianu (Italia)
 sd,Sindhi,سنڌي
 sd-IN,Sindhi (India),سنڌي (भारत)
 sd-PK,Sindhi (Pakistan),سنڌي (پاڪستان)
-sdh,Southern Kurdish,کوردیی خوارگ
-sdh-IQ,Southern Kurdish (Iraq),کوردیی خوارگ (عێراق)
-sdh-IR,Southern Kurdish (Iran),کوردیی خوارگ (ئێران)
+sdh,Southern Kurdish,کوردی خوارگ
+sdh-IQ,Southern Kurdish (Iraq),کوردی خوارگ (عێراق)
+sdh-IR,Southern Kurdish (Iran),کوردی خوارگ (ئێران)
 se,Northern Sami,Davvisámegiella
 se-FI,Northern Sami (Finland),Davvisámegiella (Suopma)
 se-NO,Northern Sami (Norway),Davvisámegiella (Norga)
@@ -790,9 +785,9 @@ sg,Sango,Sängö
 sg-CF,Sango (Central African Republic),Sängö (Ködörösêse tî Bêafrîka)
 shi,Tachelhit,ⵜⴰⵛⵍⵃⵉⵜ
 shi-MA,Tachelhit (Morocco),ⵜⴰⵛⵍⵃⵉⵜ (ⵍⵎⵖⵔⵉⴱ)
-shn,Shan,လိၵ်ႈတႆး
-shn-MM,Shan (Myanmar),လိၵ်ႈတႆး (မျၢၼ်ႇမႃႇ)
-shn-TH,Shan (Thailand),လိၵ်ႈတႆး (ထႆး)
+shn,Shan,တႆး
+shn-MM,Shan (Myanmar),တႆး (မျၢၼ်ႇမႃႇ)
+shn-TH,Shan (Thailand),တႆး (ထႆး)
 si,Sinhala,සිංහල
 si-LK,Sinhala (Sri Lanka),සිංහල (ශ්‍රී ලංකාව)
 sid,Sidamo,Sidaamu Afo
@@ -803,9 +798,9 @@ skr,Saraiki,سرائیکی
 skr-PK,Saraiki (Pakistan),سرائیکی (پاکستان)
 sl,Slovenian,Slovenščina
 sl-SI,Slovenian (Slovenia),Slovenščina (Slovenija)
-sma,Southern Sami,Åarjelsaemien
-sma-NO,Southern Sami (Norway),Åarjelsaemien (Nöörje)
-sma-SE,Southern Sami (Sweden),Åarjelsaemien (Sveerje)
+sma,Southern Sami,Åarjelsaemien gïele
+sma-NO,Southern Sami (Norway),Åarjelsaemien gïele (Nöörje)
+sma-SE,Southern Sami (Sweden),Åarjelsaemien gïele (Sveerje)
 smj,Lule Sami,Julevsámegiella
 smj-NO,Lule Sami (Norway),Julevsámegiella (Vuodna)
 smj-SE,Lule Sami (Sweden),Julevsámegiella (Svierik)
@@ -813,8 +808,8 @@ smn,Inari Sami,Anarâškielâ
 smn-FI,Inari Sami (Finland),Anarâškielâ (Suomâ)
 sms,Skolt Sami,Sääʹmǩiõll
 sms-FI,Skolt Sami (Finland),Sääʹmǩiõll (Lääʹddjânnam)
-sn,Shona,ChiShona
-sn-ZW,Shona (Zimbabwe),ChiShona (Zimbabwe)
+sn,Shona,chiShona
+sn-ZW,Shona (Zimbabwe),chiShona (Zimbabwe)
 so,Somali,Soomaali
 so-DJ,Somali (Djibouti),Soomaali (Jabuuti)
 so-ET,Somali (Ethiopia),Soomaali (Itoobiya)
@@ -829,9 +824,9 @@ sr-BA,Serbian (Bosnia & Herzegovina),Српски (Босна и Херцего�
 sr-ME,Serbian (Montenegro),Српски (Црна Гора)
 sr-RS,Serbian (Serbia),Српски (Србија)
 sr-XK,Serbian (Kosovo),Српски (Косово)
-ss,Swati,SiSwati
-ss-SZ,Swati (Eswatini),SiSwati (eSwatini)
-ss-ZA,Swati (South Africa),SiSwati (eMzansi)
+ss,Swati,siSwati
+ss-SZ,Swati (Eswatini),siSwati (eSwatini)
+ss-ZA,Swati (South Africa),siSwati (eMzansi)
 ssy,Saho,Saho
 ssy-ER,Saho (Eritrea),Saho (Eritrea)
 st,Southern Sotho,Sesotho
@@ -872,13 +867,13 @@ ti-ER,Tigrinya (Eritrea),ትግርኛ (ኤርትራ)
 ti-ET,Tigrinya (Ethiopia),ትግርኛ (ኢትዮጵያ)
 tig,Tigre,ትግረ
 tig-ER,Tigre (Eritrea),ትግረ (ኤርትራ)
-tk,Turkmen,Türkmen
-tk-TM,Turkmen (Turkmenistan),Türkmen (Türkmenistan)
+tk,Turkmen,Türkmen dili
+tk-TM,Turkmen (Turkmenistan),Türkmen dili (Türkmenistan)
 tn,Tswana,Setswana
 tn-BW,Tswana (Botswana),Setswana (Botswana)
 tn-ZA,Tswana (South Africa),Setswana (Aforika Borwa)
-to,Tongan,Lea fakatonga
-to-TO,Tongan (Tonga),Lea fakatonga (Tonga)
+to,Tongan,Lea Fakatonga
+to-TO,Tongan (Tonga),Lea Fakatonga (Tonga)
 tok,Toki Pona,Toki Pona
 tok-001,Toki Pona (World),Toki Pona (ma ali)
 tpi,Tok Pisin,Tok Pisin
@@ -886,8 +881,8 @@ tpi-PG,Tok Pisin (Papua New Guinea),Tok Pisin (Papua Niugini)
 tr,Turkish,Türkçe
 tr-CY,Turkish (Cyprus),Türkçe (Kıbrıs)
 tr-TR,Turkish (Turkey),Türkçe (Türkiye)
-trv,Taroko,Seediq
-trv-TW,Taroko (Taiwan),Seediq (Taiwan)
+trv,Taroko,Patas Taroko
+trv-TW,Taroko (Taiwan),Patas Taroko (Taiwan)
 trw,Torwali,توروالی
 trw-PK,Torwali (Pakistan),توروالی (پاکستان)
 ts,Tsonga,Xitsonga
@@ -907,15 +902,15 @@ uk-UA,Ukrainian (Ukraine),Українська (Україна)
 ur,Urdu,اردو
 ur-IN,Urdu (India),اردو (بھارت)
 ur-PK,Urdu (Pakistan),اردو (پاکستان)
-uz,Uzbek,O'zbek
-uz-AF,Uzbek (Afghanistan),O'zbek (Афғонистон)
-uz-UZ,Uzbek (Uzbekistan),O'zbek (Oʻzbekiston)
+uz,Uzbek,O‘zbek
+uz-AF,Uzbek (Afghanistan),O‘zbek (Афғонистон)
+uz-UZ,Uzbek (Uzbekistan),O‘zbek (Oʻzbekiston)
 vai,Vai,ꕙꔤ
 vai-LR,Vai (Liberia),ꕙꔤ (ꕞꔤꔫꕩ)
 ve,Venda,Tshivenḓa
 ve-ZA,Venda (South Africa),Tshivenḓa (Afurika Tshipembe)
-vec,Venetian,Vèneto
-vec-IT,Venetian (Italy),Vèneto (Italia)
+vec,Venetian,Veneto
+vec-IT,Venetian (Italy),Veneto (Italia)
 vi,Vietnamese,Tiếng Việt
 vi-VN,Vietnamese (Vietnam),Tiếng Việt (Việt Nam)
 vmw,Makhuwa,Emakhuwa
@@ -959,11 +954,11 @@ za-CN,Zhuang (China),Vahcuengh (Cunghgoz)
 zgh,Standard Moroccan Tamazight,ⵜⴰⵎⴰⵣⵉⵖⵜ
 zgh-MA,Standard Moroccan Tamazight (Morocco),ⵜⴰⵎⴰⵣⵉⵖⵜ (ⵍⵎⵖⵔⵉⴱ)
 zh,Chinese,中文
-zh-CN,"Chinese (Simplified, China)",简体中文 (中国)
-zh-HK,"Chinese (Traditional, Hong Kong)",繁體中文 (香港)
-zh-MO,"Chinese (Traditional, Macao)",繁體中文 (澳門)
-zh-MY,"Chinese (Simplified, Malaysia)",简体中文 (马来西亚)
-zh-SG,"Chinese (Simplified, Singapore)",简体中文 (新加坡)
-zh-TW,"Chinese (Traditional, Taiwan)",繁體中文 (台灣)
+zh-CN,Simplified Chinese (China),简体中文 (中国)
+zh-HK,Traditional Chinese (Hong Kong),繁體中文 (香港)
+zh-MO,Traditional Chinese (Macao),繁體中文 (澳門)
+zh-MY,Simplified Chinese (Malaysia),简体中文 (马来西亚)
+zh-SG,Simplified Chinese (Singapore),简体中文 (新加坡)
+zh-TW,Traditional Chinese (Taiwan),繁體中文 (台灣)
 zu,Zulu,isiZulu
 zu-ZA,Zulu (South Africa),isiZulu (iNingizimu Afrika)
