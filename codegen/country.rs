@@ -190,7 +190,7 @@ impl Country {
     }
 
     /// Main official language codes
-    pub const fn language(&self) -> Vec<crate::Language> {
+    pub fn language(&self) -> Vec<crate::Language> {
         match self {
 {{#each countries}}
             Self::{{this.code2}} => {{lang this.language}},
