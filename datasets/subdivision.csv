@@ -1,4 +1,4 @@
-code,kind,parent,name,native
+code,category,parent,name,native
 AD-02,Parish,,Canillo,Canillo
 AD-03,Parish,,Encamp,Encamp
 AD-04,Parish,,La Massana,La Massana
@@ -215,5 +215,516 @@ AZ-YEV,Rayon,,Yevlakh,Yevlax
 AZ-ZAN,Rayon,,Zangilan,Zəngilan
 AZ-ZAQ,Rayon,,Zagatala,Zaqatala
 AZ-ZAR,Rayon,,Zardab,Zərdab
-,NULL,NULL,NULL,NULL
-,NULL,NULL,NULL,NULL
+BA-BIH,Entity,,Federation of Bosnia and Herzegovina,Federacija Bosne i Hercegovine
+BA-BRC,District With Special Status,,Brčko District,Brčko distrikt
+BA-SRP,Entity,,Republika Srpska,Republika Srpska
+BB-01,Parish,,Christ Church,Christ Church
+BB-02,Parish,,Saint Andrew,Saint Andrew
+BB-03,Parish,,Saint George,Saint George
+BB-04,Parish,,Saint James,Saint James
+BB-05,Parish,,Saint John,Saint John
+BB-06,Parish,,Saint Joseph,Saint Joseph
+BB-07,Parish,,Saint Lucy,Saint Lucy
+BB-08,Parish,,Saint Michael,Saint Michael
+BB-09,Parish,,Saint Peter,Saint Peter
+BB-10,Parish,,Saint Philip,Saint Philip
+BB-11,Parish,,Saint Thomas,Saint Thomas
+BD-A,Division,,Barishal,বরিশাল
+BD-B,Division,,Chattogram,চট্টগ্রাম
+BD-C,Division,,Dhaka,ঢাকা
+BD-D,Division,,Khulna,খুলনা
+BD-E,Division,,Rajshahi,রাজশাহী
+BD-F,Division,,Rangpur,রংপুর
+BD-G,Division,,Sylhet,সিলেট
+BD-H,Division,,Mymensingh,ময়মনসিংহ
+BD-01,District,BD-B,Bandarban,বান্দরবান
+BD-02,District,BD-A,Barguna,বরগুনা
+BD-03,District,BD-E,Bogura,বগুড়া
+BD-04,District,BD-B,Brahmanbaria,ব্রাহ্মণবাড়িয়া
+BD-05,District,BD-D,Bagerhat,বাগেরহাট
+BD-06,District,BD-A,Barishal,বরিশাল
+BD-07,District,BD-A,Bhola,ভোলা
+BD-08,District,BD-B,Cumilla,কুমিল্লা
+BD-09,District,BD-B,Chandpur,চাঁদপুর
+BD-10,District,BD-B,Chattogram,চট্টগ্রাম
+BD-11,District,BD-B,Cox's Bazar,কক্সবাজার
+BD-12,District,BD-D,Chuadanga,চুয়াডাঙ্গা
+BD-13,District,BD-C,Dhaka,ঢাকা
+BD-14,District,BD-F,Dinajpur,দিনাজপুর
+BD-15,District,BD-C,Faridpur,ফরিদপুর
+BD-16,District,BD-B,Feni,ফেনী
+BD-17,District,BD-C,Gopalganj,গোপালগঞ্জ
+BD-18,District,BD-C,Gazipur,গাজীপুর
+BD-19,District,BD-F,Gaibandha,গাইবান্ধা
+BD-20,District,BD-G,Habiganj,হবিগঞ্জ
+BD-21,District,BD-H,Jamalpur,জামালপুর
+BD-22,District,BD-D,Jashore,যশোর
+BD-23,District,BD-D,Jhenaidah,ঝিনাইদহ
+BD-24,District,BD-E,Joypurhat,জয়পুরহাট
+BD-25,District,BD-A,Jhalakathi,ঝালকাঠি
+BD-26,District,BD-C,Kishoreganj,কিশোরগঞ্জ
+BD-27,District,BD-D,Khulna,খুলনা
+BD-28,District,BD-F,Kurigram,কুড়িগ্রাম
+BD-29,District,BD-B,Khagrachhari,খাগড়াছড়ি
+BD-30,District,BD-D,Kushtia,কুষ্টিয়া
+BD-31,District,BD-B,Lakshmipur,লক্ষ্মীপুর
+BD-32,District,BD-F,Lalmonirhat,লালমনিরহাট
+BD-33,District,BD-C,Manikganj,মানিকগঞ্জ
+BD-34,District,BD-H,Mymensingh,ময়মনসিংহ
+BD-35,District,BD-C,Munshiganj,মুন্সীগঞ্জ
+BD-36,District,BD-C,Madaripur,মাদারীপুর
+BD-37,District,BD-D,Magura,মাগুরা
+BD-38,District,BD-G,Moulvibazar,মৌলভীবাজার
+BD-39,District,BD-D,Meherpur,মেহেরপুর
+BD-40,District,BD-C,Narayanganj,নারায়ণগঞ্জ
+BD-41,District,BD-H,Netrakona,নেত্রকোণা
+BD-42,District,BD-C,Narsingdi,নরসিংদী
+BD-43,District,BD-D,Narail,নড়াইল
+BD-44,District,BD-E,Natore,নাটোর
+BD-45,District,BD-E,Chapai Nawabganj,চাঁপাইনবাবগঞ্জ
+BD-46,District,BD-F,Nilphamari,নীলফামারী
+BD-47,District,BD-B,Noakhali,নোয়াখালী
+BD-48,District,BD-E,Naogaon,নওগাঁ
+BD-49,District,BD-E,Pabna,পাবনা
+BD-50,District,BD-A,Pirojpur,পিরোজপুর
+BD-51,District,BD-A,Patuakhali,পটুয়াখালী
+BD-52,District,BD-F,Panchagarh,পঞ্চগড়
+BD-53,District,BD-C,Rajbari,রাজবাড়ী
+BD-54,District,BD-E,Rajshahi,রাজশাহী
+BD-55,District,BD-F,Rangpur,রংপুর
+BD-56,District,BD-B,Rangamati,রাঙ্গামাটি
+BD-57,District,BD-H,Sherpur,শেরপুর
+BD-58,District,BD-D,Satkhira,সাতক্ষীরা
+BD-59,District,BD-E,Sirajganj,সিরাজগঞ্জ
+BD-60,District,BD-G,Sylhet,সিলেট
+BD-61,District,BD-G,Sunamganj,সুনামগঞ্জ
+BD-62,District,BD-C,Shariatpur,শরিয়তপুর
+BD-63,District,BD-C,Tangail,টাঙ্গাইল
+BD-64,District,BD-F,Thakurgaon,ঠাকুরগাঁও
+BE-BRU,Region,,Brussels,Brussels Hoofdstedelijk Gewest
+BE-VLG,Region,,Flanders,Vlaams Gewest
+BE-WAL,Region,,Wallonia,Waals Gewest
+BE-VAN,Province,BE-VLG,Antwerp,Antwerpen
+BE-VBR,Province,BE-VLG,Flemish Brabant,Vlaams-Brabant
+BE-VLI,Province,BE-VLG,Limburg,Limburg
+BE-VOV,Province,BE-VLG,East Flanders,Oost-Vlaanderen
+BE-VWV,Province,BE-VLG,West Flanders,West-Vlaanderen
+BE-WBR,Province,BE-WAL,Walloon Brabant,Brabant wallon
+BE-WHT,Province,BE-WAL,Hainaut,Hainaut
+BE-WLG,Province,BE-WAL,Liège,Liège
+BE-WLX,Province,BE-WAL,Luxembourg,Luxembourg
+BE-WNA,Province,BE-WAL,Namur,Namur
+BF-01,Region,,Boucle du Mouhoun,Boucle du Mouhoun
+BF-02,Region,,Cascades,Cascades
+BF-03,Region,,Centre,Centre
+BF-04,Region,,Centre-Est,Centre-Est
+BF-05,Region,,Centre-Nord,Centre-Nord
+BF-06,Region,,Centre-Ouest,Centre-Ouest
+BF-07,Region,,Centre-Sud,Centre-Sud
+BF-08,Region,,Est,Est
+BF-09,Region,,Hauts-Bassins,Hauts-Bassins
+BF-10,Region,,Nord,Nord
+BF-11,Region,,Plateau-Central,Plateau-Central
+BF-12,Region,,Sahel,Sahel
+BF-13,Region,,Sud-Ouest,Sud-Ouest
+BF-BAL,Province,BF-01,Balé,Balé
+BF-BAM,Province,BF-05,Bam,Bam
+BF-BAN,Province,BF-01,Banwa,Banwa
+BF-BAZ,Province,BF-07,Bazèga,Bazèga
+BF-BGR,Province,BF-13,Bougouriba,Bougouriba
+BF-BLG,Province,BF-04,Boulgou,Boulgou
+BF-BLK,Province,BF-06,Boulkiemdé,Boulkiemdé
+BF-COM,Province,BF-02,Comoé,Comoé
+BF-GAN,Province,BF-11,Ganzourgou,Ganzourgou
+BF-GNA,Province,BF-08,Gnagna,Gnagna
+BF-GOU,Province,BF-08,Gourma,Gourma
+BF-HOU,Province,BF-09,Houet,Houet
+BF-IOB,Province,BF-13,Ioba,Ioba
+BF-KAD,Province,BF-03,Kadiogo,Kadiogo
+BF-KEN,Province,BF-09,Kénédougou,Kénédougou
+BF-KMD,Province,BF-08,Komondjari,Komondjari
+BF-KMP,Province,BF-08,Kompienga,Kompienga
+BF-KOP,Province,BF-04,Kossi,Kossi
+BF-KOS,Province,BF-01,Koulpélogo,Koulpélogo
+BF-KOT,Province,BF-04,Kouritenga,Kouritenga
+BF-KOW,Province,BF-11,Kourwéogo,Kourwéogo
+BF-LER,Province,BF-02,Léraba,Léraba
+BF-LOR,Province,BF-10,Loroum,Loroum
+BF-MOU,Province,BF-01,Mouhoun,Mouhoun
+BF-NAM,Province,BF-05,Nahouri,Nahouri
+BF-NAO,Province,BF-07,Namentenga,Namentenga
+BF-NAY,Province,BF-01,Nayala,Nayala
+BF-NOU,Province,BF-13,Noumbiel,Noumbiel
+BF-OUB,Province,BF-11,Oubritenga,Oubritenga
+BF-OUD,Province,BF-12,Oudalan,Oudalan
+BF-PAS,Province,BF-10,Passoré,Passoré
+BF-PON,Province,BF-13,Poni,Poni
+BF-SEN,Province,BF-12,Sanguié,Sanguié
+BF-SIS,Province,BF-06,Sanmatenga,Sanmatenga
+BF-SMT,Province,BF-05,Séno,Séno
+BF-SNG,Province,BF-06,Sissili,Sissili
+BF-SOM,Province,BF-12,Soum,Soum
+BF-SOR,Province,BF-01,Sourou,Sourou
+BF-TAP,Province,BF-08,Tapoa,Tapoa
+BF-TUI,Province,BF-09,Tuy,Tuy
+BF-YAG,Province,BF-12,Yagha,Yagha
+BF-YAT,Province,BF-10,Yatenga,Yatenga
+BF-ZIR,Province,BF-06,Ziro,Ziro
+BF-ZON,Province,BF-10,Zondoma,Zondoma
+BF-ZOU,Province,BF-07,Zoundwéogo,Zoundwéogo
+BG-01,District,,Blagoevgrad,Благоевград
+BG-02,District,,Burgas,Бургас
+BG-03,District,,Varna,Варна
+BG-04,District,,Veliko Tarnovo,Велико Търново
+BG-05,District,,Vidin,Видин
+BG-06,District,,Vratsa,Враца
+BG-07,District,,Gabrovo,Габрово
+BG-08,District,,Dobrich,Добрич
+BG-09,District,,Kardzhali,Кърджали
+BG-10,District,,Kyustendil,Кюстендил
+BG-11,District,,Lovech,Ловеч
+BG-12,District,,Montana,Монтана
+BG-13,District,,Pazardzhik,Пазарджик
+BG-14,District,,Pernik,Перник
+BG-15,District,,Pleven,Плевен
+BG-16,District,,Plovdiv,Пловдив
+BG-17,District,,Razgrad,Разград
+BG-18,District,,Ruse,Русе
+BG-19,District,,Silistra,Силистра
+BG-20,District,,Sliven,Сливен
+BG-21,District,,Smolyan,Смолян
+BG-22,District,,Sofia (stolitsa),София
+BG-23,District,,Sofia,Софийска област
+BG-24,District,,Stara Zagora,Стара Загора
+BG-25,District,,Targovishte,Търговище
+BG-26,District,,Haskovo,Хасково
+BG-27,District,,Shumen,Шумен
+BG-28,District,,Yambol,Ямбол
+BH-13,Governorate,,Capital Governorate,محافظة العاصمة
+BH-14,Governorate,,Southern Governorate,المحافظة الجنوبية
+BH-15,Governorate,,Muharraq Governorate,محافظة المحرق
+BH-17,Governorate,,Northern Governorate,المحافظة الشمالية
+BI-BB,Province,,Bubanza,Bubanza
+BI-BL,Province,,Bujumbura Rural,Bujumbura Rural
+BI-BM,Province,,Bujumbura Mairie,Bujumbura Mairie
+BI-BR,Province,,Bururi,Bururi
+BI-CA,Province,,Cankuzo,Cankuzo
+BI-CI,Province,,Cibitoke,Cibitoke
+BI-GI,Province,,Gitega,Gitega
+BI-KI,Province,,Kirundo,Kirundo
+BI-KR,Province,,Karuzi,Karuzi
+BI-KY,Province,,Kayanza,Kayanza
+BI-MA,Province,,Makamba,Makamba
+BI-MU,Province,,Muramvya,Muramvya
+BI-MW,Province,,Mwaro,Mwaro
+BI-MY,Province,,Muyinga,Muyinga
+BI-NG,Province,,Ngozi,Ngozi
+BI-RM,Province,,Rumonge,Rumonge
+BI-RT,Province,,Rutana,Rutana
+BI-RY,Province,,Ruyigi,Ruyigi
+BJ-AK,Department,,Atacora,Atacora
+BJ-AL,Department,,Alibori,Alibori
+BJ-AQ,Department,,Atlantique,Atlantique
+BJ-BO,Department,,Borgou,Borgou
+BJ-CO,Department,,Collines,Collines
+BJ-DO,Department,,Donga,Donga
+BJ-KO,Department,,Couffo,Couffo
+BJ-LI,Department,,Littoral,Littoral
+BJ-MO,Department,,Mono,Mono
+BJ-OU,Department,,Ouémé,Ouémé
+BJ-PL,Department,,Plateau,Plateau
+BJ-ZO,Department,,Zou,Zou
+BN-BE,District,,Belait,Belait
+BN-BM,District,,Brunei-Muara,Brunei dan Muara
+BN-TE,District,,Temburong,Temburong
+BN-TU,District,,Tutong,Tutong
+BO-B,Department,,El Beni,El Beni
+BO-C,Department,,Cochabamba,Cochabamba
+BO-H,Department,,Chuquisaca,Chuquisaca
+BO-L,Department,,La Paz,La Paz
+BO-N,Department,,Pando,Pando
+BO-O,Department,,Oruro,Oruro
+BO-P,Department,,Potosí,Potosí
+BO-S,Department,,Santa Cruz,Santa Cruz
+BO-T,Department,,Tarija,Tarija
+BQ-BO,Special Municipality,,Bonaire,Boneiru
+BQ-SA,Special Municipality,,Saba,Saba
+BQ-SE,Special Municipality,,Sint Eustatius,Sint Eustatius
+BR-AC,State,,Acre,Acre
+BR-AL,State,,Alagoas,Alagoas
+BR-AM,State,,Amazonas,Amazonas
+BR-AP,State,,Amapá,Amapá
+BR-BA,State,,Bahia,Bahia
+BR-CE,State,,Ceará,Ceará
+BR-DF,Federal District,,Distrito Federal,Distrito Federal
+BR-ES,State,,Espírito Santo,Espírito Santo
+BR-GO,State,,Goiás,Goiás
+BR-MA,State,,Maranhão,Maranhão
+BR-MG,State,,Minas Gerais,Minas Gerais
+BR-MS,State,,Mato Grosso do Sul,Mato Grosso do Sul
+BR-MT,State,,Mato Grosso,Mato Grosso
+BR-PA,State,,Pará,Pará
+BR-PB,State,,Paraíba,Paraíba
+BR-PE,State,,Pernambuco,Pernambuco
+BR-PI,State,,Piauí,Piauí
+BR-PR,State,,Paraná,Paraná
+BR-RJ,State,,Rio de Janeiro,Rio de Janeiro
+BR-RN,State,,Rio Grande do Norte,Rio Grande do Norte
+BR-RO,State,,Rondônia,Rondônia
+BR-RR,State,,Roraima,Roraima
+BR-RS,State,,Rio Grande do Sul,Rio Grande do Sul
+BR-SC,State,,Santa Catarina,Santa Catarina
+BR-SE,State,,Sergipe,Sergipe
+BR-SP,State,,São Paulo,São Paulo
+BR-TO,State,,Tocantins,Tocantins
+BS-AK,District,,Acklins,Acklins
+BS-BI,District,,Bimini,Bimini
+BS-BP,District,,Black Point,Black Point
+BS-BY,District,,Berry Islands,Berry Islands
+BS-CE,District,,Central Eleuthera,Central Eleuthera
+BS-CI,District,,Cat Island,Cat Island
+BS-CK,District,,Crooked Island and Long Cay,Crooked Island and Long Cay
+BS-CO,District,,Central Abaco,Central Abaco
+BS-CS,District,,Central Andros,Central Andros
+BS-EG,District,,East Grand Bahama,East Grand Bahama
+BS-EX,District,,Exuma,Exuma
+BS-FP,District,,City of Freeport,City of Freeport
+BS-GC,District,,Grand Cay,Grand Cay
+BS-HI,District,,Harbour Island,Harbour Island
+BS-HT,District,,Hope Town,Hope Town
+BS-IN,District,,Inagua,Inagua
+BS-LI,District,,Long Island,Long Island
+BS-MC,District,,Mangrove Cay,Mangrove Cay
+BS-MG,District,,Mayaguana,Mayaguana
+BS-MI,District,,Moore's Island,Moore's Island
+BS-NE,District,,North Eleuthera,North Eleuthera
+BS-NO,District,,North Abaco,North Abaco
+BS-NP,Island,,New Providence,New Providence
+BS-NS,District,,North Andros,North Andros
+BS-RC,District,,Rum Cay,Rum Cay
+BS-RI,District,,Ragged Island,Ragged Island
+BS-SA,District,,South Andros,South Andros
+BS-SE,District,,South Eleuthera,South Eleuthera
+BS-SO,District,,South Abaco,South Abaco
+BS-SS,District,,San Salvador,San Salvador
+BS-SW,District,,Spanish Wells,Spanish Wells
+BS-WG,District,,West Grand Bahama,West Grand Bahama
+BT-11,District,,Paro,སྤ་རོ་
+BT-12,District,,Chhukha,ཆུ་ཁ་
+BT-13,District,,Haa,ཧཱ་
+BT-14,District,,Samtse,བསམ་རྩེ་
+BT-15,District,,Thimphu,ཐིམ་ཕུ་
+BT-21,District,,Tsirang,རྩི་རང་
+BT-22,District,,Dagana,དར་དཀར་ན་
+BT-23,District,,Punakha,སྤུ་ན་ཁ་
+BT-24,District,,Wangdue Phodrang,དབང་འདུས་ཕོ་བྲང་
+BT-31,District,,Sarpang,གསར་སྤང་
+BT-32,District,,Trongsa,ཀྲོང་གསར་
+BT-33,District,,Bumthang,བུམ་ཐང་
+BT-34,District,,Zhemgang,གཞམས་སྒང་
+BT-41,District,,Trashigang,བཀྲ་ཤིས་སྒང་
+BT-42,District,,Monggar,མོང་སྒར་
+BT-43,District,,Pema Gatshel,པད་མ་དགའ་ཚལ་
+BT-44,District,,Lhuentse,ལྷུན་རྩེ་
+BT-45,District,,Samdrup Jongkhar,བསམ་གྲུབ་ལྗོངས་མཁར
+BT-GA,District,,Gasa,མགར་ས་
+BT-TY,District,,Trashi Yangtse,བཀྲ་ཤིས་གྱང་ཙེ་
+BW-CE,District,,Central,Central
+BW-CH,District,,Chobe,Chobe
+BW-FR,City,,Francistown,Francistown
+BW-GA,City,,Gaborone,Gaborone
+BW-GH,District,,Ghanzi,Ghanzi
+BW-JW,Town,,Jwaneng,Jwaneng
+BW-KG,District,,Kgalagadi,Kgalagadi
+BW-KL,District,,Kgatleng,Kgatleng
+BW-KW,District,,Kweneng,Kweneng
+BW-LO,Town,,Lobatse,Lobatse
+BW-NE,District,,North East,North East
+BW-NW,District,,North West,North West
+BW-SE,District,,South East,South East
+BW-SO,District,,Southern,Southern
+BW-SP,Town,,Selibe Phikwe,Selibe Phikwe
+BW-ST,Town,,Sowa Town,Sowa Town
+BY-BR,Oblast,,Брэсцкая вобласць,Brest
+BY-HM,City,,Горад Мінск,Minsk City
+BY-HO,Oblast,,Гомельская вобласць,Gomel
+BY-HR,Oblast,,Гродзенская вобласць,Grodno
+BY-MA,Oblast,,Магілёўская вобласць,Mogilev
+BY-MI,Oblast,,Мінская вобласць,Minsk
+BY-VI,Oblast,,Віцебская вобласць,Vitebsk
+BZ-BZ,District,,Belize,Belize
+BZ-CY,District,,Cayo,Cayo
+BZ-CZL,District,,Corozal,Corozal
+BZ-OW,District,,Orange Walk,Orange Walk
+BZ-SC,District,,Stann Creek,Stann Creek
+BZ-TOL,District,,Toledo,Toledo
+CA-AB,Province,,Alberta,Alberta
+CA-BC,Province,,British Columbia,British Columbia
+CA-MB,Province,,Manitoba,Manitoba
+CA-NB,Province,,New Brunswick,New Brunswick
+CA-NL,Province,,Newfoundland and Labrador,Newfoundland and Labrador
+CA-NT,Territory,,Northwest Territories,Northwest Territories
+CA-NS,Province,,Nova Scotia,Nova Scotia
+CA-NU,Territory,,Nunavut,Nunavut
+CA-ON,Province,,Ontario,Ontario
+CA-PE,Province,,Prince Edward Island,Prince Edward Island
+CA-QC,Province,,Quebec,Quebec
+CA-SK,Province,,Saskatchewan,Saskatchewan
+CA-YT,Territory,,Yukon,Yukon
+CD-BC,Province,,Central Kongo,Kongo Central
+CD-BU,Province,,Lower Uele,Bas-Uélé
+CD-EQ,Province,,Equator,Équateur
+CD-HK,Province,,Upper Katanga,Haut-Katanga
+CD-HL,Province,,Upper Lomami,Haut-Lomami
+CD-HU,Province,,Upper Uele,Haut-Uélé
+CD-IT,Province,,Ituri,Ituri
+CD-KC,Province,,Central Kasai,Kasaï Central
+CD-KE,Province,,Eastern Kasai,Kasaï Oriental
+CD-KG,Province,,Kwango,Kwango
+CD-KL,Province,,Kwilu,Kwilu
+CD-KN,City,,Kinshasa,Kinshasa
+CD-KS,Province,,Kasai,Kasaï
+CD-LO,Province,,Lomami,Lomami
+CD-LU,Province,,Lualaba,Lualaba
+CD-MA,Province,,Maniema,Maniema
+CD-MN,Province,,Mai-Ndombe,Mai-Ndombe
+CD-MO,Province,,Mongala,Mongala
+CD-NK,Province,,North Kivu,Nord-Kivu
+CD-NU,Province,,North Ubangi,Nord-Ubangi
+CD-SA,Province,,Sankuru,Sankuru
+CD-SK,Province,,South Kivu,Sud-Kivu
+CD-SU,Province,,South Ubangi,Sud-Ubangi
+CD-TA,Province,,Tanganyika,Tanganyika
+CD-TO,Province,,Tshopo,Tshopo
+CD-TU,Province,,Tshuapa,Tshuapa
+CF-AC,Prefecture,,Ouham,Ouham
+CF-BB,Prefecture,,Bamingui-Bangoran,Bamingui-Bangoran
+CF-BGF,Commune,,Bangui,Bangui
+CF-BK,Prefecture,,Basse-Kotto,Basse-Kotto
+CF-HK,Prefecture,,Haute-Kotto,Haute-Kotto
+CF-HM,Prefecture,,Haut-Mbomou,Haut-Mbomou
+CF-HS,Prefecture,,Haute-Sangha / Mambéré-Kadéï,Haute-Sangha / Mambéré-Kadéï
+CF-KB,Economic Prefecture,,Gribingui,Gribingui
+CF-KG,Prefecture,,Kémo-Gribingui,Kémo-Gribingui
+CF-LB,Prefecture,,Lobaye,Lobaye
+CF-MB,Prefecture,,Mbomou,Mbomou
+CF-MP,Prefecture,,Ombella-Mpoko,Ombella-Mpoko
+CF-NM,Prefecture,,Nana-Mambéré,Nana-Mambéré
+CF-OP,Prefecture,,Ouham-Pendé,Ouham-Pendé
+CF-SE,Economic Prefecture,,Sangha,Sangha
+CF-UK,Prefecture,,Ouaka,Ouaka
+CF-VK,Prefecture,,Vakaga,Vakaga
+CG-2,Department,,Lekoumou,Lékoumou
+CG-5,Department,,Kouilou,Kouilou
+CG-7,Department,,Likouala,Likouala
+CG-8,Department,,Cuvette,Cuvette
+CG-9,Department,,Niari,Niari
+CG-11,Department,,Bouenza,Bouenza
+CG-12,Department,,Pool,Pool
+CG-13,Department,,Sangha,Sangha
+CG-14,Department,,Plateaux,Plateaux
+CG-15,Department,,West Cuvette,Cuvette-Ouest
+CG-16,Department,,Black Point,Pointe-Noire
+CG-BZV,Department,,Brazzaville,Brazzaville
+CH-AG,Canton,,Aargau,Aargau
+CH-AI,Canton,,Appenzell Innerrhoden,Appenzell Innerrhoden
+CH-AR,Canton,,Appenzell Ausserrhoden,Appenzell Ausserrhoden
+CH-BE,Canton,,Bern,Bern
+CH-BL,Canton,,Basel-Landschaft,Basel-Landschaft
+CH-BS,Canton,,Basel-Stadt,Basel-Stadt
+CH-FR,Canton,,Fribourg,Fribourg
+CH-GE,Canton,,Genève,Genève
+CH-GL,Canton,,Glarus,Glarus
+CH-GR,Canton,,Graubünden,Graubünden
+CH-JU,Canton,,Jura,Jura
+CH-LU,Canton,,Luzern,Luzern
+CH-NE,Canton,,Neuchâtel,Neuchâtel
+CH-NW,Canton,,Nidwalden,Nidwalden
+CH-OW,Canton,,Obwalden,Obwalden
+CH-SG,Canton,,Sankt Gallen,Sankt Gallen
+CH-SH,Canton,,Schaffhausen,Schaffhausen
+CH-SO,Canton,,Solothurn,Solothurn
+CH-SZ,Canton,,Schwyz,Schwyz
+CH-TG,Canton,,Thurgau,Thurgau
+CH-TI,Canton,,Ticino,Ticino
+CH-UR,Canton,,Uri,Uri
+CH-VD,Canton,,Vaud,Vaud
+CH-VS,Canton,,Valais,Valais
+CH-ZG,Canton,,Zug,Zug
+CH-ZH,Canton,,Zürich,Zürich
+CI-AB,Autonomous District,,Abidjan,Abidjan
+CI-BS,District,,Lower Sassandra,Bas-Sassandra
+CI-CM,District,,Comoé,Comoé
+CI-DN,District,,Denguélé,Denguélé
+CI-GD,District,,Gôh-Djiboua,Gôh-Djiboua
+CI-LC,District,,Lakes,Lacs
+CI-LG,District,,Lagoons,Lagunes
+CI-MG,District,,Mountains,Montagnes
+CI-SM,District,,Sassandra-Marahoué,Sassandra-Marahoué
+CI-SV,District,,Savannahs,Savanes
+CI-VB,District,,Bandama Valley,Vallée du Bandama
+CI-WR,District,,Woroba,Woroba
+CI-YM,Autonomous District,,Yamoussoukro,Yamoussoukro
+CI-ZZ,District,,Zanzan,Zanzan
+CL-AI,Region,,Aisen,Aisén del General Carlos Ibañez del Campo
+CL-AN,Region,,Antofagasta,Antofagasta
+CL-AP,Region,,Arica and Parinacota,Arica y Parinacota
+CL-AR,Region,,La Araucania,La Araucanía
+CL-AT,Region,,Atacama,Atacama
+CL-BI,Region,,Biobio,Biobío
+CL-CO,Region,,Coquimbo,Coquimbo
+CL-LI,Region,,O'Higgins,Libertador General Bernardo O'Higgins
+CL-LL,Region,,The Lakes,Los Lagos
+CL-LR,Region,,The Rivers,Los Ríos
+CL-MA,Region,,Magellan,Magallanes
+CL-ML,Region,,Maule,Maule
+CL-NB,Region,,Nuble,Ñuble
+CL-RM,Region,,Santiago Metropolitan Region,Región Metropolitana de Santiago
+CL-TA,Region,,Tarapaca,Tarapacá
+CL-VS,Region,,Valparaiso,Valparaíso
+CM-AD,Region,,Adamaoua,Adamaoua
+CM-CE,Region,,Centre,Centre
+CM-EN,Region,,Far North,Extrême-Nord
+CM-ES,Region,,East,Est
+CM-LT,Region,,Littoral,Littoral
+CM-NO,Region,,North,Nord
+CM-NW,Region,,North-West,Nord-Ouest
+CM-OU,Region,,West,Ouest
+CM-SU,Region,,South,Sud
+CM-SW,Region,,South-West,Sud-Ouest
+CN-AH,Province,,Anhui,安徽省
+CN-BJ,Municipality,,Beijing,北京市
+CN-CQ,Municipality,,Chongqing,重庆市
+CN-FJ,Province,,Fujian,福建省
+CN-GD,Province,,Guangdong,广东省
+CN-GS,Province,,Gansu,甘肃省
+CN-GX,Autonomous Region,,Guangxi,广西壮族自治区
+CN-GZ,Province,,Guizhou,贵州省
+CN-HA,Province,,Henan,河南省
+CN-HB,Province,,Hubei,湖北省
+CN-HE,Province,,Hebei,河北省
+CN-HI,Province,,Hainan,海南省
+CN-HK,Special Administrative Region,,Hong Kong,香港特别行政区
+CN-HL,Province,,Heilongjiang,黑龙江省
+CN-HN,Province,,Hunan,湖南省
+CN-JL,Province,,Jilin,吉林省
+CN-JS,Province,,Jiangsu,江苏省
+CN-JX,Province,,Jiangxi,江西省
+CN-LN,Province,,Liaoning,辽宁省
+CN-MO,Special Administrative Region,,Macao,澳门特别行政区
+CN-NM,Autonomous Region,,Inner Mongolia,内蒙古自治区
+CN-NX,Autonomous Region,,Ningxia,宁夏回族自治区
+CN-QH,Province,,Qinghai,青海省
+CN-SC,Province,,Sichuan,四川省
+CN-SD,Province,,Shandong,山东省
+CN-SH,Municipality,,Shanghai,上海市
+CN-SN,Province,,Shaanxi,陕西省
+CN-SX,Province,,Shanxi,山西省
+CN-TJ,Municipality,,Tianjin,天津市
+CN-TW,Province,,Taiwan,台湾省
+CN-XJ,Autonomous Region,,Xinjiang,新疆维吾尔自治区
+CN-XZ,Autonomous Region,,Tibet,西藏自治区
+CN-YN,Province,,Yunnan,云南省
+CN-ZJ,Province,,Zhejiang,浙江省
+"","","","",NULL
+"","","","",NULL
