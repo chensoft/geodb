@@ -393,7 +393,7 @@ BG-18,BG,District,,Ruse,Русе
 BG-19,BG,District,,Silistra,Силистра
 BG-20,BG,District,,Sliven,Сливен
 BG-21,BG,District,,Smolyan,Смолян
-BG-22,BG,District,,Sofia (stolitsa),София
+BG-22,BG,District,,Sofia,София
 BG-23,BG,District,,Sofia,Софийска област
 BG-24,BG,District,,Stara Zagora,Стара Загора
 BG-25,BG,District,,Targovishte,Търговище
@@ -603,7 +603,7 @@ CF-BGF,CF,Commune,,Bangui,Bangui
 CF-BK,CF,Prefecture,,Basse-Kotto,Basse-Kotto
 CF-HK,CF,Prefecture,,Haute-Kotto,Haute-Kotto
 CF-HM,CF,Prefecture,,Haut-Mbomou,Haut-Mbomou
-CF-HS,CF,Prefecture,,Haute-Sangha / Mambéré-Kadéï,Haute-Sangha / Mambéré-Kadéï
+CF-HS,CF,Prefecture,,Haute-Sangha,Haute-Sangha
 CF-KB,CF,Economic Prefecture,,Gribingui,Gribingui
 CF-KG,CF,Prefecture,,Kémo-Gribingui,Kémo-Gribingui
 CF-LB,CF,Prefecture,,Lobaye,Lobaye
@@ -949,7 +949,7 @@ DO-39,DO,Region,,Higuamo,Higuamo
 DO-40,DO,Region,,Ozama,Ozama
 DO-41,DO,Region,,Valdesia,Valdesia
 DO-42,DO,Region,,Yuma,Yuma
-DO-01,DO,District,DO-40,Santo Domingo City,Distrito Nacional (Santo Domingo)
+DO-01,DO,District,DO-40,Santo Domingo City,Distrito Nacional
 DO-02,DO,Province,DO-41,Azua,Azua
 DO-03,DO,Province,DO-38,Baoruco,Baoruco
 DO-04,DO,Province,DO-38,Barahona,Barahona
@@ -1395,7 +1395,7 @@ FR-63,FR,Metropolitan Department,FR-ARA,Dome Hill,Puy-de-Dôme
 FR-64,FR,Metropolitan Department,FR-NAQ,Atlantic Pyrenees,Pyrénées-Atlantiques
 FR-65,FR,Metropolitan Department,FR-OCC,Upper Pyrenees,Hautes-Pyrénées
 FR-66,FR,Metropolitan Department,FR-OCC,Oriental Pyrenees,Pyrénées-Orientales
-FR-69,FR,Metropolitan Department,FR-ARA,Rhone,Rhône [ 1 ]
+FR-69,FR,Metropolitan Department,FR-ARA,Rhone,Rhône
 FR-69M,FR,Metropolitan Collectivity with Special Status,FR-ARA,Lyon,Métropole de Lyon
 FR-70,FR,Metropolitan Department,FR-BFC,Upper Saone,Haute-Saône
 FR-71,FR,Metropolitan Department,FR-BFC,Saone and Loire,Saône-et-Loire
@@ -1425,7 +1425,7 @@ FR-94,FR,Metropolitan Department,FR-IDF,Marne Valley,Val-de-Marne
 FR-95,FR,Metropolitan Department,FR-IDF,Oise Valley,Val-d'Oise
 FR-971,FR,Overseas Departmental Collectivity,,Guadeloupe,Guadeloupe
 FR-972,FR,Overseas Unique Territorial Collectivity,,Martinique,Martinique
-FR-973,FR,Overseas Unique Territorial Collectivity,,French Guiana,Guyane (française)
+FR-973,FR,Overseas Unique Territorial Collectivity,,French Guiana,Guyane
 FR-974,FR,Overseas Departmental Collectivity,,Reunion,La Réunion
 FR-976,FR,Overseas Departmental Collectivity,,Mayotte,Mayotte
 FR-67,FR,Metropolitan Department,FR-6AE,Lower Rhine,Bas-Rhin
@@ -1436,7 +1436,7 @@ FR-MF,FR,Overseas Collectivity,,Saint Martin,Saint-Martin
 FR-NC,FR,Overseas collectivity with Special Status,,New Caledonia,Nouvelle-Calédonie
 FR-PF,FR,Overseas Collectivity,,French Polynesia,Polynésie française
 FR-PM,FR,Overseas Collectivity,,Saint Peter and Miquelon,Saint-Pierre-et-Miquelon
-FR-TF,FR,Overseas Territory,,French Southern Territories,Terres australes françaises [ 1 ]
+FR-TF,FR,Overseas Territory,,French Southern Territories,Terres australes françaises
 FR-WF,FR,Overseas Collectivity,,Wallis and Futuna,Wallis-et-Futuna
 GA-1,GA,Province,,Estuary,Estuaire
 GA-2,GA,Province,,Upper Ogooué,Haut-Ogooué
@@ -1768,7 +1768,7 @@ GQ-DJ,GQ,Province,GQ-C,Djibloho,Djibloho
 GQ-KN,GQ,Province,GQ-C,Kie-Ntem,Kié-Ntem
 GQ-LI,GQ,Province,GQ-C,Coast,Litoral
 GQ-WN,GQ,Province,GQ-C,Wele-Nzas,Wele-Nzas
-GR-69,GR,SELF-GOVERNED PART,,Mount Athos,Άγιο Όρος
+GR-69,GR,Self-Governed Part,,Mount Athos,Άγιο Όρος
 GR-A,GR,Administrative Region,,Eastern Macedonia and Thrace,Ανατολική Μακεδονία και Θράκη
 GR-B,GR,Administrative Region,,Central Macedonia,Κεντρική Μακεδονία
 GR-C,GR,Administrative Region,,Western Macedonia,Δυτική Μακεδονία
@@ -2093,70 +2093,70 @@ IS-5,IS,Region,,Northwestern Region,Norðurland vestra
 IS-6,IS,Region,,Northeastern Region,Norðurland eystra
 IS-7,IS,Region,,Eastern Region,Austurland
 IS-8,IS,Region,,Southern Region,Suðurland
-IS-AKN,IS,Municipality,IS-3,Akranes (Market) Town,Akraneskaupstaður
-IS-AKU,IS,Municipality,IS-6,Akureyri Town,Akureyrarbær
-IS-ARN,IS,Municipality,IS-4,Arnes District,Árneshreppur
-IS-ASA,IS,Municipality,IS-8,Asa District,Ásahreppur
-IS-BLA,IS,Municipality,IS-8,Blaskoga Settlement,Bláskógabyggð
-IS-BOG,IS,Municipality,IS-3,Borgar Settlement,Borgarbyggð
-IS-BOL,IS,Municipality,IS-4,Bolungarvik (Market) Town,Bolungarvíkurkaupstaður
-IS-DAB,IS,Municipality,IS-3,Dala Settlement,Dalabyggð
-IS-DAV,IS,Municipality,IS-6,Dalvik Settlement,Dalvíkurbyggð
-IS-EOM,IS,Municipality,IS-3,Eyja and Miklaholt District,Eyja- og Miklaholtshreppur
-IS-EYF,IS,Municipality,IS-6,Eyjafjordur Village,Eyjafjarðarsveit
-IS-FJD,IS,Municipality,IS-7,Fjarda Settlement,Fjarðabyggð
-IS-FJL,IS,Municipality,IS-6,Fjalla Settlement,Fjallabyggð
-IS-FLA,IS,Municipality,IS-8,Floa District,Flóahreppur
-IS-FLR,IS,Municipality,IS-7,Fljotsdalur District,Fljótsdalshreppur
-IS-GAR,IS,Municipality,IS-1,Garda Town,Garðabær
-IS-GOG,IS,Municipality,IS-8,Grimsnes and Grafnings District,Grímsnes- og Grafningshreppur
-IS-GRN,IS,Municipality,IS-2,Grindavik Town,Grindavíkurbær
-IS-GRU,IS,Municipality,IS-3,Grundarfjordur Town,Grundarfjarðarbær
-IS-GRY,IS,Municipality,IS-6,Grytubakka District,Grýtubakkahreppur
-IS-HAF,IS,Municipality,IS-1,Hafnarfjordur (Market) Town,Hafnarfjarðarkaupstaður
-IS-HRG,IS,Municipality,IS-6,Horgar Village,Hörgársveit
-IS-HRU,IS,Municipality,IS-8,Hrunamanna District,Hrunamannahreppur
-IS-HUG,IS,Municipality,IS-5,Huna Settlement,Húnabyggð
+IS-AKN,IS,Municipality,IS-3,Akranes,Akraneskaupstaður
+IS-AKU,IS,Municipality,IS-6,Akureyri,Akureyrarbær
+IS-ARN,IS,Municipality,IS-4,Arnes,Árneshreppur
+IS-ASA,IS,Municipality,IS-8,Asa,Ásahreppur
+IS-BLA,IS,Municipality,IS-8,Blaskoga,Bláskógabyggð
+IS-BOG,IS,Municipality,IS-3,Borgar,Borgarbyggð
+IS-BOL,IS,Municipality,IS-4,Bolungarvik,Bolungarvíkurkaupstaður
+IS-DAB,IS,Municipality,IS-3,Dala,Dalabyggð
+IS-DAV,IS,Municipality,IS-6,Dalvik,Dalvíkurbyggð
+IS-EOM,IS,Municipality,IS-3,Eyja and Miklaholt,Eyja- og Miklaholtshreppur
+IS-EYF,IS,Municipality,IS-6,Eyjafjordur,Eyjafjarðarsveit
+IS-FJD,IS,Municipality,IS-7,Fjarda,Fjarðabyggð
+IS-FJL,IS,Municipality,IS-6,Fjalla,Fjallabyggð
+IS-FLA,IS,Municipality,IS-8,Floa,Flóahreppur
+IS-FLR,IS,Municipality,IS-7,Fljotsdalur,Fljótsdalshreppur
+IS-GAR,IS,Municipality,IS-1,Garda,Garðabær
+IS-GOG,IS,Municipality,IS-8,Grimsnes and Grafnings,Grímsnes- og Grafningshreppur
+IS-GRN,IS,Municipality,IS-2,Grindavik,Grindavíkurbær
+IS-GRU,IS,Municipality,IS-3,Grundarfjordur,Grundarfjarðarbær
+IS-GRY,IS,Municipality,IS-6,Grytubakka,Grýtubakkahreppur
+IS-HAF,IS,Municipality,IS-1,Hafnarfjordur,Hafnarfjarðarkaupstaður
+IS-HRG,IS,Municipality,IS-6,Horgar,Hörgársveit
+IS-HRU,IS,Municipality,IS-8,Hrunamanna,Hrunamannahreppur
+IS-HUG,IS,Municipality,IS-5,Huna,Húnabyggð
 IS-HUV,IS,Municipality,IS-5,Western Hunathing,Húnaþing vestra
-IS-HVA,IS,Municipality,IS-3,Hvalfjordur Village,Hvalfjarðarsveit
-IS-HVE,IS,Municipality,IS-8,Hveragerdi Town,Hveragerðisbær
-IS-ISA,IS,Municipality,IS-4,Isafjordur Town,Ísafjarðarbær
-IS-KAL,IS,Municipality,IS-4,Kaldrananes District,Kaldrananeshreppur
-IS-KJO,IS,Municipality,IS-1,Kjosar District,Kjósarhreppur
-IS-KOP,IS,Municipality,IS-1,Kopavogur Town,Kópavogsbær
-IS-LAN,IS,Municipality,IS-6,Langanes Settlement,Langanesbyggð
-IS-MOS,IS,Municipality,IS-1,Mosfell Town,Mosfellsbær
+IS-HVA,IS,Municipality,IS-3,Hvalfjordur,Hvalfjarðarsveit
+IS-HVE,IS,Municipality,IS-8,Hveragerdi,Hveragerðisbær
+IS-ISA,IS,Municipality,IS-4,Isafjordur,Ísafjarðarbær
+IS-KAL,IS,Municipality,IS-4,Kaldrananes,Kaldrananeshreppur
+IS-KJO,IS,Municipality,IS-1,Kjosar,Kjósarhreppur
+IS-KOP,IS,Municipality,IS-1,Kopavogur,Kópavogsbær
+IS-LAN,IS,Municipality,IS-6,Langanes,Langanesbyggð
+IS-MOS,IS,Municipality,IS-1,Mosfell,Mosfellsbær
 IS-MUL,IS,Municipality,IS-7,Mulathing,Múlaþing
-IS-MYR,IS,Municipality,IS-8,Myrdalur District,Mýrdalshreppur
+IS-MYR,IS,Municipality,IS-8,Myrdalur,Mýrdalshreppur
 IS-NOR,IS,Municipality,IS-6,Nordurthing,Norðurþing
 IS-RGE,IS,Municipality,IS-8,Eastern Rangarthing,Rangárþing eystra
 IS-RGY,IS,Municipality,IS-8,Outer Rangarthing,Rangárþing ytra
-IS-RHH,IS,Municipality,IS-4,Reykhola District,Reykhólahreppur
-IS-RKN,IS,Municipality,IS-2,Reykjanes Town,Reykjanesbær
-IS-RKV,IS,Municipality,IS-1,Reykjavik City,Reykjavíkurborg
-IS-SBT,IS,Municipality,IS-6,Svalbardsstrond District,Svalbarðsstrandarhreppur
-IS-SDN,IS,Municipality,IS-2,Sudurnesja Town,Suðurnesjabær
-IS-SDV,IS,Municipality,IS-4,Sudavik District,Súðavíkurhreppur
-IS-SEL,IS,Municipality,IS-1,Seltjarnarnes Town,Seltjarnarnesbær
-IS-SFA,IS,Municipality,IS-8,Arborg Township,Sveitarfélagið Árborg
-IS-SHF,IS,Municipality,IS-7,Hornafjordur Township,Sveitarfélagið Hornafjörður
-IS-SKF,IS,Municipality,IS-8,Skaftar District,Skaftárhreppur
-IS-SKG,IS,Municipality,IS-5,Skaga Settlement,Skagabyggð
-IS-SKO,IS,Municipality,IS-3,Skorradalur District,Skorradalshreppur
+IS-RHH,IS,Municipality,IS-4,Reykhola,Reykhólahreppur
+IS-RKN,IS,Municipality,IS-2,Reykjanes,Reykjanesbær
+IS-RKV,IS,Municipality,IS-1,Reykjavik,Reykjavíkurborg
+IS-SBT,IS,Municipality,IS-6,Svalbardsstrond,Svalbarðsstrandarhreppur
+IS-SDN,IS,Municipality,IS-2,Sudurnesja,Suðurnesjabær
+IS-SDV,IS,Municipality,IS-4,Sudavik,Súðavíkurhreppur
+IS-SEL,IS,Municipality,IS-1,Seltjarnarnes,Seltjarnarnesbær
+IS-SFA,IS,Municipality,IS-8,Arborg,Sveitarfélagið Árborg
+IS-SHF,IS,Municipality,IS-7,Hornafjordur,Sveitarfélagið Hornafjörður
+IS-SKF,IS,Municipality,IS-8,Skaftar,Skaftárhreppur
+IS-SKG,IS,Municipality,IS-5,Skaga,Skagabyggð
+IS-SKO,IS,Municipality,IS-3,Skorradalur,Skorradalshreppur
 IS-SKR,IS,Municipality,IS-5,Skagafjordur,Skagafjörður
-IS-SNF,IS,Municipality,IS-3,Snaefell Town,Snæfellsbær
-IS-SOG,IS,Municipality,IS-8,Skeida and Gnupverja District,Skeiða- og Gnúpverjahreppur
-IS-SOL,IS,Municipality,IS-8,Olfus Township,Sveitarfélagið Ölfus
-IS-SSS,IS,Municipality,IS-5,Skagastrond Township,Sveitarfélagið Skagaströnd
-IS-STR,IS,Municipality,IS-4,Stranda Settlement,Strandabyggð
-IS-STY,IS,Municipality,IS-3,Stykkisholmur Town,Stykkishólmsbær
-IS-SVG,IS,Municipality,IS-2,Vogar Township,Sveitarfélagið Vogar
-IS-TAL,IS,Municipality,IS-4,Talknafjordur District,Tálknafjarðarhreppur
-IS-THG,IS,Municipality,IS-6,Thingeyjar Village,Þingeyjarsveit
-IS-TJO,IS,Municipality,IS-6,Tjornes District,Tjörneshreppur
-IS-VEM,IS,Municipality,IS-8,Vestmannaeyja Town,Vestmannaeyjabær
-IS-VER,IS,Municipality,IS-4,Western Settlement,Vesturbyggð
-IS-VOP,IS,Municipality,IS-7,Vopnafjordur District,Vopnafjarðarhreppur
+IS-SNF,IS,Municipality,IS-3,Snaefell,Snæfellsbær
+IS-SOG,IS,Municipality,IS-8,Skeida and Gnupverja,Skeiða- og Gnúpverjahreppur
+IS-SOL,IS,Municipality,IS-8,Olfus,Sveitarfélagið Ölfus
+IS-SSS,IS,Municipality,IS-5,Skagastrond,Sveitarfélagið Skagaströnd
+IS-STR,IS,Municipality,IS-4,Stranda,Strandabyggð
+IS-STY,IS,Municipality,IS-3,Stykkisholmur,Stykkishólmsbær
+IS-SVG,IS,Municipality,IS-2,Vogar,Sveitarfélagið Vogar
+IS-TAL,IS,Municipality,IS-4,Talknafjordur,Tálknafjarðarhreppur
+IS-THG,IS,Municipality,IS-6,Thingeyjar,Þingeyjarsveit
+IS-TJO,IS,Municipality,IS-6,Tjornes,Tjörneshreppur
+IS-VEM,IS,Municipality,IS-8,Vestmannaeyja,Vestmannaeyjabær
+IS-VER,IS,Municipality,IS-4,Western,Vesturbyggð
+IS-VOP,IS,Municipality,IS-7,Vopnafjordur,Vopnafjarðarhreppur
 IT-21,IT,Region,,Piedmont,Piemonte
 IT-23,IT,Autonomous Region,,Val d'Aoste,Valle d'Aosta
 IT-25,IT,Region,,Lombardy,Lombardia
@@ -2199,14 +2199,14 @@ IT-CA,IT,Metropolitan City,IT-88,Cagliari,Cagliari
 IT-CB,IT,Province,IT-67,Campobasso,Campobasso
 IT-CE,IT,Province,IT-72,Caserta,Caserta
 IT-CH,IT,Province,IT-65,Chieti,Chieti
-IT-CL,IT,FREE MUNICIPAL CONSORTIUM,IT-82,Caltanissetta,Caltanissetta
+IT-CL,IT,Free Municipal Consortium,IT-82,Caltanissetta,Caltanissetta
 IT-CN,IT,Province,IT-21,Cuneo,Cuneo
 IT-CO,IT,Province,IT-25,Como,Como
 IT-CR,IT,Province,IT-25,Cremona,Cremona
 IT-CS,IT,Province,IT-78,Cosenza,Cosenza
 IT-CT,IT,Metropolitan City,IT-82,Catania,Catania
 IT-CZ,IT,Province,IT-78,Catanzaro,Catanzaro
-IT-EN,IT,FREE MUNICIPAL CONSORTIUM,IT-82,Enna,Enna
+IT-EN,IT,Free Municipal Consortium,IT-82,Enna,Enna
 IT-FC,IT,Province,IT-45,Forlì-Cesena,Forlì-Cesena
 IT-FE,IT,Province,IT-45,Ferrara,Ferrara
 IT-FG,IT,Province,IT-75,Foggia,Foggia
@@ -2214,7 +2214,7 @@ IT-FI,IT,Metropolitan City,IT-52,Firenze,Firenze
 IT-FM,IT,Province,IT-57,Fermo,Fermo
 IT-FR,IT,Province,IT-62,Frosinone,Frosinone
 IT-GE,IT,Metropolitan City,IT-42,Genova,Genova
-IT-GO,IT,DECENTRALIZED Regional Entity,IT-36,Gorizia,Gorizia
+IT-GO,IT,Decentralized Regional Entity,IT-36,Gorizia,Gorizia
 IT-GR,IT,Province,IT-52,Grosseto,Grosseto
 IT-IM,IT,Province,IT-42,Imperia,Imperia
 IT-IS,IT,Province,IT-67,Isernia,Isernia
@@ -2243,7 +2243,7 @@ IT-PD,IT,Province,IT-34,Padova,Padova
 IT-PE,IT,Province,IT-65,Pescara,Pescara
 IT-PG,IT,Province,IT-55,Perugia,Perugia
 IT-PI,IT,Province,IT-52,Pisa,Pisa
-IT-PN,IT,DECENTRALIZED Regional Entity,IT-36,Pordenone,Pordenone
+IT-PN,IT,Decentralized Regional Entity,IT-36,Pordenone,Pordenone
 IT-PO,IT,Province,IT-52,Prato,Prato
 IT-PR,IT,Province,IT-45,Parma,Parma
 IT-PT,IT,Province,IT-52,Pistoia,Pistoia
@@ -2253,7 +2253,7 @@ IT-PZ,IT,Province,IT-77,Potenza,Potenza
 IT-RA,IT,Province,IT-45,Ravenna,Ravenna
 IT-RC,IT,Metropolitan City,IT-78,Reggio Calabria,Reggio Calabria
 IT-RE,IT,Province,IT-45,Reggio Emilia,Reggio Emilia
-IT-RG,IT,FREE MUNICIPAL CONSORTIUM,IT-82,Ragusa,Ragusa
+IT-RG,IT,Free Municipal Consortium,IT-82,Ragusa,Ragusa
 IT-RI,IT,Province,IT-62,Rieti,Rieti
 IT-RM,IT,Metropolitan City,IT-62,Roma,Roma
 IT-RN,IT,Province,IT-45,Rimini,Rimini
@@ -2262,7 +2262,7 @@ IT-SA,IT,Province,IT-72,Salerno,Salerno
 IT-SI,IT,Province,IT-52,Siena,Siena
 IT-SO,IT,Province,IT-25,Sondrio,Sondrio
 IT-SP,IT,Province,IT-42,La Spezia,La Spezia
-IT-SR,IT,FREE MUNICIPAL CONSORTIUM,IT-82,Siracusa,Siracusa
+IT-SR,IT,Free Municipal Consortium,IT-82,Siracusa,Siracusa
 IT-SS,IT,Province,IT-88,Sassari,Sassari
 IT-SU,IT,Province,IT-88,Sud Sardegna,Sud Sardegna
 IT-SV,IT,Province,IT-42,Savona,Savona
@@ -2270,11 +2270,11 @@ IT-TA,IT,Province,IT-75,Taranto,Taranto
 IT-TE,IT,Province,IT-65,Teramo,Teramo
 IT-TN,IT,Autonomous Province,IT-32,Trento,Trento
 IT-TO,IT,Metropolitan City,IT-21,Torino,Torino
-IT-TP,IT,FREE MUNICIPAL CONSORTIUM,IT-82,Trapani,Trapani
+IT-TP,IT,Free Municipal Consortium,IT-82,Trapani,Trapani
 IT-TR,IT,Province,IT-55,Terni,Terni
-IT-TS,IT,DECENTRALIZED Regional Entity,IT-36,Trieste,Trieste
+IT-TS,IT,Decentralized Regional Entity,IT-36,Trieste,Trieste
 IT-TV,IT,Province,IT-34,Treviso,Treviso
-IT-UD,IT,DECENTRALIZED Regional Entity,IT-36,Udine,Udine
+IT-UD,IT,Decentralized Regional Entity,IT-36,Udine,Udine
 IT-VA,IT,Province,IT-25,Varese,Varese
 IT-VB,IT,Province,IT-21,Verbano-Cusio-Ossola,Verbano-Cusio-Ossola
 IT-VC,IT,Province,IT-21,Vercelli,Vercelli
@@ -2472,23 +2472,23 @@ KP-10,KP,Province,,Ryanggang,량강도
 KP-13,KP,Special City,,Rason,라선시
 KP-14,KP,Metropolitan City,,Nampo,남포시
 KP-15,KP,Metropolitan City,,Kaesong,개성시
-KR-11,KR,Special CitySeoul,,Seoul,서울
-KR-26,KR,Metropolitan CityBusan,,Busan,부산시
-KR-27,KR,Metropolitan CityDaegu,,Daegu,대구
-KR-28,KR,Metropolitan CityIncheon,,Incheon,인천
-KR-29,KR,Metropolitan CityGwangju,,Gwangju,광주광역시
-KR-30,KR,Metropolitan CityDaejeon,,Daejeon,대전
-KR-31,KR,Metropolitan CityUlsan,,Ulsan,울산시
-KR-41,KR,ProvinceGyeonggi,,Gyeonggi,경기도
-KR-42,KR,Special SELF-GOVERNING ProvinceGangwon,,Gangwon,강원특별자치도
-KR-43,KR,ProvinceChungbuk,,North Chungcheong,충청북도
-KR-44,KR,ProvinceChungnam,,South Chungcheong,충청남도
-KR-45,KR,ProvinceJeonbuk,,North Jeolla,전북특별자치도
-KR-46,KR,ProvinceJeonnam,,South Jeolla,전라남도
-KR-47,KR,ProvinceGyeongbuk,,North Gyeongsang,경상북도
-KR-48,KR,ProvinceGyeongnam,,South Gyeongsang,경상남도
-KR-49,KR,Special SELF-GOVERNING ProvinceJeju,,Jeju,제주도
-KR-50,KR,Special SELF-GOVERNING City,,Sejong,세종
+KR-11,KR,Special City,,Seoul,서울
+KR-26,KR,Metropolitan City,,Busan,부산시
+KR-27,KR,Metropolitan City,,Daegu,대구
+KR-28,KR,Metropolitan City,,Incheon,인천
+KR-29,KR,Metropolitan City,,Gwangju,광주광역시
+KR-30,KR,Metropolitan City,,Daejeon,대전
+KR-31,KR,Metropolitan City,,Ulsan,울산시
+KR-41,KR,Province,,Gyeonggi,경기도
+KR-42,KR,Special Self Governing Province,,Gangwon,강원특별자치도
+KR-43,KR,Province,,North Chungcheong,충청북도
+KR-44,KR,Province,,South Chungcheong,충청남도
+KR-45,KR,Province,,North Jeolla,전북특별자치도
+KR-46,KR,Province,,South Jeolla,전라남도
+KR-47,KR,Province,,North Gyeongsang,경상북도
+KR-48,KR,Province,,South Gyeongsang,경상남도
+KR-49,KR,Special Self Governing Province,,Jeju,제주도
+KR-50,KR,Special Self Governing City,,Sejong,세종
 KW-AH,KW,Governorate,,Ahmadi,الأحمدي
 KW-FA,KW,Governorate,,Farwaniya,الفروانية
 KW-HA,KW,Governorate,,Hawalli,حولي
@@ -2890,7 +2890,7 @@ MD-DU,MD,District,,Dubăsari,Dubăsari
 MD-ED,MD,District,,Edineț,Edineț
 MD-FA,MD,District,,Fălești,Fălești
 MD-FL,MD,District,,Florești,Florești
-MD-GA,MD,Autonomous Territorial UNIT,,Găgăuzia,Găgăuzia
+MD-GA,MD,Autonomous Territorial Unit,,Găgăuzia,Găgăuzia
 MD-GL,MD,District,,Glodeni,Glodeni
 MD-HI,MD,District,,Hîncești,Hîncești
 MD-IA,MD,District,,Ialoveni,Ialoveni
@@ -2902,7 +2902,7 @@ MD-RE,MD,District,,Rezina,Rezina
 MD-RI,MD,District,,Rîșcani,Rîșcani
 MD-SD,MD,District,,Șoldănești,Șoldănești
 MD-SI,MD,District,,Sîngerei,Sîngerei
-MD-SN,MD,Territorial UNIT,,Stînga Nistrului,Stînga Nistrului
+MD-SN,MD,Territorial Unit,,Stînga Nistrului,Stînga Nistrului
 MD-SO,MD,District,,Soroca,Soroca
 MD-ST,MD,District,,Strășeni,Strășeni
 MD-SV,MD,District,,Ștefan Vodă,Ștefan Vodă
@@ -3189,26 +3189,26 @@ MU-PW,MU,District,,Plaines Wilhems,Plaines Wilhems
 MU-RO,MU,Dependency,,Rodrigues Island,Rodrigues Island
 MU-RR,MU,District,,Rivière du Rempart,Rivière du Rempart
 MU-SA,MU,District,,Savanne,Savanne
-MV-00,MV,Administrative ATOLL,,South Ari Atoll,އަރިއަތޮޅު ދެކުނުބުރި
+MV-00,MV,Administrative Atoll,,South Ari Atoll,އަރިއަތޮޅު ދެކުނުބުރި
 MV-01,MV,City,,Addu City,އައްޑޫ
-MV-02,MV,Administrative ATOLL,,North Ari Atoll,އަރިއަތޮޅު އުތުރުބުރި
-MV-03,MV,Administrative ATOLL,,Faadhippolhu,ފާދިއްޕޮޅު
-MV-04,MV,Administrative ATOLL,,Felidhu Atoll,ފެލިދެ އަތޮޅު
-MV-05,MV,Administrative ATOLL,,Hahdhunmathi,ހައްދުންމަތި
-MV-07,MV,Administrative ATOLL,,North Thiladhunmathi,ތިލަދުންމަތީ އުތުރުބުރި
-MV-08,MV,Administrative ATOLL,,Kolhumadulu,ކޮޅުމަޑުލު
-MV-12,MV,Administrative ATOLL,,Mulaku Atoll,މުލަކަތޮޅު
-MV-13,MV,Administrative ATOLL,,North Maalhosmadulu,މާޅޮސްމަޑުލު އުތުރުބުރި
-MV-14,MV,Administrative ATOLL,,North Nilandhe Atoll,ނިލަންދެއަތޮޅު އުތުރުބުރި
-MV-17,MV,Administrative ATOLL,,South Nilandhe Atoll,ނިލަންދެއަތޮޅު ދެކުނުބުރި
-MV-20,MV,Administrative ATOLL,,South Maalhosmadulu,މާޅޮސްމަޑުލު ދެކުނުބުރި
-MV-23,MV,Administrative ATOLL,,South Thiladhunmathi,ތިލަދުންމަތީ ދެކުނުބުރި
-MV-24,MV,Administrative ATOLL,,North Miladhunmadulu,ޝާވިޔަނި އަތޮޅުގައެވެ
-MV-25,MV,Administrative ATOLL,,South Miladhunmadulu,މިލަދުންމަޑުލު ދެކުނުބުރި
-MV-26,MV,Administrative ATOLL,,Male Atoll,މާލެ އަތޮޅު
-MV-27,MV,Administrative ATOLL,,North Huvadhu Atoll,ހުވަދުއަތޮޅު އުތުރުބުރި
-MV-28,MV,Administrative ATOLL,,South Huvadhu Atoll,ހުވަދުއަތޮޅު ދެކުނުބުރި
-MV-29,MV,Administrative ATOLL,,Fuvammulah,ފުވައްމުލައް
+MV-02,MV,Administrative Atoll,,North Ari Atoll,އަރިއަތޮޅު އުތުރުބުރި
+MV-03,MV,Administrative Atoll,,Faadhippolhu,ފާދިއްޕޮޅު
+MV-04,MV,Administrative Atoll,,Felidhu Atoll,ފެލިދެ އަތޮޅު
+MV-05,MV,Administrative Atoll,,Hahdhunmathi,ހައްދުންމަތި
+MV-07,MV,Administrative Atoll,,North Thiladhunmathi,ތިލަދުންމަތީ އުތުރުބުރި
+MV-08,MV,Administrative Atoll,,Kolhumadulu,ކޮޅުމަޑުލު
+MV-12,MV,Administrative Atoll,,Mulaku Atoll,މުލަކަތޮޅު
+MV-13,MV,Administrative Atoll,,North Maalhosmadulu,މާޅޮސްމަޑުލު އުތުރުބުރި
+MV-14,MV,Administrative Atoll,,North Nilandhe Atoll,ނިލަންދެއަތޮޅު އުތުރުބުރި
+MV-17,MV,Administrative Atoll,,South Nilandhe Atoll,ނިލަންދެއަތޮޅު ދެކުނުބުރި
+MV-20,MV,Administrative Atoll,,South Maalhosmadulu,މާޅޮސްމަޑުލު ދެކުނުބުރި
+MV-23,MV,Administrative Atoll,,South Thiladhunmathi,ތިލަދުންމަތީ ދެކުނުބުރި
+MV-24,MV,Administrative Atoll,,North Miladhunmadulu,ޝާވިޔަނި އަތޮޅުގައެވެ
+MV-25,MV,Administrative Atoll,,South Miladhunmadulu,މިލަދުންމަޑުލު ދެކުނުބުރި
+MV-26,MV,Administrative Atoll,,Male Atoll,މާލެ އަތޮޅު
+MV-27,MV,Administrative Atoll,,North Huvadhu Atoll,ހުވަދުއަތޮޅު އުތުރުބުރި
+MV-28,MV,Administrative Atoll,,South Huvadhu Atoll,ހުވަދުއަތޮޅު ދެކުނުބުރި
+MV-29,MV,Administrative Atoll,,Fuvammulah,ފުވައްމުލައް
 MV-MLE,MV,City,,Male,މާލެ
 MW-C,MW,Region,,Central Region,Chapakati
 MW-N,MW,Region,,Northern Region,Chakumpoto
@@ -3398,8 +3398,8 @@ NO-03,NO,County,,Oslo,Oslo
 NO-11,NO,County,,Rogaland,Rogaland
 NO-15,NO,County,,More and Romsdal,Møre og Romsdal
 NO-18,NO,County,,Northland,Nordland
-NO-21,NO,ARCTIC Region,,Svalbard,Svalbard
-NO-22,NO,ARCTIC Region,,Jan Mayen,Jan Mayen
+NO-21,NO,Arctic Region,,Svalbard,Svalbard
+NO-22,NO,Arctic Region,,Jan Mayen,Jan Mayen
 NO-30,NO,County,,Viken,Viken
 NO-34,NO,County,,Inland,Innlandet
 NO-38,NO,County,,Vestfold and Telemark,Vestfold og Telemark
@@ -3431,7 +3431,7 @@ NR-14,NR,District,,Yaren,Yaren
 NZ-AUK,NZ,Region,,Auckland,Auckland
 NZ-BOP,NZ,Region,,Bay of Plenty,Bay of Plenty
 NZ-CAN,NZ,Region,,Canterbury,Canterbury
-NZ-CIT,NZ,Special ISLand AUTHORITY,,Chatham Islands Territory,Chatham Islands Territory
+NZ-CIT,NZ,Special Island Authority,,Chatham Islands Territory,Chatham Islands Territory
 NZ-GIS,NZ,Region,,Gisborne,Gisborne
 NZ-HKB,NZ,Region,,Hawke's Bay,Hawke's Bay
 NZ-MBH,NZ,Region,,Marlborough,Marlborough
@@ -3531,7 +3531,7 @@ PH-10,PH,Region,,Northern Mindanao,Rehiyon ng Hilagang Mindanaw
 PH-11,PH,Region,,Davao,Rehiyon ng Dabaw
 PH-12,PH,Region,,Soccsksargen,Rehiyon ng Soccsksargen
 PH-13,PH,Region,,Caraga,Rehiyon ng Karaga
-PH-14,PH,Region,,Autonomous Region in Muslim Mindanao[b],Nagsasariling Rehiyon ng Muslim sa Mindanaw
+PH-14,PH,Region,,Autonomous Region in Muslim Mindanao,Nagsasariling Rehiyon ng Muslim sa Mindanaw
 PH-15,PH,Region,,Cordillera Administrative Region,Rehiyon ng Administratibo ng Kordilyera
 PH-40,PH,Region,,Calabarzon,Rehiyon ng Calabarzon
 PH-41,PH,Region,,Mimaropa,Rehiyon ng Mimaropa
@@ -4201,7 +4201,7 @@ SL-E,SL,Province,,Eastern,Eastern
 SL-N,SL,Province,,Northern,Northern
 SL-NW,SL,Province,,North Western,North Western
 SL-S,SL,Province,,Southern,Southern
-SL-W,SL,AREA,,Western Area,Western Area
+SL-W,SL,Area,,Western Area,Western Area
 SM-01,SM,Municipality,,Acquaviva,Acquaviva
 SM-02,SM,Municipality,,Chiesanuova,Chiesanuova
 SM-03,SM,Municipality,,Domagnano,Domagnano
@@ -4411,7 +4411,7 @@ TH-S,TH,Special Administrative City,,Phatthaya,พัทยา
 TJ-DU,TJ,Capital Territory,,Dushanbe,Душанбe
 TJ-GB,TJ,Autonomous Region,,Gorno-Badakhshan,Кӯҳистони Бадахшон
 TJ-KT,TJ,Region,,Khatlon,Хатлон
-TJ-RA,TJ,DistrictS UNDER Republic Administration,,districts under government jurisdiction,ноҳияҳои тобеи ҷумҳурӣ
+TJ-RA,TJ,Districts Under Republic Administration,,Districts under government jurisdiction,Ноҳияҳои тобеи ҷумҳурӣ
 TJ-SU,TJ,Region,,Sughd,Суғд
 TL-AL,TL,Municipality,,Aileu,Aileu
 TL-AN,TL,Municipality,,Ainaro,Ainaro
@@ -4555,16 +4555,16 @@ TT-SFO,TT,City,,San Fernando,San Fernando
 TT-SGE,TT,Region,,Sangre Grande,Sangre Grande
 TT-SIP,TT,Region,,Siparia,Siparia
 TT-SJL,TT,Region,,San Juan-Laventille,San Juan-Laventille
-TT-TOB,TT,WARD,,Tobago,Tobago
+TT-TOB,TT,Ward,,Tobago,Tobago
 TT-TUP,TT,Region,,Tunapuna-Piarco,Tunapuna-Piarco
 TV-FUN,TV,Town Council,,Funafuti,Funafuti
-TV-NIT,TV,ISLand Council,,Niutao,Niutao
-TV-NKF,TV,ISLand Council,,Nukufetau,Nukufetau
-TV-NKL,TV,ISLand Council,,Nukulaelae,Nukulaelae
-TV-NMA,TV,ISLand Council,,Nanumea,Nanumea
-TV-NMG,TV,ISLand Council,,Nanumaga,Nanumaga
-TV-NUI,TV,ISLand Council,,Nui,Nui
-TV-VAI,TV,ISLand Council,,Vaitupu,Vaitupu
+TV-NIT,TV,Island Council,,Niutao,Niutao
+TV-NKF,TV,Island Council,,Nukufetau,Nukufetau
+TV-NKL,TV,Island Council,,Nukulaelae,Nukulaelae
+TV-NMA,TV,Island Council,,Nanumea,Nanumea
+TV-NMG,TV,Island Council,,Nanumaga,Nanumaga
+TV-NUI,TV,Island Council,,Nui,Nui
+TV-VAI,TV,Island Council,,Vaitupu,Vaitupu
 TW-CHA,TW,County,,Changhua,彰化
 TW-CYI,TW,City,,Chiayi,嘉義
 TW-CYQ,TW,County,,Chiayi,嘉義
@@ -4983,9 +4983,9 @@ VU-SAM,VU,Province,,Sanma,Sanma
 VU-SEE,VU,Province,,Shéfa,Shéfa
 VU-TAE,VU,Province,,Taféa,Taféa
 VU-TOB,VU,Province,,Torba,Torba
-WF-AL,WF,Administrative PRECINCT,,Alo,Alo
-WF-SG,WF,Administrative PRECINCT,,Sigave,Sigave
-WF-UV,WF,Administrative PRECINCT,,Uvea,Uvea
+WF-AL,WF,Administrative Precinct,,Alo,Alo
+WF-SG,WF,Administrative Precinct,,Sigave,Sigave
+WF-UV,WF,Administrative Precinct,,Uvea,Uvea
 WS-AA,WS,District,,A'ana,A'ana
 WS-AL,WS,District,,Aiga-i-le-Tai,Aiga-i-le-Tai
 WS-AT,WS,District,,Atua,Atua
