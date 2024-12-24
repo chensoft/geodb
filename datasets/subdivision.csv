@@ -1272,649 +1272,652 @@ ET-SN,Regional State,,"Southern Nations, Nationalities and Peoples",የደቡብ
 ET-SO,Regional State,,Somali,ሱማሌ
 ET-SW,Regional State,,Southwest Ethiopia Peoples,የደቡብ ምዕራብ ኢትዮጵያ ሕዝቦች
 ET-TI,Regional State,,Tigrai,ትግራይ
-FI-01,Region,
-FI-02,Region,
-FI-03,Region,
-FI-04,Region,
-FI-05,Region,
-FI-06,Region,
-FI-07,Region,
-FI-08,Region,
-FI-09,Region,
-FI-10,Region,
-FI-11,Region,
-FI-12,Region,
-FI-13,Region,
-FI-14,Region,
-FI-15,Region,
-FI-16,Region,
-FI-17,Region,
-FI-18,Region,
-FI-19,Region,
-FJ-01,Province,FJ-W
-FJ-02,Province,FJ-N
-FJ-03,Province,FJ-N
-FJ-04,Province,FJ-E
-FJ-05,Province,FJ-E
-FJ-06,Province,FJ-E
-FJ-07,Province,FJ-N
-FJ-08,Province,FJ-W
-FJ-09,Province,FJ-C
-FJ-10,Province,FJ-C
-FJ-11,Province,FJ-W
-FJ-12,Province,FJ-C
-FJ-13,Province,FJ-C
-FJ-14,Province,FJ-C
-FJ-C,Division,
-FJ-E,Division,
-FJ-N,Division,
-FJ-R,Dependency,
-FJ-W,Division,
-FM-KSA,State,
-FM-PNI,State,
-FM-TRK,State,
-FM-YAP,State,
-FR-01,Metropolitan Department,FR-ARA
-FR-02,Metropolitan Department,FR-HDF
-FR-03,Metropolitan Department,FR-ARA
-FR-04,Metropolitan Department,FR-PAC
-FR-05,Metropolitan Department,FR-PAC
-FR-06,Metropolitan Department,FR-PAC
-FR-07,Metropolitan Department,FR-ARA
-FR-08,Metropolitan Department,FR-GES
-FR-09,Metropolitan Department,FR-OCC
-FR-10,Metropolitan Department,FR-GES
-FR-11,Metropolitan Department,FR-OCC
-FR-12,Metropolitan Department,FR-OCC
-FR-13,Metropolitan Department,FR-PAC
-FR-14,Metropolitan Department,FR-NOR
-FR-15,Metropolitan Department,FR-ARA
-FR-16,Metropolitan Department,FR-NAQ
-FR-17,Metropolitan Department,FR-NAQ
-FR-18,Metropolitan Department,FR-CVL
-FR-19,Metropolitan Department,FR-NAQ
-FR-20R,Metropolitan Collectivity With Special STATUS,
-FR-21,Metropolitan Department,FR-BFC
-FR-22,Metropolitan Department,FR-BRE
-FR-23,Metropolitan Department,FR-NAQ
-FR-24,Metropolitan Department,FR-NAQ
-FR-25,Metropolitan Department,FR-BFC
-FR-26,Metropolitan Department,FR-ARA
-FR-27,Metropolitan Department,FR-NOR
-FR-28,Metropolitan Department,FR-CVL
-FR-29,Metropolitan Department,FR-BRE
-FR-2A,Metropolitan Department,FR-20R
-FR-2B,Metropolitan Department,FR-20R
-FR-30,Metropolitan Department,FR-OCC
-FR-31,Metropolitan Department,FR-OCC
-FR-32,Metropolitan Department,FR-OCC
-FR-33,Metropolitan Department,FR-NAQ
-FR-34,Metropolitan Department,FR-OCC
-FR-35,Metropolitan Department,FR-BRE
-FR-36,Metropolitan Department,FR-CVL
-FR-37,Metropolitan Department,FR-CVL
-FR-38,Metropolitan Department,FR-ARA
-FR-39,Metropolitan Department,FR-BFC
-FR-40,Metropolitan Department,FR-NAQ
-FR-41,Metropolitan Department,FR-CVL
-FR-42,Metropolitan Department,FR-ARA
-FR-43,Metropolitan Department,FR-ARA
-FR-44,Metropolitan Department,FR-PDL
-FR-45,Metropolitan Department,FR-CVL
-FR-46,Metropolitan Department,FR-OCC
-FR-47,Metropolitan Department,FR-NAQ
-FR-48,Metropolitan Department,FR-OCC
-FR-49,Metropolitan Department,FR-PDL
-FR-50,Metropolitan Department,FR-NOR
-FR-51,Metropolitan Department,FR-GES
-FR-52,Metropolitan Department,FR-GES
-FR-53,Metropolitan Department,FR-PDL
-FR-54,Metropolitan Department,FR-GES
-FR-55,Metropolitan Department,FR-GES
-FR-56,Metropolitan Department,FR-BRE
-FR-57,Metropolitan Department,FR-GES
-FR-58,Metropolitan Department,FR-BFC
-FR-59,Metropolitan Department,FR-HDF
-FR-60,Metropolitan Department,FR-HDF
-FR-61,Metropolitan Department,FR-NOR
-FR-62,Metropolitan Department,FR-HDF
-FR-63,Metropolitan Department,FR-ARA
-FR-64,Metropolitan Department,FR-NAQ
-FR-65,Metropolitan Department,FR-OCC
-FR-66,Metropolitan Department,FR-OCC
-FR-67,Metropolitan Department,FR-6AE
-FR-68,Metropolitan Department,FR-6AE
-FR-69,Metropolitan Department,FR-ARA
-FR-69M,Metropolitan Collectivity With Special STATUS,FR-ARA
-FR-6AE,EUROPEAN Collectivity,FR-GES
-FR-70,Metropolitan Department,FR-BFC
-FR-71,Metropolitan Department,FR-BFC
-FR-72,Metropolitan Department,FR-PDL
-FR-73,Metropolitan Department,FR-ARA
-FR-74,Metropolitan Department,FR-ARA
-FR-75C,Metropolitan Collectivity With Special STATUS,FR-IDF
-FR-76,Metropolitan Department,FR-NOR
-FR-77,Metropolitan Department,FR-IDF
-FR-78,Metropolitan Department,FR-IDF
-FR-79,Metropolitan Department,FR-NAQ
-FR-80,Metropolitan Department,FR-HDF
-FR-81,Metropolitan Department,FR-OCC
-FR-82,Metropolitan Department,FR-OCC
-FR-83,Metropolitan Department,FR-PAC
-FR-84,Metropolitan Department,FR-PAC
-FR-85,Metropolitan Department,FR-PDL
-FR-86,Metropolitan Department,FR-NAQ
-FR-87,Metropolitan Department,FR-NAQ
-FR-88,Metropolitan Department,FR-GES
-FR-89,Metropolitan Department,FR-BFC
-FR-90,Metropolitan Department,FR-BFC
-FR-91,Metropolitan Department,FR-IDF
-FR-92,Metropolitan Department,FR-IDF
-FR-93,Metropolitan Department,FR-IDF
-FR-94,Metropolitan Department,FR-IDF
-FR-95,Metropolitan Department,FR-IDF
-FR-971,OVERSEAS DEPARTMENTAL Collectivity,
-FR-972,OVERSEAS UNIQUE TERRITORIAL Collectivity,
-FR-973,OVERSEAS UNIQUE TERRITORIAL Collectivity,
-FR-974,OVERSEAS DEPARTMENTAL Collectivity,
-FR-976,OVERSEAS DEPARTMENTAL Collectivity,
-FR-ARA,Metropolitan Region,
-FR-BFC,Metropolitan Region,
-FR-BL,OVERSEAS Collectivity,
-FR-BRE,Metropolitan Region,
-FR-CP,Dependency,
-FR-CVL,Metropolitan Region,
-FR-GES,Metropolitan Region,
-FR-HDF,Metropolitan Region,
-FR-IDF,Metropolitan Region,
-FR-MF,OVERSEAS Collectivity,
-FR-NAQ,Metropolitan Region,
-FR-NC,OVERSEAS Collectivity With Special STATUS,
-FR-NOR,Metropolitan Region,
-FR-OCC,Metropolitan Region,
-FR-PAC,Metropolitan Region,
-FR-PDL,Metropolitan Region,
-FR-PF,OVERSEAS Collectivity,
-FR-PM,OVERSEAS Collectivity,
-FR-TF,OVERSEAS Territory,
-FR-WF,OVERSEAS Collectivity,
-GA-1,Province,
-GA-2,Province,
-GA-3,Province,
-GA-4,Province,
-GA-5,Province,
-GA-6,Province,
-GA-7,Province,
-GA-8,Province,
-GA-9,Province,
-GB-ABC,District,GB-NIR
-GB-ABD,COUNCIL AREA,GB-SCT
-GB-ABE,COUNCIL AREA,GB-SCT
-GB-AGB,COUNCIL AREA,GB-SCT
-GB-AGY,UNITARY AUTHORITY,GB-WLS
-GB-AND,District,GB-NIR
-GB-ANN,District,GB-NIR
-GB-ANS,COUNCIL AREA,GB-SCT
-GB-BAS,UNITARY AUTHORITY,GB-ENG
-GB-BBD,UNITARY AUTHORITY,GB-ENG
-GB-BCP,UNITARY AUTHORITY,GB-ENG
-GB-BDF,UNITARY AUTHORITY,GB-ENG
-GB-BDG,LONDON BOROUGH,GB-ENG
-GB-BEN,LONDON BOROUGH,GB-ENG
-GB-BEX,LONDON BOROUGH,GB-ENG
-GB-BFS,District,GB-NIR
-GB-BGE,UNITARY AUTHORITY,GB-WLS
-GB-BGW,UNITARY AUTHORITY,GB-WLS
-GB-BIR,Metropolitan District,GB-ENG
-GB-BKM,UNITARY AUTHORITY,GB-ENG
-GB-BNE,LONDON BOROUGH,GB-ENG
-GB-BNH,UNITARY AUTHORITY,GB-ENG
-GB-BNS,Metropolitan District,GB-ENG
-GB-BOL,Metropolitan District,GB-ENG
-GB-BPL,UNITARY AUTHORITY,GB-ENG
-GB-BRC,UNITARY AUTHORITY,GB-ENG
-GB-BRD,Metropolitan District,GB-ENG
-GB-BRY,LONDON BOROUGH,GB-ENG
-GB-BST,UNITARY AUTHORITY,GB-ENG
-GB-BUR,Metropolitan District,GB-ENG
-GB-CAM,TWO-TIER County,GB-ENG
-GB-CAY,UNITARY AUTHORITY,GB-WLS
-GB-CBF,UNITARY AUTHORITY,GB-ENG
-GB-CCG,District,GB-NIR
-GB-CGN,UNITARY AUTHORITY,GB-WLS
-GB-CHE,UNITARY AUTHORITY,GB-ENG
-GB-CHW,UNITARY AUTHORITY,GB-ENG
-GB-CLD,Metropolitan District,GB-ENG
-GB-CLK,COUNCIL AREA,GB-SCT
-GB-CMA,TWO-TIER County,GB-ENG
-GB-CMD,LONDON BOROUGH,GB-ENG
-GB-CMN,UNITARY AUTHORITY,GB-WLS
-GB-CON,UNITARY AUTHORITY,GB-ENG
-GB-COV,Metropolitan District,GB-ENG
-GB-CRF,UNITARY AUTHORITY,GB-WLS
-GB-CRY,LONDON BOROUGH,GB-ENG
-GB-CWY,UNITARY AUTHORITY,GB-WLS
-GB-DAL,UNITARY AUTHORITY,GB-ENG
-GB-DBY,TWO-TIER County,GB-ENG
-GB-DEN,UNITARY AUTHORITY,GB-WLS
-GB-DER,UNITARY AUTHORITY,GB-ENG
-GB-DEV,TWO-TIER County,GB-ENG
-GB-DGY,COUNCIL AREA,GB-SCT
-GB-DNC,Metropolitan District,GB-ENG
-GB-DND,COUNCIL AREA,GB-SCT
-GB-DOR,TWO-TIER County,GB-ENG
-GB-DRS,District,GB-NIR
-GB-DUD,Metropolitan District,GB-ENG
-GB-DUR,UNITARY AUTHORITY,GB-ENG
-GB-EAL,LONDON BOROUGH,GB-ENG
-GB-EAY,COUNCIL AREA,GB-SCT
-GB-EDH,COUNCIL AREA,GB-SCT
-GB-EDU,COUNCIL AREA,GB-SCT
-GB-ELN,COUNCIL AREA,GB-SCT
-GB-ELS,COUNCIL AREA,GB-SCT
-GB-ENF,LONDON BOROUGH,GB-ENG
-GB-ENG,COUNTRY,
-GB-ERW,COUNCIL AREA,GB-SCT
-GB-ERY,UNITARY AUTHORITY,GB-ENG
-GB-ESS,TWO-TIER County,GB-ENG
-GB-ESX,TWO-TIER County,GB-ENG
-GB-FAL,COUNCIL AREA,GB-SCT
-GB-FIF,COUNCIL AREA,GB-SCT
-GB-FLN,UNITARY AUTHORITY,GB-WLS
-GB-FMO,District,GB-NIR
-GB-GAT,Metropolitan District,GB-ENG
-GB-GLG,COUNCIL AREA,GB-SCT
-GB-GLS,TWO-TIER County,GB-ENG
-GB-GRE,LONDON BOROUGH,GB-ENG
-GB-GWN,UNITARY AUTHORITY,GB-WLS
-GB-HAL,UNITARY AUTHORITY,GB-ENG
-GB-HAM,TWO-TIER County,GB-ENG
-GB-HAV,LONDON BOROUGH,GB-ENG
-GB-HCK,LONDON BOROUGH,GB-ENG
-GB-HEF,UNITARY AUTHORITY,GB-ENG
-GB-HIL,LONDON BOROUGH,GB-ENG
-GB-HLD,COUNCIL AREA,GB-SCT
-GB-HMF,LONDON BOROUGH,GB-ENG
-GB-HNS,LONDON BOROUGH,GB-ENG
-GB-HPL,UNITARY AUTHORITY,GB-ENG
-GB-HRT,TWO-TIER County,GB-ENG
-GB-HRW,LONDON BOROUGH,GB-ENG
-GB-HRY,LONDON BOROUGH,GB-ENG
-GB-IOS,UNITARY AUTHORITY,GB-ENG
-GB-IOW,UNITARY AUTHORITY,GB-ENG
-GB-ISL,LONDON BOROUGH,GB-ENG
-GB-IVC,COUNCIL AREA,GB-SCT
-GB-KEC,LONDON BOROUGH,GB-ENG
-GB-KEN,TWO-TIER County,GB-ENG
-GB-KHL,UNITARY AUTHORITY,GB-ENG
-GB-KIR,Metropolitan District,GB-ENG
-GB-KTT,LONDON BOROUGH,GB-ENG
-GB-KWL,Metropolitan District,GB-ENG
-GB-LAN,TWO-TIER County,GB-ENG
-GB-LBC,District,GB-NIR
-GB-LBH,LONDON BOROUGH,GB-ENG
-GB-LCE,UNITARY AUTHORITY,GB-ENG
-GB-LDS,Metropolitan District,GB-ENG
-GB-LEC,TWO-TIER County,GB-ENG
-GB-LEW,LONDON BOROUGH,GB-ENG
-GB-LIN,TWO-TIER County,GB-ENG
-GB-LIV,Metropolitan District,GB-ENG
-GB-LND,City CORPORATION,GB-ENG
-GB-LUT,UNITARY AUTHORITY,GB-ENG
-GB-MAN,Metropolitan District,GB-ENG
-GB-MDB,UNITARY AUTHORITY,GB-ENG
-GB-MDW,UNITARY AUTHORITY,GB-ENG
-GB-MEA,District,GB-NIR
-GB-MIK,UNITARY AUTHORITY,GB-ENG
-GB-MLN,COUNCIL AREA,GB-SCT
-GB-MON,UNITARY AUTHORITY,GB-WLS
-GB-MRT,LONDON BOROUGH,GB-ENG
-GB-MRY,COUNCIL AREA,GB-SCT
-GB-MTY,UNITARY AUTHORITY,GB-WLS
-GB-MUL,District,GB-NIR
-GB-NAY,COUNCIL AREA,GB-SCT
-GB-NBL,UNITARY AUTHORITY,GB-ENG
-GB-NEL,UNITARY AUTHORITY,GB-ENG
-GB-NET,Metropolitan District,GB-ENG
-GB-NFK,TWO-TIER County,GB-ENG
-GB-NGM,UNITARY AUTHORITY,GB-ENG
-GB-NIR,Province,
-GB-NLK,COUNCIL AREA,GB-SCT
-GB-NLN,UNITARY AUTHORITY,GB-ENG
-GB-NMD,District,GB-NIR
-GB-NNH,UNITARY AUTHORITY,GB-ENG
-GB-NSM,UNITARY AUTHORITY,GB-ENG
-GB-NTL,UNITARY AUTHORITY,GB-WLS
-GB-NTT,TWO-TIER County,GB-ENG
-GB-NTY,Metropolitan District,GB-ENG
-GB-NWM,LONDON BOROUGH,GB-ENG
-GB-NWP,UNITARY AUTHORITY,GB-WLS
-GB-NYK,TWO-TIER County,GB-ENG
-GB-OLD,Metropolitan District,GB-ENG
-GB-ORK,COUNCIL AREA,GB-SCT
-GB-OXF,TWO-TIER County,GB-ENG
-GB-PEM,UNITARY AUTHORITY,GB-WLS
-GB-PKN,COUNCIL AREA,GB-SCT
-GB-PLY,UNITARY AUTHORITY,GB-ENG
-GB-POR,UNITARY AUTHORITY,GB-ENG
-GB-POW,UNITARY AUTHORITY,GB-WLS
-GB-PTE,UNITARY AUTHORITY,GB-ENG
-GB-RCC,UNITARY AUTHORITY,GB-ENG
-GB-RCH,Metropolitan District,GB-ENG
-GB-RCT,UNITARY AUTHORITY,GB-WLS
-GB-RDB,LONDON BOROUGH,GB-ENG
-GB-RDG,UNITARY AUTHORITY,GB-ENG
-GB-RFW,COUNCIL AREA,GB-SCT
-GB-RIC,LONDON BOROUGH,GB-ENG
-GB-ROT,Metropolitan District,GB-ENG
-GB-RUT,UNITARY AUTHORITY,GB-ENG
-GB-SAW,Metropolitan District,GB-ENG
-GB-SAY,COUNCIL AREA,GB-SCT
-GB-SCB,COUNCIL AREA,GB-SCT
-GB-SCT,COUNTRY,
-GB-SFK,TWO-TIER County,GB-ENG
-GB-SFT,Metropolitan District,GB-ENG
-GB-SGC,UNITARY AUTHORITY,GB-ENG
-GB-SHF,Metropolitan District,GB-ENG
-GB-SHN,Metropolitan District,GB-ENG
-GB-SHR,UNITARY AUTHORITY,GB-ENG
-GB-SKP,Metropolitan District,GB-ENG
-GB-SLF,Metropolitan District,GB-ENG
-GB-SLG,UNITARY AUTHORITY,GB-ENG
-GB-SLK,COUNCIL AREA,GB-SCT
-GB-SND,Metropolitan District,GB-ENG
-GB-SOL,Metropolitan District,GB-ENG
-GB-SOM,TWO-TIER County,GB-ENG
-GB-SOS,UNITARY AUTHORITY,GB-ENG
-GB-SRY,TWO-TIER County,GB-ENG
-GB-STE,UNITARY AUTHORITY,GB-ENG
-GB-STG,COUNCIL AREA,GB-SCT
-GB-STH,UNITARY AUTHORITY,GB-ENG
-GB-STN,LONDON BOROUGH,GB-ENG
-GB-STS,TWO-TIER County,GB-ENG
-GB-STT,UNITARY AUTHORITY,GB-ENG
-GB-STY,Metropolitan District,GB-ENG
-GB-SWA,UNITARY AUTHORITY,GB-WLS
-GB-SWD,UNITARY AUTHORITY,GB-ENG
-GB-SWK,LONDON BOROUGH,GB-ENG
-GB-TAM,Metropolitan District,GB-ENG
-GB-TFW,UNITARY AUTHORITY,GB-ENG
-GB-THR,UNITARY AUTHORITY,GB-ENG
-GB-TOB,UNITARY AUTHORITY,GB-ENG
-GB-TOF,UNITARY AUTHORITY,GB-WLS
-GB-TRF,Metropolitan District,GB-ENG
-GB-TWH,LONDON BOROUGH,GB-ENG
-GB-VGL,UNITARY AUTHORITY,GB-WLS
-GB-WAR,TWO-TIER County,GB-ENG
-GB-WBK,UNITARY AUTHORITY,GB-ENG
-GB-WDU,COUNCIL AREA,GB-SCT
-GB-WFT,LONDON BOROUGH,GB-ENG
-GB-WGN,Metropolitan District,GB-ENG
-GB-WIL,UNITARY AUTHORITY,GB-ENG
-GB-WKF,Metropolitan District,GB-ENG
-GB-WLL,Metropolitan District,GB-ENG
-GB-WLN,COUNCIL AREA,GB-SCT
-GB-WLS,COUNTRY,
-GB-WLV,Metropolitan District,GB-ENG
-GB-WND,LONDON BOROUGH,GB-ENG
-GB-WNH,UNITARY AUTHORITY,GB-ENG
-GB-WNM,UNITARY AUTHORITY,GB-ENG
-GB-WOK,UNITARY AUTHORITY,GB-ENG
-GB-WOR,TWO-TIER County,GB-ENG
-GB-WRL,Metropolitan District,GB-ENG
-GB-WRT,UNITARY AUTHORITY,GB-ENG
-GB-WRX,UNITARY AUTHORITY,GB-WLS
-GB-WSM,LONDON BOROUGH,GB-ENG
-GB-WSX,TWO-TIER County,GB-ENG
-GB-YOR,UNITARY AUTHORITY,GB-ENG
-GB-ZET,COUNCIL AREA,GB-SCT
-GD-01,Parish,
-GD-02,Parish,
-GD-03,Parish,
-GD-04,Parish,
-GD-05,Parish,
-GD-06,Parish,
-GD-10,Dependency,
-GE-AB,Autonomous Republic,
-GE-AJ,Autonomous Republic,
-GE-GU,Region,
-GE-IM,Region,
-GE-KA,Region,
-GE-KK,Region,
-GE-MM,Region,
-GE-RL,Region,
-GE-SJ,Region,
-GE-SK,Region,
-GE-SZ,Region,
-GE-TB,City,
-GH-AA,Region,
-GH-AF,Region,
-GH-AH,Region,
-GH-BE,Region,
-GH-BO,Region,
-GH-CP,Region,
-GH-EP,Region,
-GH-NE,Region,
-GH-NP,Region,
-GH-OT,Region,
-GH-SV,Region,
-GH-TV,Region,
-GH-UE,Region,
-GH-UW,Region,
-GH-WN,Region,
-GH-WP,Region,
-GL-AV,Municipality,
-GL-KU,Municipality,
-GL-QE,Municipality,
-GL-QT,Municipality,
-GL-SM,Municipality,
-GM-B,City,
-GM-L,Division,
-GM-M,Division,
-GM-N,Division,
-GM-U,Division,
-GM-W,Division,
-GN-B,Administrative Region,
-GN-BE,Prefecture,GN-N
-GN-BF,Prefecture,GN-B
-GN-BK,Prefecture,GN-B
-GN-C,Governorate,
-GN-CO,Prefecture,GN-D
-GN-D,Administrative Region,
-GN-DB,Prefecture,GN-F
-GN-DI,Prefecture,GN-F
-GN-DL,Prefecture,GN-M
-GN-DU,Prefecture,GN-D
-GN-F,Administrative Region,
-GN-FA,Prefecture,GN-F
-GN-FO,Prefecture,GN-D
-GN-FR,Prefecture,GN-B
-GN-GA,Prefecture,GN-B
-GN-GU,Prefecture,GN-N
-GN-K,Administrative Region,
-GN-KA,Prefecture,GN-K
-GN-KB,Prefecture,GN-L
-GN-KD,Prefecture,GN-D
-GN-KE,Prefecture,GN-K
-GN-KN,Prefecture,GN-B
-GN-KO,Prefecture,GN-K
-GN-KS,Prefecture,GN-F
-GN-L,Administrative Region,
-GN-LA,Prefecture,GN-L
-GN-LE,Prefecture,GN-L
-GN-LO,Prefecture,GN-N
-GN-M,Administrative Region,
-GN-MC,Prefecture,GN-N
-GN-MD,Prefecture,GN-K
-GN-ML,Prefecture,GN-L
-GN-MM,Prefecture,GN-M
-GN-N,Administrative Region,
-GN-NZ,Prefecture,GN-N
-GN-PI,Prefecture,GN-M
-GN-SI,Prefecture,GN-K
-GN-TE,Prefecture,GN-D
-GN-TO,Prefecture,GN-L
-GN-YO,Prefecture,GN-N
-GQ-AN,Province,GQ-I
-GQ-BN,Province,GQ-I
-GQ-BS,Province,GQ-I
-GQ-C,Region,
-GQ-CS,Province,GQ-C
-GQ-DJ,Province,GQ-C
-GQ-I,Region,
-GQ-KN,Province,GQ-C
-GQ-LI,Province,GQ-C
-GQ-WN,Province,GQ-C
-GR-69,SELF-GOVERNED PART,
-GR-A,Administrative Region,
-GR-B,Administrative Region,
-GR-C,Administrative Region,
-GR-D,Administrative Region,
-GR-E,Administrative Region,
-GR-F,Administrative Region,
-GR-G,Administrative Region,
-GR-H,Administrative Region,
-GR-I,Administrative Region,
-GR-J,Administrative Region,
-GR-K,Administrative Region,
-GR-L,Administrative Region,
-GR-M,Administrative Region,
-GT-01,Department,
-GT-02,Department,
-GT-03,Department,
-GT-04,Department,
-GT-05,Department,
-GT-06,Department,
-GT-07,Department,
-GT-08,Department,
-GT-09,Department,
-GT-10,Department,
-GT-11,Department,
-GT-12,Department,
-GT-13,Department,
-GT-14,Department,
-GT-15,Department,
-GT-16,Department,
-GT-17,Department,
-GT-18,Department,
-GT-19,Department,
-GT-20,Department,
-GT-21,Department,
-GT-22,Department,
-GW-BA,Region,GW-L
-GW-BL,Region,GW-S
-GW-BM,Region,GW-N
-GW-BS,Autonomous SECTOR,
-GW-CA,Region,GW-N
-GW-GA,Region,GW-L
-GW-L,Province,
-GW-N,Province,
-GW-OI,Region,GW-N
-GW-QU,Region,GW-S
-GW-S,Province,
-GW-TO,Region,GW-S
-GY-BA,Region,
-GY-CU,Region,
-GY-DE,Region,
-GY-EB,Region,
-GY-ES,Region,
-GY-MA,Region,
-GY-PM,Region,
-GY-PT,Region,
-GY-UD,Region,
-GY-UT,Region,
-HN-AT,Department,
-HN-CH,Department,
-HN-CL,Department,
-HN-CM,Department,
-HN-CP,Department,
-HN-CR,Department,
-HN-EP,Department,
-HN-FM,Department,
-HN-GD,Department,
-HN-IB,Department,
-HN-IN,Department,
-HN-LE,Department,
-HN-LP,Department,
-HN-OC,Department,
-HN-OL,Department,
-HN-SB,Department,
-HN-VA,Department,
-HN-YO,Department,
-HR-01,County,
-HR-02,County,
-HR-03,County,
-HR-04,County,
-HR-05,County,
-HR-06,County,
-HR-07,County,
-HR-08,County,
-HR-09,County,
-HR-10,County,
-HR-11,County,
-HR-12,County,
-HR-13,County,
-HR-14,County,
-HR-15,County,
-HR-16,County,
-HR-17,County,
-HR-18,County,
-HR-19,County,
-HR-20,County,
-HR-21,City,
-HT-AR,Department,
-HT-CE,Department,
-HT-GA,Department,
-HT-ND,Department,
-HT-NE,Department,
-HT-NI,Department,
-HT-NO,Department,
-HT-OU,Department,
-HT-SD,Department,
-HT-SE,Department,
-HU-BA,County,
-HU-BC,City With County Rights,
-HU-BE,County,
-HU-BK,County,
-HU-BU,Capital City,
-HU-BZ,County,
-HU-CS,County,
-HU-DE,City With County Rights,
-HU-DU,City With County Rights,
-HU-EG,City With County Rights,
-HU-ER,City With County Rights,
-HU-FE,County,
-HU-GS,County,
-HU-GY,City With County Rights,
-HU-HB,County,
-HU-HE,County,
-HU-HV,City With County Rights,
-HU-JN,County,
-HU-KE,County,
-HU-KM,City With County Rights,
-HU-KV,City With County Rights,
-HU-MI,City With County Rights,
-HU-NK,City With County Rights,
-HU-NO,County,
-HU-NY,City With County Rights,
-HU-PE,County,
-HU-PS,City With County Rights,
-HU-SD,City With County Rights,
-HU-SF,City With County Rights,
-HU-SH,City With County Rights,
-HU-SK,City With County Rights,
-HU-SN,City With County Rights,
-HU-SO,County,
-HU-SS,City With County Rights,
-HU-ST,City With County Rights,
-HU-SZ,County,
-HU-TB,City With County Rights,
-HU-TO,County,
-HU-VA,County,
-HU-VE,County,
-HU-VM,City With County Rights,
-HU-ZA,County,
-HU-ZE,City With County Rights,
+FI-01,Region,,Åland,Ahvenanmaan maakunta
+FI-02,Region,,South Karelia,Etelä-Karjala
+FI-03,Region,,Southern Ostrobothnia,Etelä-Pohjanmaa
+FI-04,Region,,Southern Savonia,Etelä-Savo
+FI-05,Region,,Kainuu,Kainuu
+FI-06,Region,,Tavastia Proper,Kanta-Häme
+FI-07,Region,,Central Ostrobothnia,Keski-Pohjanmaa
+FI-08,Region,,Central Finland,Keski-Suomi
+FI-09,Region,,Kymenlaakso,Kymenlaakso
+FI-10,Region,,Lapland,Lappi
+FI-11,Region,,Pirkanmaa,Pirkanmaa
+FI-12,Region,,Ostrobothnia,Pohjanmaa
+FI-13,Region,,North Karelia,Pohjois-Karjala
+FI-14,Region,,Northern Ostrobothnia,Pohjois-Pohjanmaa
+FI-15,Region,,Northern Savonia,Pohjois-Savo
+FI-16,Region,,Päijänne Tavastia,Päijät-Häme
+FI-17,Region,,Satakunta,Satakunta
+FI-18,Region,,Uusimaa,Uusimaa
+FI-19,Region,,Southwest Finland,Varsinais-Suomi
+FJ-C,Division,,Central,Central
+FJ-E,Division,,Eastern,Eastern
+FJ-N,Division,,Northern,Northern
+FJ-R,Dependency,,Rotuma,Rotuma
+FJ-W,Division,,Western,Western
+FJ-01,Province,FJ-W,Ba,Ba
+FJ-02,Province,FJ-N,Bua,Bua
+FJ-03,Province,FJ-N,Cakaudrove,Cakaudrove
+FJ-04,Province,FJ-E,Kadavu,Kadavu
+FJ-05,Province,FJ-E,Lau,Lau
+FJ-06,Province,FJ-E,Lomaiviti,Lomaiviti
+FJ-07,Province,FJ-N,Macuata,Macuata
+FJ-08,Province,FJ-W,Nadroga and Navosa,Nadroga and Navosa
+FJ-09,Province,FJ-C,Naitasiri,Naitasiri
+FJ-10,Province,FJ-C,Namosi,Namosi
+FJ-11,Province,FJ-W,Ra,Ra
+FJ-12,Province,FJ-C,Rewa,Rewa
+FJ-13,Province,FJ-C,Serua,Serua
+FJ-14,Province,FJ-C,Tailevu,Tailevu
+FM-KSA,State,,Kosrae,Kosrae
+FM-PNI,State,,Pohnpei,Pohnpei
+FM-TRK,State,,Chuuk,Chuuk
+FM-YAP,State,,Yap,Yap
+FR-20R,Metropolitan Collectivity With Special Status,,Corsica,Corse
+FR-ARA,Metropolitan Region,,Auvergne-Rhone-Alps,Auvergne-Rhône-Alpes
+FR-BFC,Metropolitan Region,,Burgundy-Free County,Bourgogne-Franche-Comté
+FR-BRE,Metropolitan Region,,Brittany,Bretagne
+FR-CVL,Metropolitan Region,,Center-Loire Valley,Centre-Val de Loire
+FR-GES,Metropolitan Region,,Great East,Grand Est
+FR-HDF,Metropolitan Region,,Upper France,Hauts-de-France
+FR-IDF,Metropolitan Region,,Paris,Île-de-France
+FR-NAQ,Metropolitan Region,,New Aquitania,Nouvelle-Aquitaine
+FR-NOR,Metropolitan Region,,Normandy,Normandie
+FR-OCC,Metropolitan Region,,Occitania,Occitanie
+FR-PAC,Metropolitan Region,,Provence-Alps-French Riviera,Provence-Alpes-Côte-d’Azur
+FR-PDL,Metropolitan Region,,Loire Country,Pays-de-la-Loire
+FR-01,Metropolitan Department,FR-ARA,Ain,Ain
+FR-02,Metropolitan Department,FR-HDF,Aisne,Aisne
+FR-03,Metropolitan Department,FR-ARA,Allier,Allier
+FR-04,Metropolitan Department,FR-PAC,Upper Provence Alps,Alpes-de-Haute-Provence
+FR-05,Metropolitan Department,FR-PAC,Upper Alps,Hautes-Alpes
+FR-06,Metropolitan Department,FR-PAC,Maritime Alps,Alpes-Maritimes
+FR-6AE,European Collectivity,FR-GES,Alsace,Alsace
+FR-07,Metropolitan Department,FR-ARA,Ardeche,Ardèche
+FR-08,Metropolitan Department,FR-GES,Ardennes,Ardennes
+FR-09,Metropolitan Department,FR-OCC,Ariege,Ariège
+FR-10,Metropolitan Department,FR-GES,Aube,Aube
+FR-11,Metropolitan Department,FR-OCC,Aude,Aude
+FR-12,Metropolitan Department,FR-OCC,Aveyron,Aveyron
+FR-13,Metropolitan Department,FR-PAC,Rhone Delta,Bouches-du-Rhône
+FR-14,Metropolitan Department,FR-NOR,Calvados,Calvados
+FR-15,Metropolitan Department,FR-ARA,Cantal,Cantal
+FR-16,Metropolitan Department,FR-NAQ,Charente,Charente
+FR-17,Metropolitan Department,FR-NAQ,Maritime Charente,Charente-Maritime
+FR-18,Metropolitan Department,FR-CVL,Cher,Cher
+FR-19,Metropolitan Department,FR-NAQ,Correze,Corrèze
+FR-2A,Metropolitan Department,FR-20R,Southern Corsica,Corse-du-Sud
+FR-2B,Metropolitan Department,FR-20R,Upper Corsica,Haute-Corse
+FR-21,Metropolitan Department,FR-BFC,Gold Coast,Côte-d'Or
+FR-22,Metropolitan Department,FR-BRE,Sea Coasts,Côtes-d'Armor
+FR-23,Metropolitan Department,FR-NAQ,Creuse,Creuse
+FR-24,Metropolitan Department,FR-NAQ,Dordogne,Dordogne
+FR-25,Metropolitan Department,FR-BFC,Doubs,Doubs
+FR-26,Metropolitan Department,FR-ARA,Drome,Drôme
+FR-27,Metropolitan Department,FR-NOR,Eure,Eure
+FR-28,Metropolitan Department,FR-CVL,Eure and Loir,Eure-et-Loir
+FR-29,Metropolitan Department,FR-BRE,Finistere,Finistère
+FR-30,Metropolitan Department,FR-OCC,Gard,Gard
+FR-31,Metropolitan Department,FR-OCC,Upper Garonne,Haute-Garonne
+FR-32,Metropolitan Department,FR-OCC,Gers,Gers
+FR-33,Metropolitan Department,FR-NAQ,Gironde,Gironde
+FR-34,Metropolitan Department,FR-OCC,Herault,Hérault
+FR-35,Metropolitan Department,FR-BRE,Ille and Vilaine,Ille-et-Vilaine
+FR-36,Metropolitan Department,FR-CVL,Indre,Indre
+FR-37,Metropolitan Department,FR-CVL,Indre and Loire,Indre-et-Loire
+FR-38,Metropolitan Department,FR-ARA,Isere,Isère
+FR-39,Metropolitan Department,FR-BFC,Jura,Jura
+FR-40,Metropolitan Department,FR-NAQ,Landes,Landes
+FR-41,Metropolitan Department,FR-CVL,Loir and Cher,Loir-et-Cher
+FR-42,Metropolitan Department,FR-ARA,Loire,Loire
+FR-43,Metropolitan Department,FR-ARA,Upper Loire,Haute-Loire
+FR-44,Metropolitan Department,FR-PDL,Atlantic Loire,Loire-Atlantique
+FR-45,Metropolitan Department,FR-CVL,Loiret,Loiret
+FR-46,Metropolitan Department,FR-OCC,Lot,Lot
+FR-47,Metropolitan Department,FR-NAQ,Lot and Garonne,Lot-et-Garonne
+FR-48,Metropolitan Department,FR-OCC,Lozere,Lozère
+FR-49,Metropolitan Department,FR-PDL,Maine and Loire,Maine-et-Loire
+FR-50,Metropolitan Department,FR-NOR,Manche,Manche
+FR-51,Metropolitan Department,FR-GES,Marne,Marne
+FR-52,Metropolitan Department,FR-GES,Upper Marne,Haute-Marne
+FR-53,Metropolitan Department,FR-PDL,Mayenne,Mayenne
+FR-54,Metropolitan Department,FR-GES,Meurthe and Moselle,Meurthe-et-Moselle
+FR-55,Metropolitan Department,FR-GES,Meuse,Meuse
+FR-56,Metropolitan Department,FR-BRE,Morbihan,Morbihan
+FR-57,Metropolitan Department,FR-GES,Moselle,Moselle
+FR-58,Metropolitan Department,FR-BFC,Nievre,Nièvre
+FR-59,Metropolitan Department,FR-HDF,North,Nord
+FR-60,Metropolitan Department,FR-HDF,Oise,Oise
+FR-61,Metropolitan Department,FR-NOR,Orne,Orne
+FR-62,Metropolitan Department,FR-HDF,Calais Passage,Pas-de-Calais
+FR-63,Metropolitan Department,FR-ARA,Dome Hill,Puy-de-Dôme
+FR-64,Metropolitan Department,FR-NAQ,Atlantic Pyrenees,Pyrénées-Atlantiques
+FR-65,Metropolitan Department,FR-OCC,Upper Pyrenees,Hautes-Pyrénées
+FR-66,Metropolitan Department,FR-OCC,Oriental Pyrenees,Pyrénées-Orientales
+FR-69,Metropolitan Department,FR-ARA,Rhone,Rhône [ 1 ]
+FR-69M,Metropolitan Collectivity With Special Status,FR-ARA,Lyon,Métropole de Lyon
+FR-70,Metropolitan Department,FR-BFC,Upper Saone,Haute-Saône
+FR-71,Metropolitan Department,FR-BFC,Saone and Loire,Saône-et-Loire
+FR-72,Metropolitan Department,FR-PDL,Sarthe,Sarthe
+FR-73,Metropolitan Department,FR-ARA,Savoy,Savoie
+FR-74,Metropolitan Department,FR-ARA,Upper Savoy,Haute-Savoie
+FR-75C,Metropolitan Collectivity With Special Status,FR-IDF,Paris City,Paris
+FR-76,Metropolitan Department,FR-NOR,Maritime Seine,Seine-Maritime
+FR-77,Metropolitan Department,FR-IDF,Seine and Marne,Seine-et-Marne
+FR-78,Metropolitan Department,FR-IDF,Yvelines,Yvelines
+FR-79,Metropolitan Department,FR-NAQ,Two Sevres,Deux-Sèvres
+FR-80,Metropolitan Department,FR-HDF,Somme,Somme
+FR-81,Metropolitan Department,FR-OCC,Tarn,Tarn
+FR-82,Metropolitan Department,FR-OCC,Tarn and Garonne,Tarn-et-Garonne
+FR-83,Metropolitan Department,FR-PAC,Var,Var
+FR-84,Metropolitan Department,FR-PAC,Vaucluse,Vaucluse
+FR-85,Metropolitan Department,FR-PDL,Vendee,Vendée
+FR-86,Metropolitan Department,FR-NAQ,Vienne,Vienne
+FR-87,Metropolitan Department,FR-NAQ,Upper Vienne,Haute-Vienne
+FR-88,Metropolitan Department,FR-GES,Vosges,Vosges
+FR-89,Metropolitan Department,FR-BFC,Yonne,Yonne
+FR-90,Metropolitan Department,FR-BFC,Belfort Territory,Territoire de Belfort
+FR-91,Metropolitan Department,FR-IDF,Essonne,Essonne
+FR-92,Metropolitan Department,FR-IDF,Upper Seine,Hauts-de-Seine
+FR-93,Metropolitan Department,FR-IDF,Saint Denis Seine,Seine-Saint-Denis
+FR-94,Metropolitan Department,FR-IDF,Marne Valley,Val-de-Marne
+FR-95,Metropolitan Department,FR-IDF,Oise Valley,Val-d'Oise
+FR-971,Overseas Departmental Collectivity,,Guadeloupe,Guadeloupe
+FR-972,Overseas Unique Territorial Collectivity,,Martinique,Martinique
+FR-973,Overseas Unique Territorial Collectivity,,French Guiana,Guyane (française)
+FR-974,Overseas Departmental Collectivity,,Reunion,La Réunion
+FR-976,Overseas Departmental Collectivity,,Mayotte,Mayotte
+FR-67,Metropolitan Department,FR-6AE,Lower Rhine,Bas-Rhin
+FR-68,Metropolitan Department,FR-6AE,Upper Rhine,Haut-Rhin
+FR-BL,Overseas Collectivity,,Saint Barts,Saint-Barthélemy
+FR-CP,Dependency,,Clipperton,Clipperton
+FR-MF,Overseas Collectivity,,Saint Martin,Saint-Martin
+FR-NC,Overseas collectivity With Special Status,,New Caledonia,Nouvelle-Calédonie
+FR-PF,Overseas Collectivity,,French Polynesia,Polynésie française
+FR-PM,Overseas Collectivity,,Saint Peter and Miquelon,Saint-Pierre-et-Miquelon
+FR-TF,Overseas Territory,,French Southern Territories,Terres australes françaises [ 1 ]
+FR-WF,Overseas Collectivity,,Wallis and Futuna,Wallis-et-Futuna
+GA-1,Province,,Estuary,Estuaire
+GA-2,Province,,Upper Ogooué,Haut-Ogooué
+GA-3,Province,,Middle Ogooué,Moyen-Ogooué
+GA-4,Province,,Ngounié,Ngounié
+GA-5,Province,,Nyanga,Nyanga
+GA-6,Province,,Ogooué-Ivindo,Ogooué-Ivindo
+GA-7,Province,,Ogooué-Lolo,Ogooué-Lolo
+GA-8,Province,,Maritime Ogooué,Ogooué-Maritime
+GA-9,Province,,Woleu-Ntem,Woleu-Ntem
+GB-ENG,Country,--,England,England
+GB-NIR,Province,--,Northern Ireland,Northern Ireland
+GB-SCT,Country,--,Scotland,Scotland
+GB-WLS,Country,--,Wales,Wales
+GB-EAW,Country,--,England and Wales,England and Wales
+GB-GBN,Country,--,Great Britain,Great Britain
+GB-UKM,Country,--,United Kingdom,United Kingdom
+GB-ABC,District,NIR,"Armagh City, Banbridge and Craigavon","Armagh City, Banbridge and Craigavon"
+GB-ABD,Council Area,SCT,Aberdeenshire,Aberdeenshire
+GB-ABE,Council Area,SCT,Aberdeen City,Aberdeen City
+GB-AGB,Council Area,SCT,Argyll and Bute,Argyll and Bute
+GB-AGY,Unitary Authority,WLS,Isle of Anglesey,Isle of Anglesey
+GB-AND,District,NIR,Ards and North Down,Ards and North Down
+GB-ANN,District,NIR,Antrim and Newtownabbey,Antrim and Newtownabbey
+GB-ANS,Council Area,SCT,Angus,Angus
+GB-BAS,Unitary Authority,ENG,Bath and North East Somerset,Bath and North East Somerset
+GB-BBD,Unitary Authority,ENG,Blackburn with Darwen,Blackburn with Darwen
+GB-BCP,Unitary Authority,ENG,"Bournemouth, Christchurch and Poole","Bournemouth, Christchurch and Poole"
+GB-BDF,Unitary Authority,ENG,Bedford,Bedford
+GB-BDG,London Borough,ENG,Barking and Dagenham,Barking and Dagenham
+GB-BEN,London Borough,ENG,Brent,Brent
+GB-BEX,London Borough,ENG,Bexley,Bexley
+GB-BFS,District,NIR,Belfast City,Belfast City
+GB-BGE,Unitary Authority,WLS,Bridgend,Bridgend
+GB-BGW,Unitary Authority,WLS,Blaenau Gwent,Blaenau Gwent
+GB-BIR,Metropolitan District,ENG,Birmingham,Birmingham
+GB-BKM,Unitary Authority,ENG,Buckinghamshire,Buckinghamshire
+GB-BNE,London Borough,ENG,Barnet,Barnet
+GB-BNH,Unitary Authority,ENG,Brighton and Hove,Brighton and Hove
+GB-BNS,Metropolitan District,ENG,Barnsley,Barnsley
+GB-BOL,Metropolitan District,ENG,Bolton,Bolton
+GB-BPL,Unitary Authority,ENG,Blackpool,Blackpool
+GB-BRC,Unitary Authority,ENG,Bracknell Forest,Bracknell Forest
+GB-BRD,Metropolitan District,ENG,Bradford,Bradford
+GB-BRY,London Borough,ENG,Bromley,Bromley
+GB-BST,Unitary Authority,ENG,Bristol,Bristol
+GB-BUR,Metropolitan District,ENG,Bury,Bury
+GB-CAM,Two-tier County,ENG,Cambridgeshire,Cambridgeshire
+GB-CAY,Unitary Authority,WLS,Caerphilly,Caerphilly
+GB-CBF,Unitary Authority,ENG,Central Bedfordshire,Central Bedfordshire
+GB-CCG,District,NIR,Causeway Coast and Glens,Causeway Coast and Glens
+GB-CGN,Unitary Authority,WLS,Ceredigion,Ceredigion
+GB-CHE,Unitary Authority,ENG,Cheshire East,Cheshire East
+GB-CHW,Unitary Authority,ENG,Cheshire West and Chester,Cheshire West and Chester
+GB-CLD,Metropolitan District,ENG,Calderdale,Calderdale
+GB-CLK,Council Area,SCT,Clackmannanshire,Clackmannanshire
+GB-CMA,Two-tier County,ENG,Cumbria,Cumbria
+GB-CMD,London Borough,ENG,Camden,Camden
+GB-CMN,Unitary Authority,WLS,Carmarthenshire,Carmarthenshire
+GB-CON,Unitary Authority,ENG,Cornwall,Cornwall
+GB-COV,Metropolitan District,ENG,Coventry,Coventry
+GB-CRF,Unitary Authority,WLS,Cardiff,Cardiff
+GB-CRY,London Borough,ENG,Croydon,Croydon
+GB-CWY,Unitary Authority,WLS,Conwy,Conwy
+GB-DAL,Unitary Authority,ENG,Darlington,Darlington
+GB-DBY,Two-tier County,ENG,Derbyshire,Derbyshire
+GB-DEN,Unitary Authority,WLS,Denbighshire,Denbighshire
+GB-DER,Unitary Authority,ENG,Derby,Derby
+GB-DEV,Two-tier County,ENG,Devon,Devon
+GB-DGY,Council Area,SCT,Dumfries and Galloway,Dumfries and Galloway
+GB-DNC,Metropolitan District,ENG,Doncaster,Doncaster
+GB-DND,Council Area,SCT,Dundee City,Dundee City
+GB-DOR,Two-tier County,ENG,Dorset,Dorset
+GB-DRS,District,NIR,Derry and Strabane,Derry and Strabane
+GB-DUD,Metropolitan District,ENG,Dudley,Dudley
+GB-DUR,Unitary Authority,ENG,"Durham, County","Durham, County"
+GB-EAL,London Borough,ENG,Ealing,Ealing
+GB-EAY,Council Area,SCT,East Ayrshire,East Ayrshire
+GB-EDH,Council Area,SCT,Edinburgh,Edinburgh
+GB-EDU,Council Area,SCT,East Dunbartonshire,East Dunbartonshire
+GB-ELN,Council Area,SCT,East Lothian,East Lothian
+GB-ELS,Council Area,SCT,Eilean Siar,Eilean Siar
+GB-ENF,London Borough,ENG,Enfield,Enfield
+GB-ERW,Council Area,SCT,East Renfrewshire,East Renfrewshire
+GB-ERY,Unitary Authority,ENG,East Riding of Yorkshire,East Riding of Yorkshire
+GB-ESS,Two-tier County,ENG,Essex,Essex
+GB-ESX,Two-tier County,ENG,East Sussex,East Sussex
+GB-FAL,Council Area,SCT,Falkirk,Falkirk
+GB-FIF,Council Area,SCT,Fife,Fife
+GB-FLN,Unitary Authority,WLS,Flintshire,Flintshire
+GB-FMO,District,NIR,Fermanagh and Omagh,Fermanagh and Omagh
+GB-GAT,Metropolitan District,ENG,Gateshead,Gateshead
+GB-GLG,Council Area,SCT,Glasgow City,Glasgow City
+GB-GLS,Two-tier County,ENG,Gloucestershire,Gloucestershire
+GB-GRE,London Borough,ENG,Greenwich,Greenwich
+GB-GWN,Unitary Authority,WLS,Gwynedd,Gwynedd
+GB-HAL,Unitary Authority,ENG,Halton,Halton
+GB-HAM,Two-tier County,ENG,Hampshire,Hampshire
+GB-HAV,London Borough,ENG,Havering,Havering
+GB-HCK,London Borough,ENG,Hackney,Hackney
+GB-HEF,Unitary Authority,ENG,Herefordshire,Herefordshire
+GB-HIL,London Borough,ENG,Hillingdon,Hillingdon
+GB-HLD,Council Area,SCT,Highland,Highland
+GB-HMF,London Borough,ENG,Hammersmith and Fulham,Hammersmith and Fulham
+GB-HNS,London Borough,ENG,Hounslow,Hounslow
+GB-HPL,Unitary Authority,ENG,Hartlepool,Hartlepool
+GB-HRT,Two-tier County,ENG,Hertfordshire,Hertfordshire
+GB-HRW,London Borough,ENG,Harrow,Harrow
+GB-HRY,London Borough,ENG,Haringey,Haringey
+GB-IOS,Unitary Authority,ENG,Isles of Scilly,Isles of Scilly
+GB-IOW,Unitary Authority,ENG,Isle of Wight,Isle of Wight
+GB-ISL,London Borough,ENG,Islington,Islington
+GB-IVC,Council Area,SCT,Inverclyde,Inverclyde
+GB-KEC,London Borough,ENG,Kensington and Chelsea,Kensington and Chelsea
+GB-KEN,Two-tier County,ENG,Kent,Kent
+GB-KHL,Unitary Authority,ENG,Kingston upon Hull,Kingston upon Hull
+GB-KIR,Metropolitan District,ENG,Kirklees,Kirklees
+GB-KTT,London Borough,ENG,Kingston upon Thames,Kingston upon Thames
+GB-KWL,Metropolitan District,ENG,Knowsley,Knowsley
+GB-LAN,Two-tier County,ENG,Lancashire,Lancashire
+GB-LBC,District,NIR,Lisburn and Castlereagh,Lisburn and Castlereagh
+GB-LBH,London Borough,ENG,Lambeth,Lambeth
+GB-LCE,Unitary Authority,ENG,Leicester,Leicester
+GB-LDS,Metropolitan District,ENG,Leeds,Leeds
+GB-LEC,Two-tier County,ENG,Leicestershire,Leicestershire
+GB-LEW,London Borough,ENG,Lewisham,Lewisham
+GB-LIN,Two-tier County,ENG,Lincolnshire,Lincolnshire
+GB-LIV,Metropolitan District,ENG,Liverpool,Liverpool
+GB-LND,city corporation,ENG,London,London
+GB-LUT,Unitary Authority,ENG,Luton,Luton
+GB-MAN,Metropolitan District,ENG,Manchester,Manchester
+GB-MDB,Unitary Authority,ENG,Middlesbrough,Middlesbrough
+GB-MDW,Unitary Authority,ENG,Medway,Medway
+GB-MEA,District,NIR,Mid and East Antrim,Mid and East Antrim
+GB-MIK,Unitary Authority,ENG,Milton Keynes,Milton Keynes
+GB-MLN,Council Area,SCT,Midlothian,Midlothian
+GB-MON,Unitary Authority,WLS,Monmouthshire,Monmouthshire
+GB-MRT,London Borough,ENG,Merton,Merton
+GB-MRY,Council Area,SCT,Moray,Moray
+GB-MTY,Unitary Authority,WLS,Merthyr Tydfil,Merthyr Tydfil
+GB-MUL,District,NIR,Mid-Ulster,Mid-Ulster
+GB-NAY,Council Area,SCT,North Ayrshire,North Ayrshire
+GB-NBL,Unitary Authority,ENG,Northumberland,Northumberland
+GB-NEL,Unitary Authority,ENG,North East Lincolnshire,North East Lincolnshire
+GB-NET,Metropolitan District,ENG,Newcastle upon Tyne,Newcastle upon Tyne
+GB-NFK,Two-tier County,ENG,Norfolk,Norfolk
+GB-NGM,Unitary Authority,ENG,Nottingham,Nottingham
+GB-NLK,Council Area,SCT,North Lanarkshire,North Lanarkshire
+GB-NLN,Unitary Authority,ENG,North Lincolnshire,North Lincolnshire
+GB-NMD, Mourne and Down,District,Newry,Newry
+GB-NNH,Unitary Authority,ENG,North Northamptonshire,North Northamptonshire
+GB-NSM,Unitary Authority,ENG,North Somerset,North Somerset
+GB-NTL,Unitary Authority,WLS,Neath Port Talbot,Neath Port Talbot
+GB-NTT,Two-tier County,ENG,Nottinghamshire,Nottinghamshire
+GB-NTY,Metropolitan District,ENG,North Tyneside,North Tyneside
+GB-NWM,London Borough,ENG,Newham,Newham
+GB-NWP,Unitary Authority,WLS,Newport,Newport
+GB-NYK,Two-tier County,ENG,North Yorkshire,North Yorkshire
+GB-OLD,Metropolitan District,ENG,Oldham,Oldham
+GB-ORK,Council Area,SCT,Orkney Islands,Orkney Islands
+GB-OXF,Two-tier County,ENG,Oxfordshire,Oxfordshire
+GB-PEM,Unitary Authority,WLS,Pembrokeshire,Pembrokeshire
+GB-PKN,Council Area,SCT,Perth and Kinross,Perth and Kinross
+GB-PLY,Unitary Authority,ENG,Plymouth,Plymouth
+GB-POR,Unitary Authority,ENG,Portsmouth,Portsmouth
+GB-POW,Unitary Authority,WLS,Powys,Powys
+GB-PTE,Unitary Authority,ENG,Peterborough,Peterborough
+GB-RCC,Unitary Authority,ENG,Redcar and Cleveland,Redcar and Cleveland
+GB-RCH,Metropolitan District,ENG,Rochdale,Rochdale
+GB-RCT,Unitary Authority,WLS,Rhondda Cynon Taff,Rhondda Cynon Taff
+GB-RDB,London Borough,ENG,Redbridge,Redbridge
+GB-RDG,Unitary Authority,ENG,Reading,Reading
+GB-RFW,Council Area,SCT,Renfrewshire,Renfrewshire
+GB-RIC,London Borough,ENG,Richmond upon Thames,Richmond upon Thames
+GB-ROT,Metropolitan District,ENG,Rotherham,Rotherham
+GB-RUT,Unitary Authority,ENG,Rutland,Rutland
+GB-SAW,Metropolitan District,ENG,Sandwell,Sandwell
+GB-SAY,Council Area,SCT,South Ayrshire,South Ayrshire
+GB-SCB,Council Area,SCT,Scottish Borders,Scottish Borders
+GB-SFK,Two-tier County,ENG,Suffolk,Suffolk
+GB-SFT,Metropolitan District,ENG,Sefton,Sefton
+GB-SGC,Unitary Authority,ENG,South Gloucestershire,South Gloucestershire
+GB-SHF,Metropolitan District,ENG,Sheffield,Sheffield
+GB-SHN,Metropolitan District,ENG,St. Helens,St. Helens
+GB-SHR,Unitary Authority,ENG,Shropshire,Shropshire
+GB-SKP,Metropolitan District,ENG,Stockport,Stockport
+GB-SLF,Metropolitan District,ENG,Salford,Salford
+GB-SLG,Unitary Authority,ENG,Slough,Slough
+GB-SLK,Council Area,SCT,South Lanarkshire,South Lanarkshire
+GB-SND,Metropolitan District,ENG,Sunderland,Sunderland
+GB-SOL,Metropolitan District,ENG,Solihull,Solihull
+GB-SOM,Two-tier County,ENG,Somerset,Somerset
+GB-SOS,Unitary Authority,ENG,Southend-on-Sea,Southend-on-Sea
+GB-SRY,Two-tier County,ENG,Surrey,Surrey
+GB-STE,Unitary Authority,ENG,Stoke-on-Trent,Stoke-on-Trent
+GB-STG,Council Area,SCT,Stirling,Stirling
+GB-STH,Unitary Authority,ENG,Southampton,Southampton
+GB-STN,London Borough,ENG,Sutton,Sutton
+GB-STS,Two-tier County,ENG,Staffordshire,Staffordshire
+GB-STT,Unitary Authority,ENG,Stockton-on-Tees,Stockton-on-Tees
+GB-STY,Metropolitan District,ENG,South Tyneside,South Tyneside
+GB-SWA,Unitary Authority,WLS,Swansea,Swansea
+GB-SWD,Unitary Authority,ENG,Swindon,Swindon
+GB-SWK,London Borough,ENG,Southwark,Southwark
+GB-TAM,Metropolitan District,ENG,Tameside,Tameside
+GB-TFW,Unitary Authority,ENG,Telford and Wrekin,Telford and Wrekin
+GB-THR,Unitary Authority,ENG,Thurrock,Thurrock
+GB-TOB,Unitary Authority,ENG,Torbay,Torbay
+GB-TOF,Unitary Authority,WLS,Torfaen,Torfaen
+GB-TRF,Metropolitan District,ENG,Trafford,Trafford
+GB-TWH,London Borough,ENG,Tower Hamlets,Tower Hamlets
+GB-VGL,Unitary Authority,WLS,Vale of Glamorgan,Vale of Glamorgan
+GB-WAR,Two-tier County,ENG,Warwickshire,Warwickshire
+GB-WBK,Unitary Authority,ENG,West Berkshire,West Berkshire
+GB-WDU,Council Area,SCT,West Dunbartonshire,West Dunbartonshire
+GB-WFT,London Borough,ENG,Waltham Forest,Waltham Forest
+GB-WGN,Metropolitan District,ENG,Wigan,Wigan
+GB-WIL,Unitary Authority,ENG,Wiltshire,Wiltshire
+GB-WKF,Metropolitan District,ENG,Wakefield,Wakefield
+GB-WLL,Metropolitan District,ENG,Walsall,Walsall
+GB-WLN,Council Area,SCT,West Lothian,West Lothian
+GB-WLV,Metropolitan District,ENG,Wolverhampton,Wolverhampton
+GB-WND,London Borough,ENG,Wandsworth,Wandsworth
+GB-WNH,Unitary Authority,ENG,West Northamptonshire,West Northamptonshire
+GB-WNM,Unitary Authority,ENG,Windsor and Maidenhead,Windsor and Maidenhead
+GB-WOK,Unitary Authority,ENG,Wokingham,Wokingham
+GB-WOR,Two-tier County,ENG,Worcestershire,Worcestershire
+GB-WRL,Metropolitan District,ENG,Wirral,Wirral
+GB-WRT,Unitary Authority,ENG,Warrington,Warrington
+GB-WRX,Unitary Authority,WLS,Wrexham,Wrexham
+GB-WSM,London Borough,ENG,Westminster,Westminster
+GB-WSX,Two-tier County,ENG,West Sussex,West Sussex
+GB-YOR,Unitary Authority,ENG,York,York
+GB-ZET,Council Area,SCT,Shetland Islands,Shetland Islands
+GD-01,Parish,,Saint Andrew,Saint Andrew
+GD-02,Parish,,Saint David,Saint David
+GD-03,Parish,,Saint George,Saint George
+GD-04,Parish,,Saint John,Saint John
+GD-05,Parish,,Saint Mark,Saint Mark
+GD-06,Parish,,Saint Patrick,Saint Patrick
+GD-10,Dependency,,Southern Grenadine Islands,Southern Grenadine Islands
+GE-AB,Autonomous Republic,,Abkhazia,აფხაზეთი
+GE-AJ,Autonomous Republic,,Ajaria,აჭარა
+GE-GU,Region,,Guria,გურია
+GE-IM,Region,,Imereti,იმერეთი
+GE-KA,Region,,K'akheti,კახეთი
+GE-KK,Region,,Kvemo Kartli,ქვემო ქართლი
+GE-MM,Region,,Mtskheta-Mtianeti,მცხეთა-მთიანეთი
+GE-RL,Region,,Rach'a-Lechkhumi-Kvemo Svaneti,რაჭა-ლეჩხუმი და ქვემო სვანეთი
+GE-SJ,Region,,Samtskhe-Javakheti,სამცხე-ჯავახეთი
+GE-SK,Region,,Shida Kartli,შიდა ქართლი
+GE-SZ,Region,,Samegrelo-Zemo Svaneti,სამეგრელო-ზემო სვანეთი
+GE-TB,City,,Tbilisi,თბილისი
+GH-AA,Region,,Greater Accra,Greater Accra
+GH-AF,Region,,Ahafo,Ahafo
+GH-AH,Region,,Ashanti,Ashanti
+GH-BE,Region,,Bono East,Bono East
+GH-BO,Region,,Bono,Bono
+GH-CP,Region,,Central,Central
+GH-EP,Region,,Eastern,Eastern
+GH-NE,Region,,North East,North East
+GH-NP,Region,,Northern,Northern
+GH-OT,Region,,Oti,Oti
+GH-SV,Region,,Savannah,Savannah
+GH-TV,Region,,Volta,Volta
+GH-UE,Region,,Upper East,Upper East
+GH-UW,Region,,Upper West,Upper West
+GH-WN,Region,,Western North,Western North
+GH-WP,Region,,Western,Western
+GL-AV,Municipality,,Avannaata,Avannaata Kommunia
+GL-KU,Municipality,,Kujalleq,Kommune Kujalleq
+GL-QE,Municipality,,Qeqqata,Qeqqata Kommunia
+GL-QT,Municipality,,Qeqertalik,Kommune Qeqertalik
+GL-SM,Municipality,,Sermersooq,Kommuneqarfik Sermersooq
+GM-B,City,,Banjul,Banjul
+GM-L,Division,,Lower River,Lower River
+GM-M,Division,,Central River,Central River
+GM-N,Division,,North Bank,North Bank
+GM-U,Division,,Upper River,Upper River
+GM-W,Division,,Western,Western
+GN-B,Administrative Region,--,Boké,Boké
+GN-C,Governorate,--,Conakry,Conakry
+GN-D,Administrative Region,--,Kindia,Kindia
+GN-F,Administrative Region,--,Faranah,Faranah
+GN-K,Administrative Region,--,Kankan,Kankan
+GN-L,Administrative Region,--,Labé,Labé
+GN-M,Administrative Region,--,Mamou,Mamou
+GN-N,Administrative Region,--,Nzérékoré,Nzérékoré
+GN-BE,Prefecture,N,Beyla,Beyla
+GN-BF,Prefecture,B,Boffa,Boffa
+GN-BK,Prefecture,B,Boké,Boké
+GN-CO,Prefecture,D,Coyah,Coyah
+GN-DB,Prefecture,F,Dabola,Dabola
+GN-DI,Prefecture,F,Dinguiraye,Dinguiraye
+GN-DL,Prefecture,M,Dalaba,Dalaba
+GN-DU,Prefecture,D,Dubréka,Dubréka
+GN-FA,Prefecture,F,Faranah,Faranah
+GN-FO,Prefecture,D,Forécariah,Forécariah
+GN-FR,Prefecture,B,Fria,Fria
+GN-GA,Prefecture,B,Gaoual,Gaoual
+GN-GU,Prefecture,N,Guékédou,Guékédou
+GN-KA,Prefecture,K,Kankan,Kankan
+GN-KB,Prefecture,L,Koubia,Koubia
+GN-KD,Prefecture,D,Kindia,Kindia
+GN-KE,Prefecture,K,Kérouané,Kérouané
+GN-KN,Prefecture,B,Koundara,Koundara
+GN-KO,Prefecture,K,Kouroussa,Kouroussa
+GN-KS,Prefecture,F,Kissidougou,Kissidougou
+GN-LA,Prefecture,L,Labé,Labé
+GN-LE,Prefecture,L,Lélouma,Lélouma
+GN-LO,Prefecture,N,Lola,Lola
+GN-MC,Prefecture,N,Macenta,Macenta
+GN-MD,Prefecture,K,Mandiana,Mandiana
+GN-ML,Prefecture,L,Mali,Mali
+GN-MM,Prefecture,M,Mamou,Mamou
+GN-NZ,Prefecture,N,Nzérékoré,Nzérékoré
+GN-PI,Prefecture,M,Pita,Pita
+GN-SI,Prefecture,K,Siguiri,Siguiri
+GN-TE,Prefecture,D,Télimélé,Télimélé
+GN-TO,Prefecture,L,Tougué,Tougué
+GN-YO,Prefecture,N,Yomou,Yomou
+GQ-C,Region,,Continental,Región Continental
+GQ-I,Region,,Insular,Región Insular
+GQ-AN,Province,GQ-I,Annobon,Annobón
+GQ-BN,Province,GQ-I,North Bioko,Bioko Norte
+GQ-BS,Province,GQ-I,South Bioko,Bioko Sur
+GQ-CS,Province,GQ-C,South Center,Centro Sur
+GQ-DJ,Province,GQ-C,Djibloho,Djibloho
+GQ-KN,Province,GQ-C,Kie-Ntem,Kié-Ntem
+GQ-LI,Province,GQ-C,Coast,Litoral
+GQ-WN,Province,GQ-C,Wele-Nzas,Wele-Nzas
+GR-69,SELF-GOVERNED PART,,Mount Athos,Άγιο Όρος
+GR-A,Administrative Region,,Eastern Macedonia and Thrace,Ανατολική Μακεδονία και Θράκη
+GR-B,Administrative Region,,Central Macedonia,Κεντρική Μακεδονία
+GR-C,Administrative Region,,Western Macedonia,Δυτική Μακεδονία
+GR-D,Administrative Region,,Epirus,Ήπειρος
+GR-E,Administrative Region,,Thessaly,Θεσσαλία
+GR-F,Administrative Region,,Ionian Islands,Ιόνια Νησιά
+GR-G,Administrative Region,,Western Greece,Δυτική Ελλάδα
+GR-H,Administrative Region,,Central Greece,Στερεά Ελλάδα
+GR-I,Administrative Region,,Attica,Αττική
+GR-J,Administrative Region,,Peloponnese,Πελοπόννησος
+GR-K,Administrative Region,,Northern Aegean,Βόρειο Αιγαίο
+GR-L,Administrative Region,,Southern Aegean,Νότιο Αιγαίο
+GR-M,Administrative Region,,Crete,Κρήτη
+GT-01,Department,,Guatemala,Guatemala
+GT-02,Department,,El Progreso,El Progreso
+GT-03,Department,,Sacatepéquez,Sacatepéquez
+GT-04,Department,,Chimaltenango,Chimaltenango
+GT-05,Department,,Escuintla,Escuintla
+GT-06,Department,,Saint Rose,Saint Rose
+GT-07,Department,,Sololá,Sololá
+GT-08,Department,,Totonicapán,Totonicapán
+GT-09,Department,,Quetzaltenango,Quetzaltenango
+GT-10,Department,,Suchitepéquez,Suchitepéquez
+GT-11,Department,,Retalhuleu,Retalhuleu
+GT-12,Department,,Saint Mark,Saint Mark
+GT-13,Department,,Huehuetenango,Huehuetenango
+GT-14,Department,,Quiché,Quiché
+GT-15,Department,,Lower Verapaz,Lower Verapaz
+GT-16,Department,,Upper Verapaz,Upper Verapaz
+GT-17,Department,,Petén,Petén
+GT-18,Department,,Izabal,Izabal
+GT-19,Department,,Zacapa,Zacapa
+GT-20,Department,,Chiquimula,Chiquimula
+GT-21,Department,,Jalapa,Jalapa
+GT-22,Department,,Jutiapa,Jutiapa
+GW-L,Province,,East,Leste
+GW-N,Province,,North,Norte
+GW-S,Province,,South,Sul
+GW-BA,Region,GW-L,Bafatá,Bafatá
+GW-BL,Region,GW-S,Bolama / Bijagós,Bolama / Bijagós
+GW-BM,Region,GW-N,Biombo,Biombo
+GW-BS,Autonomous Sector,,Bissau,Bissau
+GW-CA,Region,GW-N,Cacheu,Cacheu
+GW-GA,Region,GW-L,Gabú,Gabú
+GW-OI,Region,GW-N,Oio,Oio
+GW-QU,Region,GW-S,Quinara,Quinara
+GW-TO,Region,GW-S,Tombali,Tombali
+GY-BA,Region,,Barima-Waini,Barima-Waini
+GY-CU,Region,,Cuyuni-Mazaruni,Cuyuni-Mazaruni
+GY-DE,Region,,Demerara-Mahaica,Demerara-Mahaica
+GY-EB,Region,,East Berbice-Corentyne,East Berbice-Corentyne
+GY-ES,Region,,Essequibo Islands-West Demerara,Essequibo Islands-West Demerara
+GY-MA,Region,,Mahaica-Berbice,Mahaica-Berbice
+GY-PM,Region,,Pomeroon-Supenaam,Pomeroon-Supenaam
+GY-PT,Region,,Potaro-Siparuni,Potaro-Siparuni
+GY-UD,Region,,Upper Demerara-Berbice,Upper Demerara-Berbice
+GY-UT,Region,,Upper Takutu-Upper Essequibo,Upper Takutu-Upper Essequibo
+HN-AT,Department,,Atlántida,Atlántida
+HN-CH,Department,,Choluteca,Choluteca
+HN-CL,Department,,Colón,Colón
+HN-CM,Department,,Comayagua,Comayagua
+HN-CP,Department,,Copán,Copán
+HN-CR,Department,,Cortés,Cortés
+HN-EP,Department,,El Paraíso,El Paraíso
+HN-FM,Department,,Francisco Morazán,Francisco Morazán
+HN-GD,Department,,Gracias a Dios,Gracias a Dios
+HN-IB,Department,,Islas de la Bahía,Islas de la Bahía
+HN-IN,Department,,Intibucá,Intibucá
+HN-LE,Department,,Lempira,Lempira
+HN-LP,Department,,La Paz,La Paz
+HN-OC,Department,,Ocotepeque,Ocotepeque
+HN-OL,Department,,Olancho,Olancho
+HN-SB,Department,,Santa Bárbara,Santa Bárbara
+HN-VA,Department,,Valle,Valle
+HN-YO,Department,,Yoro,Yoro
+HR-01,County,,Zagreb County,Zagrebačka županija
+HR-02,County,,Krapina-Zagorje,Krapinsko-zagorska županija
+HR-03,County,,Sisak-Moslavina,Sisačko-moslavačka županija
+HR-04,County,,Karlovac,Karlovačka županija
+HR-05,County,,Varaždin,Varaždinska županija
+HR-06,County,,Koprivnica-Križevci,Koprivničko-križevačka županija
+HR-07,County,,Bjelovar-Bilogora,Bjelovarsko-bilogorska županija
+HR-08,County,,Primorje-Gorski Kotar,Primorsko-goranska županija
+HR-09,County,,Lika-Senj,Ličko-senjska županija
+HR-10,County,,Virovitica-Podravina,Virovitičko-podravska županija
+HR-11,County,,Požega-Slavonia,Požeško-slavonska županija
+HR-12,County,,Brod-Posavina,Brodsko-posavska županija
+HR-13,County,,Zadar,Zadarska županija
+HR-14,County,,Osijek-Baranja,Osječko-baranjska županija
+HR-15,County,,Šibenik-Knin,Šibensko-kninska županija
+HR-16,County,,Vukovar-Srijem,Vukovarsko-srijemska županija
+HR-17,County,,Split-Dalmatia,Splitsko-dalmatinska županija
+HR-18,County,,Istria,Istarska županija
+HR-19,County,,Dubrovnik-Neretva,Dubrovačko-neretvanska županija
+HR-20,County,,Međimurje,Međimurska županija
+HR-21,City,,Zagreb City,Grad Zagreb
+HT-AR,Department,,Artibonite,Artibonite
+HT-CE,Department,,Center,Centre
+HT-GA,Department,,Big Cove,Grande’Anse
+HT-ND,Department,,North,Nord
+HT-NE,Department,,Northeast,Nord-Est
+HT-NI,Department,,Nippes,Nippes
+HT-NO,Department,,Northwest,Nord-Ouest
+HT-OU,Department,,West,Ouest
+HT-SD,Department,,South,Sud
+HT-SE,Department,,Southeast,Sud-Est
+HU-BA,County,,Baranya,Baranya
+HU-BC,City With County Rights,,Békéscsaba,Békéscsaba
+HU-BE,County,,Békés,Békés
+HU-BK,County,,Bács-Kiskun,Bács-Kiskun
+HU-BU,Capital City,,Budapest,Budapest
+HU-BZ,County,,Borsod-Abaúj-Zemplén,Borsod-Abaúj-Zemplén
+HU-CS,County,,Csongrád-Csanád,Csongrád-Csanád
+HU-DE,City With County Rights,,Debrecen,Debrecen
+HU-DU,City With County Rights,,Dunaújváros,Dunaújváros
+HU-EG,City With County Rights,,Eger,Eger
+HU-ER,City With County Rights,,Érd,Érd
+HU-FE,County,,Fejér,Fejér
+HU-GS,County,,Győr-Moson-Sopron,Győr-Moson-Sopron
+HU-GY,City With County Rights,,Győr,Győr
+HU-HB,County,,Hajdú-Bihar,Hajdú-Bihar
+HU-HE,County,,Heves,Heves
+HU-HV,City With County Rights,,Hódmezővásárhely,Hódmezővásárhely
+HU-JN,County,,Jász-Nagykun-Szolnok,Jász-Nagykun-Szolnok
+HU-KE,County,,Komárom-Esztergom,Komárom-Esztergom
+HU-KM,City With County Rights,,Kecskemét,Kecskemét
+HU-KV,City With County Rights,,Kaposvár,Kaposvár
+HU-MI,City With County Rights,,Miskolc,Miskolc
+HU-NK,City With County Rights,,Nagykanizsa,Nagykanizsa
+HU-NO,County,,Nógrád,Nógrád
+HU-NY,City With County Rights,,Nyíregyháza,Nyíregyháza
+HU-PE,County,,Pest,Pest
+HU-PS,City With County Rights,,Pécs,Pécs
+HU-SD,City With County Rights,,Szeged,Szeged
+HU-SF,City With County Rights,,Székesfehérvár,Székesfehérvár
+HU-SH,City With County Rights,,Szombathely,Szombathely
+HU-SK,City With County Rights,,Szolnok,Szolnok
+HU-SN,City With County Rights,,Sopron,Sopron
+HU-SO,County,,Somogy,Somogy
+HU-SS,City With County Rights,,Szekszárd,Szekszárd
+HU-ST,City With County Rights,,Salgótarján,Salgótarján
+HU-SZ,County,,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmár-Bereg
+HU-TB,City With County Rights,,Tatabánya,Tatabánya
+HU-TO,County,,Tolna,Tolna
+HU-VA,County,,Vas,Vas
+HU-VE,County,,Veszprém,Veszprém
+HU-VM,City With County Rights,,Veszprém,Veszprém
+HU-ZA,County,,Zala,Zala
+HU-ZE,City With County Rights,,Zalaegerszeg,Zalaegerszeg
 ID-AC,Province,ID-SM
 ID-BA,Province,ID-NU
 ID-BB,Province,ID-SM
@@ -2922,7 +2925,7 @@ MD-DU,District,
 MD-ED,District,
 MD-FA,District,
 MD-FL,District,
-MD-GA,Autonomous TERRITORIAL UNIT,
+MD-GA,Autonomous Territorial UNIT,
 MD-GL,District,
 MD-HI,District,
 MD-IA,District,
@@ -2934,7 +2937,7 @@ MD-RE,District,
 MD-RI,District,
 MD-SD,District,
 MD-SI,District,
-MD-SN,TERRITORIAL UNIT,
+MD-SN,Territorial UNIT,
 MD-SO,District,
 MD-ST,District,
 MD-SV,District,
