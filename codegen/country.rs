@@ -71,15 +71,7 @@ pub fn generate() -> Result<()> {
         let mut ret = "vec![".to_string();
 
         for lan in v.split(",") {
-            let mut tag = "".to_string();
-
-            for seg in lan.split("-") {
-                let mut seg = seg.to_ascii_lowercase();
-                seg.get_mut(0..1).map(|v| v.make_ascii_uppercase());
-                tag += seg.as_str();
-            }
-
-            ret += format!("crate::Language::{tag}, ").as_str();
+            ret += format!("crate::Language::{}, ", lan.replace("-", "_").to_ascii_uppercase()).as_str();
         }
 
         ret += "]";
