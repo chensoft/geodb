@@ -10113,7 +10113,7 @@ impl Subdivision {
     }
 
     /// Subdivision code
-    pub const fn code(&self) -> &str {
+    pub const fn code(&self) -> &'static str {
         match self {
             Self::AD_02 => "AD-02",
             Self::AD_03 => "AD-03",
@@ -20223,7 +20223,7 @@ impl Subdivision {
     }
 
     /// Subdivision category
-    pub const fn category(&self) -> &str {
+    pub const fn category(&self) -> &'static str {
         match self {
             Self::AD_02 => "Parish",
             Self::AD_03 => "Parish",
@@ -30333,7 +30333,7 @@ impl Subdivision {
     }
 
     /// Subdivision english name
-    pub const fn name(&self) -> &str {
+    pub const fn name(&self) -> &'static str {
         match self {
             Self::AD_02 => "Canillo",
             Self::AD_03 => "Encamp",
@@ -35388,7 +35388,7 @@ impl Subdivision {
     }
 
     /// Subdivision native name
-    pub const fn native(&self) -> &str {
+    pub const fn native(&self) -> &'static str {
         match self {
             Self::AD_02 => "Canillo",
             Self::AD_03 => "Encamp",

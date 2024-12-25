@@ -1,19 +1,15 @@
 [package]
 name = "geodb"
-version = "0.1.0-alpha2"
+version = "0.1.0"
 edition = "2021"
 authors = ["Jian Chen <admin@chensoft.com>"]
 license = "MIT"
-description = "A collection of geographical information"
+description = "Comprehensive geographical information"
 documentation = "https://docs.rs/geodb"
 repository = "https://github.com/chensoft/geodb"
 readme = "README.md"
-keywords = ["country", "timezone", "language", "currency"]
+keywords = ["iso3166-1", "iso3166-2", "iso4217", "bcp47"]
 build = "codegen/build.rs"
-
-[[bench]]
-name = "bench"
-harness = false
 
 [features]
 build = []
@@ -26,11 +22,6 @@ indexmap = { version = "2.7", features = ["serde"] }
 handlebars = "6.2"
 serde_json = "1"
 
-[dev-dependencies]
-criterion = "0.5"
-
 [dependencies]
 serde = { version = "1", features = ["derive"] }
 strum = { version = "0.26", features = ["derive"] }
-chrono = "0.4"
-chrono-tz = "0.10"

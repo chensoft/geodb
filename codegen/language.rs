@@ -62,7 +62,7 @@ impl Language {
     }
 
     /// Language code
-    pub const fn code(&self) -> &str {
+    pub const fn code(&self) -> &'static str {
         match self {
 {{#each languages}}
             Self::{{code this.code}} => "{{this.code}}",
@@ -71,7 +71,7 @@ impl Language {
     }
 
     /// Language name
-    pub const fn name(&self) -> &str {
+    pub const fn name(&self) -> &'static str {
         match self {
 {{#each languages}}
             Self::{{code this.code}} => "{{this.name}}",
@@ -80,7 +80,7 @@ impl Language {
     }
 
     /// Language native name
-    pub const fn native(&self) -> &str {
+    pub const fn native(&self) -> &'static str {
         match self {
 {{#each languages}}
             Self::{{code this.code}} => "{{this.native}}",

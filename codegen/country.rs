@@ -120,7 +120,7 @@ impl Country {
     }
 
     /// ISO 3166-1 alpha2 code
-    pub const fn code2(&self) -> &str {
+    pub const fn code2(&self) -> &'static str {
         match self {
 {{#each countries}}
             Self::{{this.code2}} => "{{this.code2}}",
@@ -129,7 +129,7 @@ impl Country {
     }
 
     /// ISO 3166-1 alpha3 code
-    pub const fn code3(&self) -> &str {
+    pub const fn code3(&self) -> &'static str {
         match self {
 {{#each countries}}
             Self::{{this.code2}} => "{{this.code3}}",
@@ -183,7 +183,7 @@ impl Country {
     }
 
     /// Main official language codes
-    pub const fn language(&self) -> &[crate::Language] {
+    pub const fn language(&self) -> &'static [crate::Language] {
         match self {
 {{#each countries}}
             Self::{{this.code2}} => {{language this.language}},
@@ -201,7 +201,7 @@ impl Country {
     }
 
     /// International calling code
-    pub const fn dial(&self) -> &str {
+    pub const fn dial(&self) -> &'static str {
         match self {
 {{#each countries}}
             Self::{{this.code2}} => "{{this.dial}}",
@@ -210,7 +210,7 @@ impl Country {
     }
 
     /// ccTLD of the country
-    pub const fn tld(&self) -> &str {
+    pub const fn tld(&self) -> &'static str {
         match self {
 {{#each countries}}
             Self::{{this.code2}} => "{{this.tld}}",
@@ -219,7 +219,7 @@ impl Country {
     }
 
     /// Country's emoji flag
-    pub const fn flag(&self) -> &str {
+    pub const fn flag(&self) -> &'static str {
         match self {
 {{#each countries}}
             Self::{{this.code2}} => "{{this.flag}}",
@@ -228,7 +228,7 @@ impl Country {
     }
 
     /// Country's abbreviated name
-    pub const fn name(&self) -> &str {
+    pub const fn name(&self) -> &'static str {
         match self {
 {{#each countries}}
             Self::{{this.code2}} => "{{this.name}}",
@@ -237,7 +237,7 @@ impl Country {
     }
 
     /// Country's official name
-    pub const fn official(&self) -> &str {
+    pub const fn official(&self) -> &'static str {
         match self {
 {{#each countries}}
             Self::{{this.code2}} => "{{this.official}}",
@@ -246,7 +246,7 @@ impl Country {
     }
 
     /// Capital name, may be empty as some islands have no capital
-    pub const fn capital(&self) -> &str {
+    pub const fn capital(&self) -> &'static str {
         match self {
 {{#each countries}}
             Self::{{this.code2}} => "{{this.capital}}",

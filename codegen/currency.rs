@@ -78,7 +78,7 @@ impl Currency {
     }
 
     /// ISO 4217 currency code
-    pub const fn code(&self) -> &str {
+    pub const fn code(&self) -> &'static str {
         match self {
 {{#each currencies}}
             Self::{{this.code}} => "{{this.code}}",
@@ -105,7 +105,7 @@ impl Currency {
     }
 
     /// Currency symbol
-    pub const fn symbol(&self) -> &str {
+    pub const fn symbol(&self) -> &'static str {
         match self {
 {{#each currencies}}
             Self::{{this.code}} => "{{this.symbol}}",
@@ -114,7 +114,7 @@ impl Currency {
     }
 
     /// Unit refers to the standard currency measure
-    pub const fn unit(&self) -> &str {
+    pub const fn unit(&self) -> &'static str {
         match self {
 {{#each currencies}}
             Self::{{this.code}} => "{{this.unit}}",
@@ -123,7 +123,7 @@ impl Currency {
     }
 
     /// ISO 4217 currency english name
-    pub const fn name(&self) -> &str {
+    pub const fn name(&self) -> &'static str {
         match self {
 {{#each currencies}}
             Self::{{this.code}} => "{{this.name}}",
@@ -132,7 +132,7 @@ impl Currency {
     }
 
     /// The form of the currency name used when referring to more than one unit
-    pub const fn plural(&self) -> &str {
+    pub const fn plural(&self) -> &'static str {
         match self {
 {{#each currencies}}
             Self::{{this.code}} => "{{this.plural}}",

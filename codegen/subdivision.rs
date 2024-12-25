@@ -79,7 +79,7 @@ impl Subdivision {
     }
 
     /// Subdivision code
-    pub const fn code(&self) -> &str {
+    pub const fn code(&self) -> &'static str {
         match self {
 {{#each subdivisions}}
             Self::{{code this.code}} => "{{this.code}}",
@@ -97,7 +97,7 @@ impl Subdivision {
     }
 
     /// Subdivision category
-    pub const fn category(&self) -> &str {
+    pub const fn category(&self) -> &'static str {
         match self {
 {{#each subdivisions}}
             Self::{{code this.code}} => "{{this.category}}",
@@ -115,7 +115,7 @@ impl Subdivision {
     }
 
     /// Subdivision english name
-    pub const fn name(&self) -> &str {
+    pub const fn name(&self) -> &'static str {
         match self {
 {{#each subdivisions}}
             Self::{{code this.code}} => "{{this.name}}",
@@ -124,7 +124,7 @@ impl Subdivision {
     }
 
     /// Subdivision native name
-    pub const fn native(&self) -> &str {
+    pub const fn native(&self) -> &'static str {
         match self {
 {{#each subdivisions}}
             Self::{{code this.code}} => "{{this.native}}",

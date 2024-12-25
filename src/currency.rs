@@ -558,7 +558,7 @@ impl Currency {
     }
 
     /// ISO 4217 currency code
-    pub const fn code(&self) -> &str {
+    pub const fn code(&self) -> &'static str {
         match self {
             Self::AED => "AED",
             Self::AFN => "AFN",
@@ -1113,7 +1113,7 @@ impl Currency {
     }
 
     /// Currency symbol
-    pub const fn symbol(&self) -> &str {
+    pub const fn symbol(&self) -> &'static str {
         match self {
             Self::AED => "د.إ",
             Self::AFN => "؋",
@@ -1298,7 +1298,7 @@ impl Currency {
     }
 
     /// Unit refers to the standard currency measure
-    pub const fn unit(&self) -> &str {
+    pub const fn unit(&self) -> &'static str {
         match self {
             Self::AED => "Dirham",
             Self::AFN => "Afghani",
@@ -1483,7 +1483,7 @@ impl Currency {
     }
 
     /// ISO 4217 currency english name
-    pub const fn name(&self) -> &str {
+    pub const fn name(&self) -> &'static str {
         match self {
             Self::AED => "United Arab Emirates Dirham",
             Self::AFN => "Afghan Afghani",
@@ -1668,7 +1668,7 @@ impl Currency {
     }
 
     /// The form of the currency name used when referring to more than one unit
-    pub const fn plural(&self) -> &str {
+    pub const fn plural(&self) -> &'static str {
         match self {
             Self::AED => "United Arab Emirates Dirhams",
             Self::AFN => "Afghan Afghanis",

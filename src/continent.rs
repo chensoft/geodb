@@ -28,7 +28,7 @@ impl Continent {
     }
 
     /// Continent code
-    pub const fn code(&self) -> &str {
+    pub const fn code(&self) -> &'static str {
         match self {
             Self::AF => "AF",
             Self::AN => "AN",
@@ -41,7 +41,7 @@ impl Continent {
     }
 
     /// Continent name
-    pub const fn name(&self) -> &str {
+    pub const fn name(&self) -> &'static str {
         match self {
             Self::AF => "Africa",
             Self::AN => "Antarctica",

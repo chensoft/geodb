@@ -1,4 +1,5 @@
 #![doc = include_str!("../README.md")]
+#![allow(clippy::needless_doctest_main)]
 #![deny(clippy::unwrap_used,clippy::expect_used,clippy::let_underscore_future)]
 
 #[macro_use] extern crate serde;
