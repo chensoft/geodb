@@ -9,7 +9,7 @@ documentation = "https://docs.rs/geodb"
 repository = "https://github.com/chensoft/geodb"
 readme = "README.md"
 keywords = ["iso3166-1", "iso3166-2", "iso4217", "bcp47"]
-build = "codegen/build.rs"
+build = "gen/build.rs"
 
 [features]
 build = []

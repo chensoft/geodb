@@ -31,7 +31,7 @@ pub struct Currency {
 }
 
 pub static CURRENCIES: LazyLock<IndexMap<String, Currency>> = LazyLock::new(|| {
-    let mut csv = csv::Reader::from_path("datasets/currency.csv").expect("missing currency file");
+    let mut csv = csv::Reader::from_path("csv/currency.csv").expect("missing currency file");
     let mut map = IndexMap::new();
 
     for val in csv.deserialize() {

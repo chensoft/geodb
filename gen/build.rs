@@ -8,7 +8,7 @@ mod subdivision;
 #[macro_use] extern crate handlebars;
 
 fn main() -> anyhow::Result<()> {
-    println!("cargo::rerun-if-changed=datasets");
+    println!("cargo::rerun-if-changed=csv");
 
     continent::generate()?;
     country::generate()?;
