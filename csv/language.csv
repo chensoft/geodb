@@ -101,7 +101,7 @@ bo,Tibetan,བོད་སྐད་
 bo-CN,Tibetan (China),བོད་སྐད་ (རྒྱ་ནག)
 bo-IN,Tibetan (India),བོད་སྐད་ (རྒྱ་གར)
 br,Breton,Brezhoneg
-br-FR,Breton (France),Brezhoneg (Frañs)
+br-FR,Breton (France),Brezhoneg (Bro-C'hall)
 brx,Bodo,बड़ो
 brx-IN,Bodo (India),बड़ो (भारत)
 bs,Bosnian,Bosanski
@@ -123,7 +123,7 @@ ccp,Chakma,𑄌𑄋𑄴𑄟𑄳𑄦
 ccp-BD,Chakma (Bangladesh),𑄌𑄋𑄴𑄟𑄳𑄦 (𑄝𑄁𑄣𑄘𑄬𑄌𑄴)
 ccp-IN,Chakma (India),𑄌𑄋𑄴𑄟𑄳𑄦 (𑄞𑄢𑄧𑄖𑄴)
 ce,Chechen,Нохчийн
-ce-RU,Chechen (Russia),Нохчийн (Росси)
+ce-RU,Chechen (Russia),Нохчийн (Оьрсийчоь)
 ceb,Cebuano,Cebuano
 ceb-PH,Cebuano (Philippines),Cebuano (Pilipinas)
 cgg,Chiga,Rukiga
@@ -143,12 +143,12 @@ cs,Czech,Čeština
 cs-CZ,Czech (Czechia),Čeština (Česko)
 csw,Swampy Cree,ᓀᐦᐃᔭᐍᐏᐣ
 csw-CA,Swampy Cree (Canada),ᓀᐦᐃᔭᐍᐏᐣ (ᑳᓇᑕ)
-cu,Church Slavic,Церковнослове́нскїй
-cu-RU,Church Slavic (Russia),Церковнослове́нскїй (Россія)
+cu,Church Slavonic,Церковнослове́нскїй
+cu-RU,Church Slavonic (Russia),Церковнослове́нскїй (Россія)
 cv,Chuvash,Чӑваш
 cv-RU,Chuvash (Russia),Чӑваш (Раҫҫей)
 cy,Welsh,Cymraeg
-cy-GB,Welsh (United Kingdom),Cymraeg (Y Deyrnas Unedig)
+cy-GB,Welsh (United Kingdom),Cymraeg (Deyrnas Unedig)
 da,Danish,Dansk
 da-DK,Danish (Denmark),Dansk (Danmark)
 da-GL,Danish (Greenland),Dansk (Grønland)
@@ -170,12 +170,12 @@ dsb,Lower Sorbian,Dolnoserbšćina
 dsb-DE,Lower Sorbian (Germany),Dolnoserbšćina (Nimska)
 dua,Duala,Duálá
 dua-CM,Duala (Cameroon),Duálá (Cameroun)
-dv,Divehi,ދިވެހިބަސް
-dv-MV,Divehi (Maldives),ދިވެހިބަސް (ދިވެހިރާއްޖެ)
+dv,Dhivehi,ދިވެހި
+dv-MV,Dhivehi (Maldives),ދިވެހި (މޯލްޑިވްސް އެވެ)
 dyo,Jola-Fonyi,Joola
 dyo-SN,Jola-Fonyi (Senegal),Joola (Senegal)
 dz,Dzongkha,རྫོང་ཁ
-dz-BT,Dzongkha (Bhutan),རྫོང་ཁ (འབྲུག)
+dz-BT,Dzongkha (Bhutan),རྫོང་ཁ (འབྲུག་རྒྱལ་ཡུལ།)
 ebu,Embu,Kĩembu
 ebu-KE,Embu (Kenya),Kĩembu (Kenya)
 ee,Ewe,Eʋegbe
@@ -201,7 +201,7 @@ en-BS,English (Bahamas),English (Bahamas)
 en-BW,English (Botswana),English (Botswana)
 en-BZ,English (Belize),English (Belize)
 en-CA,English (Canada),English (Canada)
-en-CC,English (Cocos [Keeling] Islands),English (Cocos [Keeling] Islands)
+en-CC,English (Cocos (Keeling) Islands),English (Cocos (Keeling) Islands)
 en-CH,English (Switzerland),English (Switzerland)
 en-CK,English (Cook Islands),English (Cook Islands)
 en-CM,English (Cameroon),English (Cameroon)
