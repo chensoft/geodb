@@ -55,7 +55,7 @@ pub struct Country {
 }
 
 pub static COUNTRIES: LazyLock<IndexMap<String, Country>> = LazyLock::new(|| {
-    let mut csv = csv::Reader::from_path("csv/country.csv").expect("missing country file");
+    let mut csv = csv::Reader::from_path("res/country.csv").expect("missing country file");
     let mut map = IndexMap::new();
 
     for val in csv.deserialize() {

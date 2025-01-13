@@ -28,7 +28,7 @@ pub struct Subdivision {
 }
 
 pub static SUBDIVISIONS: LazyLock<IndexMap<String, Subdivision>> = LazyLock::new(|| {
-    let mut csv = csv::Reader::from_path("csv/subdivision.csv").expect("missing subdivision file");
+    let mut csv = csv::Reader::from_path("res/subdivision.csv").expect("missing subdivision file");
     let mut map = IndexMap::new();
 
     for val in csv.deserialize() {

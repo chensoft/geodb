@@ -19,7 +19,7 @@ pub struct Language {
 }
 
 pub static LANGUAGES: LazyLock<IndexMap<String, Language>> = LazyLock::new(|| {
-    let mut csv = csv::Reader::from_path("csv/language.csv").expect("missing language file");
+    let mut csv = csv::Reader::from_path("res/language.csv").expect("missing language file");
     let mut map = IndexMap::new();
 
     for val in csv.deserialize() {
