@@ -55,6 +55,7 @@ AG-07,AG,Parish,,Saint Peter,Saint Peter
 AG-08,AG,Parish,,Saint Philip,Saint Philip
 AG-10,AG,Dependency,,Barbuda,Barbuda
 AG-11,AG,Dependency,,Redonda,Redonda
+AI,AI,Country,,Anguilla,Anguilla
 AL-01,AL,County,,Berat,Berat
 AL-02,AL,County,,Durrës,Durrës
 AL-03,AL,County,,Elbasan,Elbasan
@@ -96,6 +97,7 @@ AO-MOX,AO,Province,,Moxico,Moxico
 AO-NAM,AO,Province,,Namibe,Namibe
 AO-UIG,AO,Province,,Uige,Uíge
 AO-ZAI,AO,Province,,Zaire,Zaire
+AQ,AQ,Continent,,Antarctica,Antarctica
 AR-A,AR,Province,,Salta,Salta
 AR-B,AR,Province,,Buenos Aires,Buenos Aires
 AR-C,AR,City,,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires
@@ -120,6 +122,7 @@ AR-W,AR,Province,,Corrientes,Corrientes
 AR-X,AR,Province,,Córdoba,Córdoba
 AR-Y,AR,Province,,Jujuy,Jujuy
 AR-Z,AR,Province,,Santa Cruz,Santa Cruz
+AS,AS,Territory,,American Samoa,American Samoa
 AT-1,AT,State,,Burgenland,Burgenland
 AT-2,AT,State,,Carinthia,Kärnten
 AT-3,AT,State,,Lower Austria,Niederösterreich
@@ -137,6 +140,8 @@ AU-SA,AU,State,,South Australia,South Australia
 AU-TAS,AU,State,,Tasmania,Tasmania
 AU-VIC,AU,State,,Victoria,Victoria
 AU-WA,AU,State,,Western Australia,Western Australia
+AW,AW,Island Country,,Aruba,Land Aruba
+AX,AX,Autonomous Region,,Åland,Åland
 AZ-NX,AZ,Autonomous Republic,,Nakhchivan,Naxçıvan
 AZ-ABS,AZ,Rayon,,Absheron,Abşeron
 AZ-AGA,AZ,Rayon,,Aghstafa,Ağstafa
@@ -434,6 +439,8 @@ BJ-MO,BJ,Department,,Mono,Mono
 BJ-OU,BJ,Department,,Ouémé,Ouémé
 BJ-PL,BJ,Department,,Plateau,Plateau
 BJ-ZO,BJ,Department,,Zou,Zou
+BL,BL,Overseas Collectivity,,Saint Barthélemy,Saint-Barthélemy
+BM,BM,Overseas Territory,,Bermuda,Bermuda
 BN-BE,BN,District,,Belait,Belait
 BN-BM,BN,District,,Brunei-Muara,Brunei dan Muara
 BN-TE,BN,District,,Temburong,Temburong
@@ -529,6 +536,7 @@ BT-44,BT,District,,Lhuentse,ལྷུན་རྩེ་
 BT-45,BT,District,,Samdrup Jongkhar,བསམ་གྲུབ་ལྗོངས་མཁར
 BT-GA,BT,District,,Gasa,མགར་ས་
 BT-TY,BT,District,,Trashi Yangtse,བཀྲ་ཤིས་གྱང་ཙེ་
+BV,BV,Territory,,Bouvet Island,Bouvetøya
 BW-CE,BW,District,,Central,Central
 BW-CH,BW,District,,Chobe,Chobe
 BW-FR,BW,City,,Francistown,Francistown
@@ -571,6 +579,7 @@ CA-PE,CA,Province,,Prince Edward Island,Prince Edward Island
 CA-QC,CA,Province,,Quebec,Quebec
 CA-SK,CA,Province,,Saskatchewan,Saskatchewan
 CA-YT,CA,Territory,,Yukon,Yukon
+CC,CC,Territory,,Cocos (Keeling) Islands,Cocos (Keeling) Islands
 CD-BC,CD,Province,,Central Kongo,Kongo Central
 CD-BU,CD,Province,,Lower Uele,Bas-Uélé
 CD-EQ,CD,Province,,Equator,Équateur
@@ -666,6 +675,7 @@ CI-VB,CI,District,,Bandama Valley,Vallée du Bandama
 CI-WR,CI,District,,Woroba,Woroba
 CI-YM,CI,Autonomous District,,Yamoussoukro,Yamoussoukro
 CI-ZZ,CI,District,,Zanzan,Zanzan
+CK,CK,Island Country,,Cook Islands,Cook Islands
 CL-AI,CL,Region,,Aisen,Aisén del General Carlos Ibañez del Campo
 CL-AN,CL,Region,,Antofagasta,Antofagasta
 CL-AP,CL,Region,,Arica and Parinacota,Arica y Parinacota
@@ -806,6 +816,8 @@ CV-SS,CV,Municipality,CV-S,São Salvador do Mundo,São Salvador do Mundo
 CV-SV,CV,Municipality,CV-B,São Vicente,São Vicente
 CV-TA,CV,Municipality,CV-S,Tarrafal,Tarrafal
 CV-TS,CV,Municipality,CV-B,Tarrafal de São Nicolau,Tarrafal de São Nicolau
+CW,CW,Island Country,,Curaçao,Kòrsou
+CX,CX,Territory,,Christmas Island,Christmas Island
 CY-01,CY,District,,Nicosia,Λευκωσία
 CY-02,CY,District,,Limassol,Λεμεσός
 CY-03,CY,District,,Larnaca,Λάρνακα
@@ -1184,6 +1196,7 @@ EG-SHR,EG,Governorate,,Al Sharqia,الشرقية
 EG-SIN,EG,Governorate,,North Sinai,شمال سيناء
 EG-SUZ,EG,Governorate,,Suez,السويس
 EG-WAD,EG,Governorate,,New Valley,الوادي الجديد
+EH,EH,Disputed Territory,,Western Sahara,الصحراء الغربية
 ER-AN,ER,Region,,Anseba,ዓንሰባ
 ER-DK,ER,Region,,Southern Red Sea,ደቡባዊ ቀይሕ ባሕሪ
 ER-DU,ER,Region,,Southern,ደቡብ
@@ -1310,10 +1323,12 @@ FJ-11,FJ,Province,FJ-W,Ra,Ra
 FJ-12,FJ,Province,FJ-C,Rewa,Rewa
 FJ-13,FJ,Province,FJ-C,Serua,Serua
 FJ-14,FJ,Province,FJ-C,Tailevu,Tailevu
+FK,FK,Overseas Territory,,Falkland Islands,Falkland Islands
 FM-KSA,FM,State,,Kosrae,Kosrae
 FM-PNI,FM,State,,Pohnpei,Pohnpei
 FM-TRK,FM,State,,Chuuk,Chuuk
 FM-YAP,FM,State,,Yap,Yap
+FO,FO,Autonomous Territory,,Faroe Islands,Føroyar
 FR-20R,FR,Metropolitan Collectivity with Special Status,,Corsica,Corse
 FR-ARA,FR,Metropolitan Region,,Auvergne-Rhone-Alps,Auvergne-Rhône-Alpes
 FR-BFC,FR,Metropolitan Region,,Burgundy-Free County,Bourgogne-Franche-Comté
@@ -1690,6 +1705,8 @@ GE-SJ,GE,Region,,Samtskhe-Javakheti,სამცხე-ჯავახეთი
 GE-SK,GE,Region,,Shida Kartli,შიდა ქართლი
 GE-SZ,GE,Region,,Samegrelo-Zemo Svaneti,სამეგრელო-ზემო სვანეთი
 GE-TB,GE,City,,Tbilisi,თბილისი
+GF,GF,Overseas Department and Region,,French Guiana,Guyane
+GG,GG,Crown Dependency,,Guernsey,Guernsey
 GH-AA,GH,Region,,Greater Accra,Greater Accra
 GH-AF,GH,Region,,Ahafo,Ahafo
 GH-AH,GH,Region,,Ashanti,Ashanti
@@ -1706,6 +1723,7 @@ GH-UE,GH,Region,,Upper East,Upper East
 GH-UW,GH,Region,,Upper West,Upper West
 GH-WN,GH,Region,,Western North,Western North
 GH-WP,GH,Region,,Western,Western
+GI,GI,Overseas Territory,,Gibraltar,Gibraltar
 GL-AV,GL,Municipality,,Avannaata,Avannaata Kommunia
 GL-KU,GL,Municipality,,Kujalleq,Kommune Kujalleq
 GL-QE,GL,Municipality,,Qeqqata,Qeqqata Kommunia
@@ -1758,6 +1776,7 @@ GN-SI,GN,Prefecture,GN-K,Siguiri,Siguiri
 GN-TE,GN,Prefecture,GN-D,Télimélé,Télimélé
 GN-TO,GN,Prefecture,GN-L,Tougué,Tougué
 GN-YO,GN,Prefecture,GN-N,Yomou,Yomou
+GP,GP,Overseas Department and Region,,Guadeloupe,Gwadloup
 GQ-C,GQ,Region,,Continental,Región Continental
 GQ-I,GQ,Region,,Insular,Región Insular
 GQ-AN,GQ,Province,GQ-I,Annobon,Annobón
@@ -1782,6 +1801,7 @@ GR-J,GR,Administrative Region,,Peloponnese,Πελοπόννησος
 GR-K,GR,Administrative Region,,Northern Aegean,Βόρειο Αιγαίο
 GR-L,GR,Administrative Region,,Southern Aegean,Νότιο Αιγαίο
 GR-M,GR,Administrative Region,,Crete,Κρήτη
+GS,GS,Overseas Territory,,South Georgia and the South Sandwich Islands,South Georgia and the South Sandwich Islands
 GT-01,GT,Department,,Guatemala,Guatemala
 GT-02,GT,Department,,El Progreso,El Progreso
 GT-03,GT,Department,,Sacatepéquez,Sacatepéquez
@@ -1804,6 +1824,7 @@ GT-19,GT,Department,,Zacapa,Zacapa
 GT-20,GT,Department,,Chiquimula,Chiquimula
 GT-21,GT,Department,,Jalapa,Jalapa
 GT-22,GT,Department,,Jutiapa,Jutiapa
+GU,GU,Territory,,Guam,Guåhan
 GW-L,GW,Province,,East,Leste
 GW-N,GW,Province,,North,Norte
 GW-S,GW,Province,,South,Sul
@@ -1826,6 +1847,8 @@ GY-PM,GY,Region,,Pomeroon-Supenaam,Pomeroon-Supenaam
 GY-PT,GY,Region,,Potaro-Siparuni,Potaro-Siparuni
 GY-UD,GY,Region,,Upper Demerara-Berbice,Upper Demerara-Berbice
 GY-UT,GY,Region,,Upper Takutu-Upper Essequibo,Upper Takutu-Upper Essequibo
+HK,HK,Special Administrative Region,,Hong Kong,香港
+HM,HM,External Territory,,Heard Island and McDonald Islands,Heard Island and McDonald Islands
 HN-AT,HN,Department,,Atlántida,Atlántida
 HN-CH,HN,Department,,Choluteca,Choluteca
 HN-CL,HN,Department,,Colón,Colón
@@ -1999,6 +2022,7 @@ IL-JM,IL,District,,Yerushalayim,מחוז ירושלים
 IL-M,IL,District,,HaMerkaz,מחוז המרכז
 IL-TA,IL,District,,Tel Aviv,מחוז תל אביב
 IL-Z,IL,District,,HaTsafon,מחוז הצפון
+IM,IM,Crown Dependency,,Isle of Man,Isle of Man
 IN-AN,IN,Union Territory,,Andaman and Nicobar Islands,Andaman and Nicobar Islands
 IN-AP,IN,State,,Andhra Pradesh,Andhra Pradesh
 IN-AR,IN,State,,Arunachal Pradesh,Arunāchal Pradesh
@@ -2035,6 +2059,7 @@ IN-TS,IN,State,,Telangana,Telangāna
 IN-UK,IN,State,,Uttarakhand,Uttarākhand
 IN-UP,IN,State,,Uttar Pradesh,Uttar Pradesh
 IN-WB,IN,State,,West Bengal,West Bengal
+IO,IO,Overseas Territory,,British Indian Ocean Territory,British Indian Ocean Territory
 IQ-AN,IQ,Governorate,,Anbar,الأنبار
 IQ-AR,IQ,Governorate,IQ-KR,Erbil,أربيل
 IQ-BA,IQ,Governorate,,Basra,البصرة
@@ -2283,6 +2308,7 @@ IT-VI,IT,Province,IT-34,Vicenza,Vicenza
 IT-VR,IT,Province,IT-34,Verona,Verona
 IT-VT,IT,Province,IT-62,Viterbo,Viterbo
 IT-VV,IT,Province,IT-78,Vibo Valentia,Vibo Valentia
+JE,JE,Crown Dependency,,Jersey,Jersey
 JM-01,JM,Parish,,Kingston,Kingston
 JM-02,JM,Parish,,Saint Andrew,Saint Andrew
 JM-03,JM,Parish,,Saint Thomas,Saint Thomas
@@ -2472,22 +2498,22 @@ KP-10,KP,Province,,Ryanggang,량강도
 KP-13,KP,Special City,,Rason,라선시
 KP-14,KP,Metropolitan City,,Nampo,남포시
 KP-15,KP,Metropolitan City,,Kaesong,개성시
-KR-11,KR,Special City,,Seoul,서울
-KR-26,KR,Metropolitan City,,Busan,부산시
-KR-27,KR,Metropolitan City,,Daegu,대구
-KR-28,KR,Metropolitan City,,Incheon,인천
-KR-29,KR,Metropolitan City,,Gwangju,광주광역시
-KR-30,KR,Metropolitan City,,Daejeon,대전
-KR-31,KR,Metropolitan City,,Ulsan,울산시
-KR-41,KR,Province,,Gyeonggi,경기도
-KR-42,KR,Special Self Governing Province,,Gangwon,강원특별자치도
-KR-43,KR,Province,,North Chungcheong,충청북도
-KR-44,KR,Province,,South Chungcheong,충청남도
-KR-45,KR,Province,,North Jeolla,전북특별자치도
-KR-46,KR,Province,,South Jeolla,전라남도
-KR-47,KR,Province,,North Gyeongsang,경상북도
-KR-48,KR,Province,,South Gyeongsang,경상남도
-KR-49,KR,Special Self Governing Province,,Jeju,제주도
+KR-11,KR,Special City,,Seoul-teukbyeolsi,서울
+KR-26,KR,Metropolitan City,,Busan-gwangyeoksi,부산시
+KR-27,KR,Metropolitan City,,Daegu-gwangyeoksi,대구
+KR-28,KR,Metropolitan City,,Incheon-gwangyeoksi,인천
+KR-29,KR,Metropolitan City,,Gwangju-gwangyeoksi,광주광역시
+KR-30,KR,Metropolitan City,,Daejeon-gwangyeoksi,대전
+KR-31,KR,Metropolitan City,,Ulsan-gwangyeoksi,울산시
+KR-41,KR,Province,,Gyeonggi-do,경기도
+KR-42,KR,Special Self Governing Province,,Gangwon-teukbyeoljachido,강원특별자치도
+KR-43,KR,Province,,Chungcheongbuk-do,충청북도
+KR-44,KR,Province,,Chungcheongnam-do,충청남도
+KR-45,KR,Province,,Jeollabuk-do,전북특별자치도
+KR-46,KR,Province,,Jeollanam-do,전라남도
+KR-47,KR,Province,,Gyeongsangbuk-do,경상북도
+KR-48,KR,Province,,Gyeongsangnam-do,경상남도
+KR-49,KR,Special Self Governing Province,,Jeju-teukbyeoljachido,제주도
 KR-50,KR,Special Self Governing City,,Sejong,세종
 KW-AH,KW,Governorate,,Ahmadi,الأحمدي
 KW-FA,KW,Governorate,,Farwaniya,الفروانية
@@ -2495,6 +2521,7 @@ KW-HA,KW,Governorate,,Hawalli,حولي
 KW-JA,KW,Governorate,,Jahra,الجهراء
 KW-KU,KW,Governorate,,Capital,العاصمة
 KW-MU,KW,Governorate,,Mubarak Al-Kabeer,مبارك الكبير
+KY,KY,Overseas Territory,,Cayman Islands,Cayman Islands
 KZ-10,KZ,Region,,Abai,Абай облысы
 KZ-11,KZ,Region,,Akmola,Ақмола облысы
 KZ-15,KZ,Region,,Aktobe,Ақтөбе облысы
@@ -2934,6 +2961,7 @@ ME-22,ME,Municipality,,Gusinje,Гусиње
 ME-23,ME,Municipality,,Petnjica,Петњица
 ME-24,ME,Municipality,,Tuzi,Тузи
 ME-25,ME,Municipality,,Zeta,Зета
+MF,MF,Overseas Collectivity,,Saint Martin,Saint-Martin
 MG-A,MG,Province,,Toamasina,Toamasina
 MG-D,MG,Province,,Antsiranana,Antsiranana
 MG-F,MG,Province,,Fianarantsoa,Fianarantsoa
@@ -3094,6 +3122,9 @@ MN-067,MN,Province,,Bulgan,Булган
 MN-069,MN,Province,,Bayanhongor,Баянхонгор
 MN-071,MN,Province,,Bayan-Ölgiy,Баян-Өлгий
 MN-073,MN,Province,,Arhangay,Архангай
+MO,MO,Special Administrative Region,,Macao,澳門
+MP,MP,Unincorporated Territory,,Northern Mariana Islands,Northern Mariana Islands
+MQ,MQ,Overseas Department and Region,,Martinique,Matinik
 MR-01,MR,Region,,Eastern Basin,الحوض الشرقي
 MR-02,MR,Region,,Western Basin,الحوض الغربي
 MR-03,MR,Region,,Assaba,لعصابة
@@ -3109,6 +3140,7 @@ MR-12,MR,Region,,Inchiri,إنشيري
 MR-13,MR,Region,,West Nouakchott,انواكشوط الغربية
 MR-14,MR,Region,,North Nouakchott,انواكشوط الشمالية
 MR-15,MR,Region,,South Nouakchott,انواكشوط الجنوبية
+MS,MS,Overseas Territory,,Montserrat,Montserrat
 MT-01,MT,Local Council,,Attard,Ħ'Attard
 MT-02,MT,Local Council,,Balzan,Ħal Balzan
 MT-03,MT,Local Council,,Birgu,Il-Birgu
@@ -3314,6 +3346,7 @@ NA-ON,NA,Region,,Oshana,Oshana
 NA-OS,NA,Region,,Omusati,Omusati
 NA-OT,NA,Region,,Oshikoto,Oshikoto
 NA-OW,NA,Region,,Ohangwena,Ohangwena
+NC,NC,Sui Generis Collectivity,,New Caledonia,Nouvelle-Calédonie
 NE-1,NE,Region,,Agadez,Agadez
 NE-2,NE,Region,,Diffa,Diffa
 NE-3,NE,Region,,Dosso,Dosso
@@ -3322,6 +3355,7 @@ NE-5,NE,Region,,Tahoua,Tahoua
 NE-6,NE,Region,,Tillabéri,Tillabéri
 NE-7,NE,Region,,Zinder,Zinder
 NE-8,NE,Urban Community,,Niamey,Niamey
+NF,NF,External Territory,,Norfolk Island,Norfolk Island
 NG-AB,NG,State,,Abia,Abia
 NG-AD,NG,State,,Adamawa,Adamawa
 NG-AK,NG,State,,Akwa Ibom,Akwa Ibom
@@ -3428,6 +3462,7 @@ NR-11,NR,District,,Meneng,Meneng
 NR-12,NR,District,,Nibok,Nibok
 NR-13,NR,District,,Uaboe,Uaboe
 NR-14,NR,District,,Yaren,Yaren
+NU,NU,Island Country,,Niue,Niue
 NZ-AUK,NZ,Region,,Auckland,Auckland
 NZ-BOP,NZ,Region,,Bay of Plenty,Bay of Plenty
 NZ-CAN,NZ,Region,,Canterbury,Canterbury
@@ -3496,6 +3531,7 @@ PE-SAM,PE,Region,,San Martín,San Martín
 PE-TAC,PE,Region,,Tacna,Tacna
 PE-TUM,PE,Region,,Tumbes,Tumbes
 PE-UCA,PE,Region,,Ucayali,Ucayali
+PF,PF,Overseas Collectivity,,French Polynesia,Polynésie française
 PG-CPK,PG,Province,,Chimbu,Chimbu
 PG-CPM,PG,Province,,Central,Central
 PG-EBR,PG,Province,,East New Britain,East New Britain
@@ -3640,6 +3676,9 @@ PL-26,PL,Voivodeship,,Holy Cross,Świętokrzyskie
 PL-28,PL,Voivodeship,,Warmia-Masuria,Warmińsko-Mazurskie
 PL-30,PL,Voivodeship,,Greater Poland,Wielkopolskie
 PL-32,PL,Voivodeship,,West Pomerania,Zachodniopomorskie
+PM,PM,Overseas Collectivity,,Saint Pierre and Miquelon,Saint-Pierre-et-Miquelon
+PN,PN,Overseas Territory,,Pitcairn,Pitcairn
+PR,PR,Territory,,Puerto Rico,Puerto Rico
 PS-BTH,PS,Governorate,,Bethlehem,بيت لحم
 PS-DEB,PS,Governorate,,Deir El Balah,دير البلح
 PS-GZA,PS,Governorate,,Gaza,غزة
@@ -3718,6 +3757,7 @@ QA-SH,QA,Municipality,,Shahaniya,الشحانية
 QA-US,QA,Municipality,,Umm Salal,أم صلال
 QA-WA,QA,Municipality,,Wakra,الوكرة
 QA-ZA,QA,Municipality,,Daayen,الضعاين
+RE,RE,Overseas Department and Region,,Réunion,La Réunion
 RO-AB,RO,Department,,Alba,Alba
 RO-AG,RO,Department,,Argeș,Argeș
 RO-AR,RO,Department,,Arad,Arad
@@ -3969,6 +4009,7 @@ SE-W,SE,County,,Dalarna,Dalarnas län
 SE-X,SE,County,,Gävleborg,Gävleborgs län
 SE-Y,SE,County,,Western Northland,Västernorrlands län
 SE-Z,SE,County,,Jämtland,Jämtlands län
+SG,SG,Country,,Singapore,Singapore
 SG-01,SG,District,,Central Singapore,Central Singapore
 SG-02,SG,District,,North East,North East
 SG-03,SG,District,,North West,North West
@@ -4188,7 +4229,8 @@ SI-209,SI,Municipality,,Rečica ob Savinji,Rečica ob Savinji
 SI-210,SI,Municipality,,Sveti Jurij v Slovenskih goricah,Sveti Jurij v Slovenskih goricah
 SI-211,SI,Municipality,,Šentrupert,Šentrupert
 SI-212,SI,Municipality,,Mirna,Mirna
-SI-213,SI,MunicipalityAncarano,,Ankaran,Ankaran
+SI-213,SI,Municipality,,Ankaran,Ankaran
+SJ,SJ,Territory,,Svalbard and Jan Mayen,Svalbard og Jan Mayen
 SK-BC,SK,Region,,Banská Bystrica,Banskobystrický kraj
 SK-BL,SK,Region,,Bratislava,Bratislavský kraj
 SK-KI,SK,Region,,Košice,Košický kraj
@@ -4284,6 +4326,7 @@ SV-SS,SV,Department,,San Salvador,San Salvador
 SV-SV,SV,Department,,San Vicente,San Vicente
 SV-UN,SV,Department,,La Unión,La Unión
 SV-US,SV,Department,,Usulután,Usulután
+SX,SX,Constituent Country,,Sint Maarten,Sint Maarten
 SY-DI,SY,Province,,Damascus,دمشق
 SY-DR,SY,Province,,Daraa,درعا
 SY-DY,SY,Province,,Deir Ezzor,دير الزور
@@ -4302,6 +4345,7 @@ SZ-HH,SZ,Region,,Hhohho,Hhohho
 SZ-LU,SZ,Region,,Lubombo,Lubombo
 SZ-MA,SZ,Region,,Manzini,Manzini
 SZ-SH,SZ,Region,,Shiselweni,Shiselweni
+TC,TC,Overseas Territory,,Turks and Caicos Islands,Turks and Caicos Islands
 TD-BA,TD,Province,,Batha,Al Baţḩā’
 TD-BG,TD,Province,,Bahr El Gazal,Baḩr al Ghazāl
 TD-BO,TD,Province,,Borkou,Būrkū
@@ -4325,6 +4369,7 @@ TD-SI,TD,Province,,Sila,Sīlā
 TD-TA,TD,Province,,Tandjile,Tānjīlī
 TD-TI,TD,Province,,Tibesti,Tibastī
 TD-WF,TD,Province,,Wadi Fira,Wādī Fīrā’
+TF,TF,Overseas Territory,,French Southern and Antarctic Lands,Terres australes et antarctiques françaises
 TG-C,TG,Region,,Central,Centrale
 TG-K,TG,Region,,Kara,Kara
 TG-M,TG,Region,,Maritime,Maritime
@@ -4413,6 +4458,7 @@ TJ-GB,TJ,Autonomous Region,,Gorno-Badakhshan,Кӯҳистони Бадахшон
 TJ-KT,TJ,Region,,Khatlon,Хатлон
 TJ-RA,TJ,Districts Under Republic Administration,,Districts under government jurisdiction,Ноҳияҳои тобеи ҷумҳурӣ
 TJ-SU,TJ,Region,,Sughd,Суғд
+TK,TK,Dependent Territory,,Tokelau,Tokelau
 TL-AL,TL,Municipality,,Aileu,Aileu
 TL-AN,TL,Municipality,,Ainaro,Ainaro
 TL-BA,TL,Municipality,,Baucau,Baucau
@@ -4883,6 +4929,7 @@ UZ-SU,UZ,Region,,Surkhondaryo,Сурхондарё
 UZ-TK,UZ,City,,Tashkent City,Тошкент
 UZ-TO,UZ,Region,,Tashkent,Тошкент
 UZ-XO,UZ,Region,,Khorezm,Xorazm
+VA,VA,Sovereign Country,,Vatican City,Stato della Città del Vaticano
 VC-01,VC,Parish,,Charlotte,Charlotte
 VC-02,VC,Parish,,Saint Andrew,Saint Andrew
 VC-03,VC,Parish,,Saint David,Saint David
@@ -4914,6 +4961,8 @@ VE-W,VE,Federal Dependency,,Federal Dependencies,Dependencias Federales
 VE-X,VE,State,,La Guaira,La Guaira
 VE-Y,VE,State,,Amacuro Delta,Delta Amacuro
 VE-Z,VE,State,,Amazonia,Amazonas
+VG,VG,Overseas Territory,,British Virgin Islands,British Virgin Islands
+VI,VI,Territory,,United States Virgin Islands,United States Virgin Islands
 VN-01,VN,Province,,Lai Châu,Lai Châu
 VN-02,VN,Province,,Lào Cai,Lào Cai
 VN-03,VN,Province,,Hà Giang,Hà Giang
@@ -5019,6 +5068,7 @@ YE-SH,YE,Governorate,,Shabwah,شَبْوَة
 YE-SN,YE,Governorate,,Sanaa,صَنْعَاء
 YE-SU,YE,Governorate,,Socotra,سقطرى
 YE-TA,YE,Governorate,,Taiz,تَعِزّ
+YT,YT,Overseas Department and Region,,Mayotte,Mayotte
 ZA-EC,ZA,Province,,Eastern Cape,Oos-Kaap
 ZA-FS,ZA,Province,,Free State,Vrystaat
 ZA-GP,ZA,Province,,Gauteng,Gauteng

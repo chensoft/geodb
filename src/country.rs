@@ -4738,7 +4738,7 @@ impl Country {
             Self::ML => "Bamako",
             Self::MM => "Naypyidaw",
             Self::MN => "Ulaanbaatar",
-            Self::MO => "Macau",
+            Self::MO => "Macao",
             Self::MP => "Saipan",
             Self::MQ => "Fort-de-France",
             Self::MR => "Nouakchott",
