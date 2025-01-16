@@ -2804,7 +2804,7 @@ impl Country {
     }
 
     /// Main official language codes
-    pub const fn language(&self) -> &'static [crate::Language] {
+    pub const fn languages(&self) -> &'static [crate::Language] {
         match self {
             Self::AD => &[crate::Language::CA_AD, ],
             Self::AE => &[crate::Language::AR_AE, ],

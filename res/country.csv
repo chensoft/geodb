@@ -1,4 +1,4 @@
-code2,code3,numeric,continent,is_eu,is_eea,is_un,language,currency,dial,tld,flag,name,official,capital
+code2,code3,numeric,continent,is_eu,is_eea,is_un,languages,currency,dial,tld,flag,name,official,capital
 AD,AND,020,EU,false,false,true,ca-AD,EUR,+376,.ad,🇦🇩,Andorra,Principality of Andorra,Andorra la Vella
 AE,ARE,784,AS,false,false,true,ar-AE,AED,+971,.ae,🇦🇪,UAE,United Arab Emirates,Abu Dhabi
 AF,AFG,004,AS,false,false,true,ps-AF,AFN,+93,.af,🇦🇫,Afghanistan,Islamic Republic of Afghanistan,Kabul
