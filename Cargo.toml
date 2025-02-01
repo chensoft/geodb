@@ -1,6 +1,6 @@
 [package]
 name = "geodb"
-version = "0.1.0"
+version = "0.2.0"
 edition = "2021"
 authors = ["Jian Chen <admin@chensoft.com>"]
 license = "MIT"
@@ -9,17 +9,13 @@ documentation = "https://docs.rs/geodb"
 repository = "https://github.com/chensoft/geodb"
 readme = "README.md"
 keywords = ["iso3166-1", "iso3166-2", "iso4217", "bcp47"]
-build = "gen/build.rs"
-
-[features]
-build = []
 
 [build-dependencies]
 csv = "1.3"
 serde = { version = "1", features = ["derive"] }
 anyhow = "1"
 indexmap = { version = "2.7", features = ["serde"] }
-handlebars = "6.2"
+handlebars = "6.3"
 serde_json = "1"
 
 [dependencies]

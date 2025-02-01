@@ -1,18 +1,12 @@
 #![doc = include_str!("../README.md")]
-#![allow(clippy::needless_doctest_main)]
+#![allow(non_camel_case_types,clippy::needless_doctest_main)]
 #![deny(clippy::unwrap_used,clippy::expect_used,clippy::let_underscore_future)]
 
 #[macro_use] extern crate serde;
 #[macro_use] extern crate strum;
 
-pub mod continent;
-pub mod country;
-pub mod currency;
-pub mod language;
-pub mod subdivision;
-
-pub use continent::*;
-pub use country::*;
-pub use currency::*;
-pub use language::*;
-pub use subdivision::*;
+include!("../out/continent.rs");
+include!("../out/country.rs");
+include!("../out/currency.rs");
+include!("../out/language.rs");
+include!("../out/subdivision.rs");

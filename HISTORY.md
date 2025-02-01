@@ -1,3 +1,11 @@
+## [0.2.0] - 2025-xx-xx
+
+### Changed
+
+- Update datasets
+- Ignore generated files
+- Rename language to languages
+
 ## [0.1.0] - 2024-12-25
 
 ### Added
