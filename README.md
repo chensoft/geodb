@@ -41,7 +41,7 @@ fn main() {
     assert_eq!(Country::from_code("US"), Some(Country::US));
     assert_eq!(Country::from_code("US"), Country::from_code("USA"));
     assert_eq!(Country::US.continent(), Continent::NA);
-    assert_eq!(Country::US.language(), &[Language::EN_US]);
+    assert_eq!(Country::US.languages(), &[Language::EN_US]);
     assert_eq!(Country::US.currency(), Currency::USD);
     assert_eq!(Country::US.dial(), "+1");
     assert_eq!(Country::US.tld(), ".us");
@@ -51,7 +51,7 @@ fn main() {
     assert_eq!(Country::from_code("CN"), Some(Country::CN));
     assert_eq!(Country::from_code("CN"), Country::from_code("CHN"));
     assert_eq!(Country::CN.continent(), Continent::AS);
-    assert_eq!(Country::CN.language(), &[Language::ZH_CN]);
+    assert_eq!(Country::CN.languages(), &[Language::ZH_CN]);
     assert_eq!(Country::CN.currency(), Currency::CNY);
     assert_eq!(Country::CN.dial(), "+86");
     assert_eq!(Country::CN.tld(), ".cn");
